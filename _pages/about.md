@@ -33,7 +33,7 @@ arXiv preprint arXiv:2406.06562<br>
 [<b><span style="color:blue">Wind Energy</span></b>] 
 <span style="color:#527bbd">MTTLA-DLW: Multi-task TCN-Bi-LSTM Transfer Learning Approach with Dynamic Loss Weights based on Feature Correlations of the Training Samples for Short-term Wind Power Prediction</span> <br>
 <b>Jifeng Song</b>, Xiaosheng Peng, Jiajiong Song, Zimin Yang, Bo Wang, Jianfeng Che <br>
-[[paper]](https://ieeexplore.ieee.org/document/9949665](https://ieeexplore.ieee.org/document/9949665)
+[[paper]](https://ieeexplore.ieee.org/document/9949665)
 
 [<b><span style="color:blue">IEEE/IAS I&CPS Asia'22</span></b>] 
 <span style="color:#527bbd">A Novel Wind Power Prediction Approach for Extreme Wind Conditions Based on TCN-LSTM and Transfer Learning</span> <br>
