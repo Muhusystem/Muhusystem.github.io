@@ -7,10 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-About Me
-Hi, I am Jifeng Song, a Ph.D. student in Electrical and Computer Engineering from University of Pittsburgh. I received my B.E. from Huazhong University of Science and Technology (HUST). I currently focus on efficient machine learning and system. During my undergraduate time, I focuses on transfer learning application in renewable energy.
+Hi, I am Jifeng Song, a Ph.D. student in Electrical and Computer Engineering from [University of Pittsburgh](https://www.pitt.edu/). I received my B.E. from [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/). I currently focus on efficient machine learning and system. During my undergraduate time, I focused on transfer learning application in renewable energy.
 
-Here is my [CV](http://Muhusystem.github.io/files/CV_JifengSong.pdf). My current work is enabling efficient inference by achieving sparse activation in LLMs and Small Language Models (SLMs) like Phi-2, Mobillama-0.5B and Gemma-2B models. To search for an effcient model struture, I also apply some eXplainable AI (XAI) methods like Integrated Gradient (IG), SNIP, Fisher information and proposed the Corrected GxO scores for neuron importance measurement. We also provide theoretical explanation for the efficiency of the proposed Corrected attributions scores. 
+Here is my [CV](http://Muhusystem.github.io/files/CV_JifengSong.pdf). My current work is enabling efficient inference by achieving sparse activation in LLMs and Small Language Models (SLMs) like Phi-2, Mobillama-0.5B, and Gemma-2B models. To search for an efficient model structure, I also apply some eXplainable AI (XAI) methods like Integrated Gradient (IG), SNIP, Fisher information, and proposed the Corrected GxO scores for neuron importance measurement. We also provide a theoretical explanation for the efficiency of the proposed corrected attribution scores.
 
 Education
 ====
@@ -21,7 +20,7 @@ Education
 Publications
 ====
 
-### AI system
+### AI System
 
 [<b><span style="color:blue">arXiv</span></b>]
 <span style="color:#527bbd">Achieving Sparse Activation in Small Language Models</span><br> <b>Jifeng Song</b>, Kai Huang, Xiangyu Yin, Boyuan Yang, Wei Gao <br>
@@ -40,6 +39,3 @@ arXiv preprint arXiv:2406.06562<br>
 <span style="color:#527bbd">A Novel Wind Power Prediction Approach for Extreme Wind Conditions Based on TCN-LSTM and Transfer Learning</span> <br>
 <b>Jifeng Song</b>, Xiaosheng Peng, Zimin Yang, Peijie Wei, Bo Wang, Zheng Wang <br>
 [[paper]](https://ieeexplore.ieee.org/document/9949665)
-
-<!--   -->
-
