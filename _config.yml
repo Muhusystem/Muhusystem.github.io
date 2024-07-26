@@ -22,9 +22,9 @@ repository               : "Muhusystem/Muhusystem.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Jifeng Song"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD student in Electrical and Computer Engineering"
   location         : "United States"
   employer         : "University of Pittsburgh"
   uri              : # URL
