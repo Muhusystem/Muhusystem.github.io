@@ -23,16 +23,17 @@ Publications
 
 ### AI system
 
-[<b><span style="color:black">arXiv</span></b>]
-<span style="color:#527bbd">Achieving Sparse Activation in Small Language Models</span><br> Jifeng Song, <b>Kai Huang</b>, Xiangyu Yin, Boyuan Yang, Wei Gao <br>
+[<b><span style="color:blue">arXiv</span></b>]
+<span style="color:#527bbd">Achieving Sparse Activation in Small Language Models</span><br> <b>Jifeng Song</b>, Kai Huang, Xiangyu Yin, Boyuan Yang, Wei Gao <br>
 arXiv preprint arXiv:2406.06562<br>
 [[paper]](https://arxiv.org/pdf/2406.06562)
 [[code]](https://github.com/pittisl/Sparse-Activation)
 
 ### AI for Renewable Energy
-[<b><span style="color:black">IEEE/IAS I&CPS Asia'22</span></b>] 
+
+[<b><span style="color:blue">IEEE/IAS I&CPS Asia'22</span></b>] 
 <span style="color:#527bbd">A Novel Wind Power Prediction Approach for Extreme Wind Conditions Based on TCN-LSTM and Transfer Learning</span> <br>
-</b>Jifeng Song<b>, Xiaosheng Peng, Zimin Yang, Peijie Wei, Bo Wang, Zheng Wang <br>
-[[paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568437](https://ieeexplore.ieee.org/document/9949665)
+<b>Jifeng Song</b>, Xiaosheng Peng, Zimin Yang, Peijie Wei, Bo Wang, Zheng Wang <br>
+[[paper]](https://ieeexplore.ieee.org/document/9949665)
 
 
