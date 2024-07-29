@@ -28,6 +28,7 @@ arXiv preprint arXiv:2406.06562<br>
 [[paper]](https://arxiv.org/pdf/2406.06562)
 [[code]](https://github.com/pittisl/Sparse-Activation)
 
+<!--
 ### AI for Renewable Energy
 
 [<b><span style="color:blue">Wind Energy (IF=4.0)</span></b>]
@@ -39,3 +40,4 @@ arXiv preprint arXiv:2406.06562<br>
 <span style="color:#527bbd">A Novel Wind Power Prediction Approach for Extreme Wind Conditions Based on TCN-LSTM and Transfer Learning</span> <br>
 <b>Jifeng Song</b>, Xiaosheng Peng, Zimin Yang, Peijie Wei, Bo Wang, Zheng Wang <br>
 [[paper]](https://ieeexplore.ieee.org/document/9949665)
+-->
