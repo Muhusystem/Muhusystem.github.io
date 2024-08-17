@@ -6,6 +6,3 @@ permalink: /talks/2024-03-demand-paging-sparse-activation
 venue: "Elijah Group Meeting, Dept. of Computer Science, Carnegie Mellon University"
 location: "Pittsburgh, Pennsylvania"
 ---
-
-
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
