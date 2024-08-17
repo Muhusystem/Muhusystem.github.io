@@ -4,7 +4,6 @@ collection: talks
 type: "Talk"
 permalink: /talks/2024-03-demand-paging-sparse-activation
 venue: "Elijah Group Meeting, Dept. of Computer Science, Carnegie Mellon University"
-date: 2024-03-11
 location: "Pittsburgh, Pennsylvania"
 ---
 
