@@ -1,11 +1,11 @@
 ---
-title: "Demand Paging towards Sparse Activation in Small Language Models"
+title: "A Novel Wind Power Prediction Approach for Extreme Wind Conditions Based on TCN-LSTM and Transfer Learning"
 collection: talks
 type: "Talk"
-permalink: /talks/2024-03-demand-paging-sparse-activation
-venue: "Elijah Group Meeting, Dept. of Computer Science, Carnegie Mellon University"
-date: 2024-03
-location: "Pittsburgh, Pennsylvania"
+permalink: /talks/2022-07-novel-wind-power-prediction
+venue: "2022 IEEE/IAS Industrial and Commercial Power System Asia (I&CPS Asia) Conference"
+date: 2022-07
+location: "Shanghai, China"
 ---
 
 
