@@ -7,5 +7,3 @@ venue: "2022 IEEE/IAS Industrial and Commercial Power System Asia (I&CPS Asia) C
 location: "Shanghai, China"
 ---
 
-
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
