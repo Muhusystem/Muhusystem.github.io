@@ -9,13 +9,13 @@ redirect_from:
 
 Hi, I am Jifeng Song, a Ph.D. student in Electrical and Computer Engineering from [University of Pittsburgh](https://www.pitt.edu/). I received my B.E. from [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/). I currently focus on efficient machine learning and system. During my undergraduate time, I focused on transfer learning application in renewable energy.
 
-Here is my [CV](http://Muhusystem.github.io/files/CV_JifengSong.pdf). My current work is enabling efficient inference by achieving sparse activation in LLMs and Small Language Models (SLMs) like Phi-2, Mobillama-0.5B, and Gemma-2B models. To search for an efficient model structure, I also apply some eXplainable AI (XAI) methods like Integrated Gradient (IG), SNIP, Fisher information, and proposed the Corrected GxO scores for neuron importance measurement. We also provide a theoretical explanation for the efficiency of the proposed corrected attribution scores.
+Here is my [CV](http://Muhusystem.github.io/files/CV_JifengSong.pdf). My current work is enabling <b>efficient inference</b> by achieving sparse activation in LLMs and <b>Small Language Models (SLMs)</b> like Phi-2, Mobillama-0.5B, and Gemma-2B models. To search for an efficient model structure, I also apply some <b>eXplainable AI (XAI)</b> methods like Integrated Gradient (IG), SNIP, Fisher information, and proposed the Corrected GxO scores for neuron importance measurement. We also provide a theoretical explanation for the efficiency of the proposed corrected attribution scores.
 
 Education
 ====
 <b>Ph.D. student</b>, Electrical and Computer Engineering, University of Pittsburgh, Sept. 2023 - Current
 
-<b>B.E.</b>, Electrical Engineering and Automation, Huazhong University of Science and Technology (HUST), Sept. 2019 - July 2023 &vert; <b>GPA: 3.77/4<b>
+<b>B.E.</b>, Electrical Engineering and Automation, Huazhong University of Science and Technology (HUST), Sept. 2019 - July 2023 &vert; <b>GPA: 3.77/4</b>
 
 Publications
 ====
