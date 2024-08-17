@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2022-07-novel-wind-power-prediction
 venue: "2022 IEEE/IAS Industrial and Commercial Power System Asia (I&CPS Asia) Conference"
-date: 2022-07
+date: 2022-07-10
 location: "Shanghai, China"
 ---
 
