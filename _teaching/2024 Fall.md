@@ -7,9 +7,6 @@ venue: "Dept. of Electrical and Computer Engineering, University of Pittsburgh"
 location: "Pittsburgh, Pennsylvania"
 ---
 
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
 Heading 1
 ======
 
