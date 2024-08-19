@@ -34,12 +34,13 @@ arXiv preprint arXiv:2406.06562<br>
 [<b><span style="color:blue">Wind Energy</span></b>]
 <span style="color:#527bbd">MTTLA-DLW: Multi-task TCN-Bi-LSTM Transfer Learning Approach with Dynamic Loss Weights based on Feature Correlations of the Training Samples for Short-term Wind Power Prediction</span> <br>
 <b>Jifeng Song</b>, Xiaosheng Peng, Jiajiong Song, Zimin Yang, Bo Wang, Jianfeng Che <br>
-Wind Energy, 2024 <b>(IF=4.0, JCR Q1)</b> <br>
+Wind Energy, 2024 <br> 
+<b>Impact Factor=4.0, JCR Q1</b> <br>
 [[paper]](https://doi.org/10.1002/we.2909)
 
 [<b><span style="color:blue">IEEE/IAS I&CPS Asia'22</span></b>] 
 <span style="color:#527bbd">A Novel Wind Power Prediction Approach for Extreme Wind Conditions Based on TCN-LSTM and Transfer Learning</span> <br>
-<b>Jifeng Song</b>, Xiaosheng Peng, Zimin Yang, Peijie Wei, Bo Wang, Zheng Wang <be>
+<b>Jifeng Song</b>, Xiaosheng Peng, Zimin Yang, Peijie Wei, Bo Wang, Zheng Wang <br>
 2022 IEEE/IAS Industrial and Commercial Power System Asia (I&CPS Asia) <br>
 [[paper]](https://ieeexplore.ieee.org/document/9949665)
 
