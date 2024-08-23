@@ -11,7 +11,7 @@ arXiv preprint arXiv:2406.06562<br>
 [[paper]](https://arxiv.org/pdf/2406.06562)
 [[code]](https://github.com/pittisl/Sparse-Activation)
 
-<!--
+
 [<b><span style="color:blue">Wind Energy</span></b>]
 <span style="color:#527bbd">MTTLA-DLW: Multi-task TCN-Bi-LSTM Transfer Learning Approach with Dynamic Loss Weights based on Feature Correlations of the Training Samples for Short-term Wind Power Prediction</span> <br>
 <b>Jifeng Song</b>, Xiaosheng Peng, Jiajiong Song, Zimin Yang, Bo Wang, Jianfeng Che <br>
@@ -24,4 +24,4 @@ Impact Factor=4.0, JCR Q1 <br>
 <b>Jifeng Song</b>, Xiaosheng Peng, Zimin Yang, Peijie Wei, Bo Wang, Zheng Wang <br>
 2022 IEEE/IAS Industrial and Commercial Power System Asia (I&CPS Asia) <br>
 [[paper]](https://ieeexplore.ieee.org/document/9949665)
--->
+
