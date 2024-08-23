@@ -20,7 +20,7 @@ Education
 Publications
 ====
 
-### AI System
+### Efficient AI
 
 [<b><span style="color:blue">arXiv</span></b>]
 <span style="color:#527bbd">Achieving Sparse Activation in Small Language Models</span><br> <b>Jifeng Song</b>, Kai Huang, Xiangyu Yin, Boyuan Yang, Wei Gao <br>
