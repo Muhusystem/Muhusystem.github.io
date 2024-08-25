@@ -28,7 +28,7 @@ arXiv preprint arXiv:2406.06562<br>
 [[paper]](https://arxiv.org/pdf/2406.06562)
 [[code]](https://github.com/pittisl/Sparse-Activation)
 
-
+<!--
 ### AI for Renewable Energy
 
 [<b><span style="color:blue">Wind Energy</span></b>]
@@ -43,4 +43,4 @@ Impact Factor=4.0, JCR Q1 <br>
 <b>Jifeng Song</b>, Xiaosheng Peng, Zimin Yang, Peijie Wei, Bo Wang, Zheng Wang <br>
 2022 IEEE/IAS Industrial and Commercial Power System Asia (I&CPS Asia) <br>
 [[paper]](https://ieeexplore.ieee.org/document/9949665)
-
+-->
