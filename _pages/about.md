@@ -29,6 +29,7 @@ arXiv preprint arXiv:2406.06562<br>
 [[code]](https://github.com/pittisl/Sparse-Activation)
 
 
+
 ### AI for Renewable Energy
 
 [<b><span style="color:blue">Wind Energy</span></b>]
