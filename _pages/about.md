@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Jifeng Song, a Ph.D. student in Electrical and Computer Engineering from [University of Pittsburgh](https://www.pitt.edu/), advised by Prof. Zhi-Hong Mao(https://sites.pitt.edu/~zhm4/). I received my B.E. from [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/). I currently focus on efficient machine learning. During my undergraduate time, I focused on transfer learning applications in renewable energy.
+Hi, I am Jifeng Song, a Ph.D. student in Electrical and Computer Engineering from [University of Pittsburgh](https://www.pitt.edu/), advised by [Prof. Zhi-Hong Mao](https://sites.pitt.edu/~zhm4/). I received my B.E. from [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/). I currently focus on efficient machine learning. During my undergraduate time, I focused on transfer learning applications in renewable energy.
 
 Here is my [CV](http://Muhusystem.github.io/files/CV_JifengSong.pdf). My current work is enabling <b>efficient inference</b> by achieving sparse activation in LLMs and <b>Small Language Models (SLMs)</b> like Phi-2, Mobillama-0.5B, and Gemma-2B models. To achieve effective and efficient activation sparsity, we proposed a novel attribution metric named Corrected GxO for neuron importance assessment based on <b>eXplainable AI (XAI)</b>. The Corrected GxO is more effective than traditional attribution metrics, including Gradient multiple Output Magnitude (GxO), Integrated Gradients (IG), SNIP, and Fisher information, and we also present a theoretical framework supporting its superiority.
 
