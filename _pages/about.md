@@ -31,7 +31,7 @@ arXiv preprint arXiv:2406.06562<br>
 
 
 
-### AI for Renewable Energy
+### AI for Energy
 
 [<b><span style="color:blue">Wind Energy</span></b>]
 <span style="color:#527bbd">MTTLA-DLW: Multi-task TCN-Bi-LSTM Transfer Learning Approach with Dynamic Loss Weights based on Feature Correlations of the Training Samples for Short-term Wind Power Prediction</span> <br>
