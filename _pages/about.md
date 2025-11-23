@@ -8,18 +8,32 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Jifeng Song, a Ph.D. student in Electrical and Computer Engineering from [University of Pittsburgh](https://www.pitt.edu/), advised by [Prof. Zhi-Hong Mao](https://sites.pitt.edu/~zhm4/). I received my B.E. from [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/). I currently focus on efficient machine learning. During my undergraduate time, I focused on transfer learning applications in renewable energy.
+Hi, I am Jifeng Song, a Ph.D. student in Electrical and Computer Engineering at the [University of Pittsburgh](https://www.pitt.edu/), co-advised by [Prof. Yufei Huang](https://www.sci.pitt.edu/people/yufei-huang) and [Prof. Zhi-Hong Mao](https://sites.pitt.edu/~zhm4/). My current research focuses on multimodal large language models and AI for biomedical science, with broader interests in AI for Science, explainable AI, and efficient large language models. I received my B.E. in Electrical Engineering and Automation from [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/), where I worked on transfer learning for renewable energy forecasting.
 
-Here is my [CV](http://Muhusystem.github.io/files/CV_JifengSong.pdf). My current work is enabling <b>efficient inference</b> by achieving sparse activation in LLMs and <b>Small Language Models (SLMs)</b> like Phi-2, Mobillama-0.5B, and Gemma-2B models. To achieve effective and efficient activation sparsity, we proposed a novel attribution metric named Corrected GxO for neuron importance assessment based on <b>eXplainable AI (XAI)</b>. The Corrected GxO is more effective than traditional attribution metrics, including Gradient multiple Output Magnitude (GxO), Integrated Gradients (IG), SNIP, and Fisher information, and we also present a theoretical framework supporting its superiority.
+Here is my [CV](http://Muhusystem.github.io/files/CV_JifengSong.pdf). My current work focuses on <b>multimodal large language models</b> and <b>AI for scientific discovery</b>, especially <b>domain-specific vision–language models for biomedical research</b>. I am training <b>multimodal biomedical large models</b> for cancer research, particularly in <b>spatial transcriptomics</b> and <b>single-cell</b> applications, covering tasks such as multimodal retrieval, question answering, and other <b>text</b> and <b>image generation</b> tasks.
+
 
 Education
 ====
-<b>Ph.D. student</b>, Electrical and Computer Engineering, University of Pittsburgh, Sept. 2023 - Current
+<b>Ph.D. student</b>, Electrical and Computer Engineering, University of Pittsburgh, Sept. 2023 - Present
+
+<b>M.S. Research</b>, Electrical and Computer Engineering, University of Pittsburgh, Sept. 2023 - August 2025 &#124; <b>GPA: 3.83/4</b>
 
 <b>B.E.</b>, Electrical Engineering and Automation, Huazhong University of Science and Technology (HUST), Sept. 2019 - July 2023 &#124; <b>GPA: 3.77/4</b>
 
 Publications
 ====
+
+### Multimodal Large Language Models
+
+[<b><span style="color:blue">EMNLP&nbsp;Findings</span></b>]
+<span style="color:#527bbd">FigEx: Aligned Extraction of Scientific Figures and Captions</span><br>
+<b>Jifeng Song</b>, Arun Das, Ge Cui, Yufei Huang<br>
+Findings of the Association for Computational Linguistics: EMNLP&nbsp;2025<br>
+[[paper]](https://aclanthology.org/2025.findings-emnlp.899/)
+[[code]](https://github.com/Huang-AI4Medicine-Lab/FigEx)
+
+
 
 ### Efficient AI
 
