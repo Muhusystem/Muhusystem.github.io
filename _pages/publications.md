@@ -11,6 +11,12 @@ arXiv preprint arXiv:2406.06562<br>
 [[paper]](https://arxiv.org/pdf/2406.06562)
 [[code]](https://github.com/pittisl/Sparse-Activation)
 
+[<b><span style="color:blue">arXiv</span></b>]
+<span style="color:#527bbd">Achieving Sparse Activation in Small Language Models</span><br> <b>Jifeng Song</b>, Kai Huang, Xiangyu Yin, Boyuan Yang, Wei Gao <br>
+arXiv preprint arXiv:2406.06562<br>
+[[paper]](https://arxiv.org/pdf/2406.06562)
+[[code]](https://github.com/pittisl/Sparse-Activation)
+
 [<b><span style="color:blue">Wind Energy</span></b>]
 <span style="color:#527bbd">MTTLA-DLW: Multi-task TCN-Bi-LSTM Transfer Learning Approach with Dynamic Loss Weights based on Feature Correlations of the Training Samples for Short-term Wind Power Prediction</span> <br>
 <b>Jifeng Song</b>, Xiaosheng Peng, Jiajiong Song, Zimin Yang, Bo Wang, Jianfeng Che <br>
