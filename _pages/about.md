@@ -17,9 +17,9 @@ Education
 ====
 <b>Ph.D. student</b>, Electrical and Computer Engineering, University of Pittsburgh, Sept. 2023 - Present
 
-<b>M.S. Research</b>, Electrical and Computer Engineering, University of Pittsburgh, Sept. 2023 - August 2025 &#124; <b>GPA: 3.83/4</b>
+<b>M.S. Research</b>, Electrical and Computer Engineering, University of Pittsburgh, Sept. 2023 - August 2025 &#124; GPA: 3.83/4
 
-<b>B.E.</b>, Electrical Engineering, Huazhong University of Science and Technology, Sept. 2019 - July 2023 &#124; <b>GPA: 3.77/4</b>
+<b>B.E.</b>, Electrical Engineering, Huazhong University of Science and Technology, Sept. 2019 - July 2023 &#124; GPA: 3.77/4
 
 Publications
 ====
