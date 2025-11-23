@@ -5,11 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-[<b><span style="color:blue">arXiv</span></b>]
-<span style="color:#527bbd">Achieving Sparse Activation in Small Language Models</span><br> <b>Jifeng Song</b>, Kai Huang, Xiangyu Yin, Boyuan Yang, Wei Gao <br>
-arXiv preprint arXiv:2406.06562<br>
-[[paper]](https://arxiv.org/pdf/2406.06562)
-[[code]](https://github.com/pittisl/Sparse-Activation)
+[<b><span style="color:blue">EMNLP&nbsp;Findings</span></b>]
+<span style="color:#527bbd">FigEx: Aligned Extraction of Scientific Figures and Captions</span><br>
+<b>Jifeng Song</b>, Arun Das, Ge Cui, Yufei Huang<br>
+Findings of the Association for Computational Linguistics: EMNLP&nbsp;2025<br>
+[[paper]](https://aclanthology.org/2025.findings-emnlp.899/)
+[[code]](https://github.com/Huang-AI4Medicine-Lab/FigEx)
 
 [<b><span style="color:blue">arXiv</span></b>]
 <span style="color:#527bbd">Achieving Sparse Activation in Small Language Models</span><br> <b>Jifeng Song</b>, Kai Huang, Xiangyu Yin, Boyuan Yang, Wei Gao <br>
