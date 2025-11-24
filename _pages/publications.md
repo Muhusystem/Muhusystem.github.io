@@ -31,3 +31,10 @@ Impact Factor=4.0, JCR Q1 <br>
 2022 IEEE/IAS Industrial and Commercial Power System Asia (I&CPS Asia) <br>
 [[paper]](https://ieeexplore.ieee.org/document/9949665)
 
+[<b><span style="color:blue">IEEE/IAS I&CPS Asia'22</span></b>] 
+<span style="color:#527bbd">Short-term Wind Power Prediction Based on CEEMDAN and Parallel CNN-LSTM</span> <br>
+Zimin Yang, Xiaosheng Peng, Peijie Wei, <b>Jifeng Song</b> <br>
+2022 IEEE/IAS Industrial and Commercial Power System Asia (I&CPS Asia) <br>
+[[paper]](https://ieeexplore.ieee.org/abstract/document/9949917)
+
+
