@@ -1,8 +1,8 @@
 ---
-title: "Demand Paging towards Sparse Activation in Small Language Models"
+title: "FigEx: Aligned Extraction of Scientific Figures and Captions"
 collection: talks
-type: "Talk"
-permalink: /talks/2024-03-demand-paging-sparse-activation
-venue: "Elijah Group Meeting, Dept. of Computer Science, Carnegie Mellon University"
-location: "Pittsburgh, Pennsylvania"
+type: "Poster"
+permalink: /talks/2025-11-figex-emnlp-poster
+venue: "EMNLP 2025"
+location: "Suzhou, China"
 ---
