@@ -7,5 +7,11 @@ venue: "EMNLP 2025"
 location: "Suzhou, China"
 ---
 
-[[Poster PDF]](/files/FigEx_EMNLP2025_poster.pdf)
+<iframe
+  src="/files/FigEx_EMNLP2025_poster.pdf"
+  width="100%"
+  height="900px"
+  style="border:none;">
+</iframe>
+
 
