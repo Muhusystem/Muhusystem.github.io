@@ -27,8 +27,6 @@ Highlighted Research
 Publications
 ----
 
-### Multimodal Learning
-
 [<b><span style="color:blue">EMNLP&nbsp;Findings</span></b>]
 <span style="color:#527bbd">FigEx: Aligned Extraction of Scientific Figures and Captions</span><br>
 <b>Jifeng Song</b>, Arun Das, Ge Cui, Yufei Huang<br>
@@ -40,21 +38,15 @@ Findings of the Association for Computational Linguistics: EMNLP&nbsp;2025<br>
 Preprints
 ----
 
-### Multimodal Learning
-
 [<b><span style="color:blue">arXiv &middot; submitted to ACL&nbsp;2026</span></b>]
 <span style="color:#527bbd">FigEx2: Visual-Conditioned Panel Detection and Captioning for Scientific Compound Figures</span><br>
 <b>Jifeng Song</b>, Arun Das, Pan Wang, Hui Ji, Kun Zhao, Yufei Huang<br>
 [[paper]](https://arxiv.org/abs/2601.08026)
 
-### AI for Science
-
 [<b><span style="color:blue">Res Sq &middot; submitted to Science Advances</span></b>]
 <span style="color:#527bbd">A Process-Centric Survey of AI for Scientific Discovery Through the EXHYTE Framework</span><br>
 Md Musaddaqul Hasib, Sumin Jo, Harsh Sinha, <b>Jifeng Song</b>, Arun Das, Zhentao Liu, Hugh Galloway, Huey Huang, Kexun Zhang, Shou-Jiang Gao, Yu-Chiao Chiu, Lei Li, Yufei Huang<br>
 [[paper]](https://doi.org/10.21203/rs.3.rs-8370059/v1)
-
-### Efficient AI
 
 [<b><span style="color:blue">arXiv</span></b>]
 <span style="color:#527bbd">Achieving Sparse Activation in Small Language Models</span><br>
