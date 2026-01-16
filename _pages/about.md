@@ -73,7 +73,7 @@ Kun Zhao, Siyuan Dai, Pan Wang, <b>Jifeng Song</b>, Hui Ji, Chenghua Lin, Liang 
 arXiv:2601.03321 &middot; submitted to ACL&nbsp;2026<br>
 [[paper]](https://arxiv.org/abs/2601.03321)
 
-### AI for Scientific Discovery
+### AI for Science
 
 [<b><span style="color:blue">Res Sq</span></b>]
 <span style="color:#527bbd">A Process-Centric Survey of AI for Scientific Discovery Through the EXHYTE Framework</span><br>
