@@ -26,6 +26,18 @@ Publications
 
 ### Multimodal Learning
 
+[<b><span style="color:blue">ACL&nbsp;2026 (submitted)</span></b>]
+<span style="color:#527bbd">FigEx2: Visual-Conditioned Panel Detection and Captioning for Scientific Compound Figures</span><br>
+<b>Jifeng Song</b>, Arun Das, Pan Wang, Hui Ji, Kun Zhao, Yufei Huang<br>
+Submitted to ACL&nbsp;2026<br>
+[[paper]](https://arxiv.org/abs/2601.08026)
+
+[<b><span style="color:blue">ACL&nbsp;2026 (submitted)</span></b>]
+<span style="color:#527bbd">Aligning Findings with Diagnosis: A Self-Consistent Reinforcement Learning Framework for Trustworthy Radiology Reporting</span><br>
+Kun Zhao, Siyuan Dai, Pan Wang, <b>Jifeng Song</b>, Hui Ji, Chenghua Lin, Liang Zhan, Haoteng Tang<br>
+Submitted to ACL&nbsp;2026<br>
+[[paper]](https://arxiv.org/abs/2601.03321)
+
 [<b><span style="color:blue">EMNLP&nbsp;Findings</span></b>]
 <span style="color:#527bbd">FigEx: Aligned Extraction of Scientific Figures and Captions</span><br>
 <b>Jifeng Song</b>, Arun Das, Ge Cui, Yufei Huang<br>
