@@ -8,10 +8,11 @@ location: "Suzhou, China"
 ---
 
 <iframe
-  src="/files/FigEx_EMNLP2025_poster.pdf"
+  src="/files/FigEx_EMNLP2025_poster.pdf#toolbar=0&navpanes=0"
   width="100%"
   height="900px"
   style="border:none;">
 </iframe>
+
 
 
