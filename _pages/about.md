@@ -34,7 +34,7 @@ Findings of the Association for Computational Linguistics: EMNLP&nbsp;2025<br>
 [[code]](https://github.com/Huang-AI4Medicine-Lab/FigEx)
 
 
-### AI for Energy
+### AI for Science
 
 [<b><span style="color:blue">Wind Energy</span></b>]
 <span style="color:#527bbd">MTTLA-DLW: Multi-task TCN-Bi-LSTM Transfer Learning Approach with Dynamic Loss Weights based on Feature Correlations of the Training Samples for Short-term Wind Power Prediction</span><br>
