@@ -73,6 +73,14 @@ Kun Zhao, Siyuan Dai, Pan Wang, <b>Jifeng Song</b>, Hui Ji, Chenghua Lin, Liang 
 arXiv:2601.03321 &middot; submitted to ACL&nbsp;2026<br>
 [[paper]](https://arxiv.org/abs/2601.03321)
 
+### AI for Scientific Discovery
+
+[<b><span style="color:blue">Res Sq</span></b>]
+<span style="color:#527bbd">A Process-Centric Survey of AI for Scientific Discovery Through the EXHYTE Framework</span><br>
+Md Musaddaqul Hasib, Sumin Jo, Harsh Sinha, <b>Jifeng Song</b>, Arun Das, Zhentao Liu, Hugh Galloway, Huey Huang, Kexun Zhang, Shou-Jiang Gao, Yu-Chiao Chiu, Lei Li, Yufei Huang<br>
+submitted to Science Advances<br>
+[[paper]](https://doi.org/10.21203/rs.3.rs-8370059/v1)
+
 
 ### Efficient AI
 
@@ -82,14 +90,5 @@ arXiv:2601.03321 &middot; submitted to ACL&nbsp;2026<br>
 arXiv:2406.06562<br>
 [[paper]](https://arxiv.org/abs/2406.06562)
 [[code]](https://github.com/pittisl/Sparse-Activation)
-
-
-### AI for Scientific Discovery
-
-[<b><span style="color:blue">Res Sq</span></b>]
-<span style="color:#527bbd">A Process-Centric Survey of AI for Scientific Discovery Through the EXHYTE Framework</span><br>
-Md Musaddaqul Hasib, Sumin Jo, Harsh Sinha, <b>Jifeng Song</b>, Arun Das, Zhentao Liu, Hugh Galloway, Huey Huang, Kexun Zhang, Shou-Jiang Gao, Yu-Chiao Chiu, Lei Li, Yufei Huang<br>
-submitted to Science Advances<br>
-[[paper]](https://doi.org/10.21203/rs.3.rs-8370059/v1)
 
 
