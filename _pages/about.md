@@ -64,13 +64,13 @@ Preprints
 [<b><span style="color:blue">arXiv</span></b>]
 <span style="color:#527bbd">FigEx2: Visual-Conditioned Panel Detection and Captioning for Scientific Compound Figures</span><br>
 <b>Jifeng Song</b>, Arun Das, Pan Wang, Hui Ji, Kun Zhao, Yufei Huang<br>
-arXiv:2601.08026 &middot; submitted to ACL&nbsp;2026<br>
+arXiv:2601.08026 &middot; <b>submitted to ACL&nbsp;2026</b><br>
 [[paper]](https://arxiv.org/abs/2601.08026)
 
 [<b><span style="color:blue">arXiv</span></b>]
 <span style="color:#527bbd">Aligning Findings with Diagnosis: A Self-Consistent Reinforcement Learning Framework for Trustworthy Radiology Reporting</span><br>
 Kun Zhao, Siyuan Dai, Pan Wang, <b>Jifeng Song</b>, Hui Ji, Chenghua Lin, Liang Zhan, Haoteng Tang<br>
-arXiv:2601.03321 &middot; submitted to ACL&nbsp;2026<br>
+arXiv:2601.03321 &middot; <b>submitted to ACL&nbsp;2026</b><br>
 [[paper]](https://arxiv.org/abs/2601.03321)
 
 ### AI for Science
@@ -78,7 +78,7 @@ arXiv:2601.03321 &middot; submitted to ACL&nbsp;2026<br>
 [<b><span style="color:blue">Res Sq</span></b>]
 <span style="color:#527bbd">A Process-Centric Survey of AI for Scientific Discovery Through the EXHYTE Framework</span><br>
 Md Musaddaqul Hasib, Sumin Jo, Harsh Sinha, <b>Jifeng Song</b>, Arun Das, Zhentao Liu, Hugh Galloway, Huey Huang, Kexun Zhang, Shou-Jiang Gao, Yu-Chiao Chiu, Lei Li, Yufei Huang<br>
-submitted to Science Advances<br>
+<b>submitted to Science Advances</b><br>
 [[paper]](https://doi.org/10.21203/rs.3.rs-8370059/v1)
 
 
