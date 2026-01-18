@@ -7,12 +7,33 @@ author_profile: true
 
 ### Multimodal Learning
 
-[<b><span style="color:blue">EMNLP&nbsp;Findings</span></b>]
-<span style="color:#527bbd">FigEx: Aligned Extraction of Scientific Figures and Captions</span><br>
-<b>Jifeng Song</b>, Arun Das, Ge Cui, Yufei Huang<br>
-Findings of the Association for Computational Linguistics: EMNLP&nbsp;2025<br>
-[[paper]](https://aclanthology.org/2025.findings-emnlp.899/)
-[[code]](https://github.com/Huang-AI4Medicine-Lab/FigEx)
+<div class="pub-card">
+  <a class="pub-thumb" href="https://aclanthology.org/2025.findings-emnlp.899/">
+    <img src="/images/figex.png" alt="FigEx thumbnail">
+  </a>
+
+  <div>
+    <div class="pub-badge">EMNLP Findings</div>
+
+    <div class="pub-title">
+      <a href="https://aclanthology.org/2025.findings-emnlp.899/">
+        FigEx: Aligned Extraction of Scientific Figures and Captions
+      </a>
+    </div>
+
+    <div class="pub-authors"><b>Jifeng Song</b>, Arun Das, Ge Cui, Yufei Huang</div>
+
+    <div class="pub-venue">
+      Findings of the Association for Computational Linguistics: EMNLP 2025
+    </div>
+
+    <div class="pub-links">
+      <a href="https://aclanthology.org/2025.findings-emnlp.899/">paper</a>
+      <a href="https://github.com/Huang-AI4Medicine-Lab/FigEx">code</a>
+    </div>
+  </div>
+</div>
+
 
 
 ### AI for Science
