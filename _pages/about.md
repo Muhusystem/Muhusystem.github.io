@@ -43,6 +43,11 @@ Preprints
 <b>Jifeng Song</b>, Arun Das, Pan Wang, Hui Ji, Kun Zhao, Yufei Huang<br>
 [[paper]](https://arxiv.org/abs/2601.08026)
 
+[<b><span style="color:blue">arXiv &middot; submitted to ACL&nbsp;2026</span></b>]
+<span style="color:#527bbd">Aligning Findings with Diagnosis: A Self-Consistent Reinforcement Learning Framework for Trustworthy Radiology Reporting</span><br>
+Kun Zhao, Siyuan Dai, Pan Wang, <b>Jifeng Song</b>, Hui Ji, Chenghua Lin, Liang Zhan, Haoteng Tang<br>
+[[paper]](https://arxiv.org/abs/2601.03321)
+
 [<b><span style="color:blue">Res Sq &middot; submitted to Science Advances</span></b>]
 <span style="color:#527bbd">A Process-Centric Survey of AI for Scientific Discovery Through the EXHYTE Framework</span><br>
 Md Musaddaqul Hasib, Sumin Jo, Harsh Sinha, <b>Jifeng Song</b>, Arun Das, Zhentao Liu, Hugh Galloway, Huey Huang, Kexun Zhang, Shou-Jiang Gao, Yu-Chiao Chiu, Lei Li, Yufei Huang<br>
