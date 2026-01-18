@@ -21,8 +21,7 @@ Here is my [CV](http://Muhusystem.github.io/files/CV_JifengSong.pdf). My current
 
 <b>B.E.</b>, Electrical Engineering, Huazhong University of Science and Technology, Sept. 2019 - July 2023 &#124; GPA: 3.77/4
 
-Highlighted Research
-====
+## 📝 Selected Research
 
 <span style="background:#1d4ed8;color:#fff;padding:1px 6px;border-radius:4px;font-weight:600;font-size:0.85em;display:inline-block;vertical-align:baseline;white-space:nowrap;">EMNLP&nbsp;Findings</span>&nbsp;&nbsp;<span style="color:#111827;font-weight:600;">FigEx: Aligned Extraction of Scientific Figures and Captions</span><br>
 <span style="text-decoration:underline;">Jifeng Song</span>, Arun Das, Ge Cui, Yufei Huang<br>
