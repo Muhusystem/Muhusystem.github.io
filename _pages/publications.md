@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-### Multimodal Learning
+<h3>Multimodal Learning</h3>
 
 <div class="pub-card">
   <a class="pub-thumb" href="https://aclanthology.org/2025.findings-emnlp.899/">
