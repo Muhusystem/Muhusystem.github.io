@@ -16,17 +16,17 @@ Findings of the Association for Computational Linguistics: EMNLP&nbsp;2025<br>
 
 ### AI for Science
 
-<span style="background:#0f766e;color:#fff;padding:1px 6px;border-radius:4px;font-weight:600;font-size:0.85em;display:inline-block;vertical-align:baseline;white-space:nowrap;">Wind Energy</span>&nbsp;&nbsp;<span style="color:#527bbd">MTTLA-DLW: Multi-task TCN-Bi-LSTM Transfer Learning Approach with Dynamic Loss Weights based on Feature Correlations of the Training Samples for Short-term Wind Power Prediction</span><br>
+<span style="background:#db2777;color:#fff;padding:1px 6px;border-radius:4px;font-weight:600;font-size:0.85em;display:inline-block;vertical-align:baseline;white-space:nowrap;">Wind Energy</span>&nbsp;&nbsp;<span style="color:#527bbd">MTTLA-DLW: Multi-task TCN-Bi-LSTM Transfer Learning Approach with Dynamic Loss Weights based on Feature Correlations of the Training Samples for Short-term Wind Power Prediction</span><br>
 <b>Jifeng Song</b>, Xiaosheng Peng, Jiajiong Song, Zimin Yang, Bo Wang, Jianfeng Che<br>
 Wind Energy, 2024<br>
 [[paper]](https://doi.org/10.1002/we.2909)
 
-<span style="background:#0f766e;color:#fff;padding:1px 6px;border-radius:4px;font-weight:600;font-size:0.85em;display:inline-block;vertical-align:baseline;white-space:nowrap;">IEEE/IAS I&amp;CPS Asia'22</span>&nbsp;&nbsp;<span style="color:#527bbd">A Novel Wind Power Prediction Approach for Extreme Wind Conditions Based on TCN-LSTM and Transfer Learning</span><br>
+<span style="background:#db2777;color:#fff;padding:1px 6px;border-radius:4px;font-weight:600;font-size:0.85em;display:inline-block;vertical-align:baseline;white-space:nowrap;">IEEE/IAS I&amp;CPS Asia'22</span>&nbsp;&nbsp;<span style="color:#527bbd">A Novel Wind Power Prediction Approach for Extreme Wind Conditions Based on TCN-LSTM and Transfer Learning</span><br>
 <b>Jifeng Song</b>, Xiaosheng Peng, Zimin Yang, Peijie Wei, Bo Wang, Zheng Wang<br>
 2022 IEEE/IAS Industrial and Commercial Power System Asia (I&amp;CPS Asia)<br>
 [[paper]](https://ieeexplore.ieee.org/document/9949665)
 
-<span style="background:#0f766e;color:#fff;padding:1px 6px;border-radius:4px;font-weight:600;font-size:0.85em;display:inline-block;vertical-align:baseline;white-space:nowrap;">IEEE/IAS I&amp;CPS Asia'22</span>&nbsp;&nbsp;<span style="color:#527bbd">Short-term Wind Power Prediction Based on CEEMDAN and Parallel CNN-LSTM</span><br>
+<span style="background:#db2777;color:#fff;padding:1px 6px;border-radius:4px;font-weight:600;font-size:0.85em;display:inline-block;vertical-align:baseline;white-space:nowrap;">IEEE/IAS I&amp;CPS Asia'22</span>&nbsp;&nbsp;<span style="color:#527bbd">Short-term Wind Power Prediction Based on CEEMDAN and Parallel CNN-LSTM</span><br>
 Zimin Yang, Xiaosheng Peng, Peijie Wei, <b>Jifeng Song</b><br>
 2022 IEEE/IAS Industrial and Commercial Power System Asia (I&amp;CPS Asia)<br>
 [[paper]](https://ieeexplore.ieee.org/abstract/document/9949917)
@@ -48,7 +48,7 @@ Kun Zhao, Siyuan Dai, Pan Wang, <b>Jifeng Song</b>, Hui Ji, Chenghua Lin, Liang 
 
 ### AI for Science
 
-<span style="background:#0f766e;color:#fff;padding:1px 6px;border-radius:4px;font-weight:600;font-size:0.85em;display:inline-block;vertical-align:baseline;white-space:nowrap;">Res Sq · submitted to Science Advances</span>&nbsp;&nbsp;<span style="color:#527bbd">A Process-Centric Survey of AI for Scientific Discovery Through the EXHYTE Framework</span><br>
+<span style="background:#db2777;color:#fff;padding:1px 6px;border-radius:4px;font-weight:600;font-size:0.85em;display:inline-block;vertical-align:baseline;white-space:nowrap;">Res Sq · submitted to Science Advances</span>&nbsp;&nbsp;<span style="color:#527bbd">A Process-Centric Survey of AI for Scientific Discovery Through the EXHYTE Framework</span><br>
 Md Musaddaqul Hasib, Sumin Jo, Harsh Sinha, <b>Jifeng Song</b>, Arun Das, Zhentao Liu, Hugh Galloway, Huey Huang, Kexun Zhang, Shou-Jiang Gao, Yu-Chiao Chiu, Lei Li, Yufei Huang<br>
 [[paper]](https://doi.org/10.21203/rs.3.rs-8370059/v1)
 
