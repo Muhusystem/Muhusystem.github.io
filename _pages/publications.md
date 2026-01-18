@@ -7,7 +7,8 @@ author_profile: true
 
 ### Multimodal Learning
 
-<span class="pub-badge-inline">EMNLP&nbsp;Findings</span><span style="color:#527bbd">FigEx: Aligned Extraction of Scientific Figures and Captions</span><br>
+<span style="background:#1d4ed8;color:#fff;padding:1px 6px;border-radius:4px;font-weight:400;font-size:0.85em;display:inline-block;vertical-align:baseline;white-space:nowrap;">EMNLP&nbsp;Findings</span>&nbsp;&nbsp;<span style="color:#527bbd">FigEx: Aligned Extraction of Scientific Figures and Captions</span><br>
+
 <span style="color:#527bbd">FigEx: Aligned Extraction of Scientific Figures and Captions</span><br>
 <b>Jifeng Song</b>, Arun Das, Ge Cui, Yufei Huang<br>
 Findings of the Association for Computational Linguistics: EMNLP&nbsp;2025<br>
