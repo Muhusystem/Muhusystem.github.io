@@ -29,11 +29,11 @@ Findings of the Association for Computational Linguistics: EMNLP&nbsp;2025<br>
 [[paper]](https://aclanthology.org/2025.findings-emnlp.899/)
 [[code]](https://github.com/Huang-AI4Medicine-Lab/FigEx)
 
-<span style="background:#1d4ed8;color:#fff;padding:1px 6px;border-radius:4px;font-weight:600;font-size:0.85em;display:inline-block;vertical-align:baseline;white-space:nowrap;">arXiv&nbsp;2026</span>&nbsp;&nbsp;<span style="color:#111827;font-weight:600;">FigEx2: Visual-Conditioned Panel Detection and Captioning for Scientific Compound Figures</span><br>
+<span style="background:#1d4ed8;color:#fff;padding:1px 6px;border-radius:4px;font-weight:600;font-size:0.85em;display:inline-block;vertical-align:baseline;white-space:nowrap;">arXiv</span>&nbsp;&nbsp;<span style="color:#111827;font-weight:600;">FigEx2: Visual-Conditioned Panel Detection and Captioning for Scientific Compound Figures</span><br>
 <span style="text-decoration:underline;">Jifeng Song</span>, Arun Das, Pan Wang, Hui Ji, Kun Zhao, Yufei Huang<br>
 [[paper]](https://arxiv.org/abs/2601.08026)
 
-<span style="background:#1d4ed8;color:#fff;padding:1px 6px;border-radius:4px;font-weight:600;font-size:0.85em;display:inline-block;vertical-align:baseline;white-space:nowrap;">arXiv&nbsp;2026</span>&nbsp;&nbsp;<span style="color:#111827;font-weight:600;">Aligning Findings with Diagnosis: A Self-Consistent Reinforcement Learning Framework for Trustworthy Radiology Reporting</span><br>
+<span style="background:#1d4ed8;color:#fff;padding:1px 6px;border-radius:4px;font-weight:600;font-size:0.85em;display:inline-block;vertical-align:baseline;white-space:nowrap;">arXiv</span>&nbsp;&nbsp;<span style="color:#111827;font-weight:600;">Aligning Findings with Diagnosis: A Self-Consistent Reinforcement Learning Framework for Trustworthy Radiology Reporting</span><br>
 Kun Zhao, Siyuan Dai, Pan Wang, <span style="text-decoration:underline;">Jifeng Song</span>, Hui Ji, Chenghua Lin, Liang Zhan, Haoteng Tang<br>
 [[paper]](https://arxiv.org/abs/2601.03321)
 
