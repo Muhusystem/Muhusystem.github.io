@@ -38,17 +38,17 @@ Preprints
 
 ### Multimodal Learning
 
-<span style="background:#1d4ed8;color:#fff;padding:1px 6px;border-radius:4px;font-weight:600;font-size:0.85em;display:inline-block;vertical-align:baseline;white-space:nowrap;">arXiv · submitted to ACL&nbsp;2026</span>&nbsp;&nbsp;<span style="color:#111827;font-weight:600;">FigEx2: Visual-Conditioned Panel Detection and Captioning for Scientific Compound Figures</span><br>
+<span style="background:#1d4ed8;color:#fff;padding:1px 6px;border-radius:4px;font-weight:600;font-size:0.85em;display:inline-block;vertical-align:baseline;white-space:nowrap;">arXiv&nbsp;2026</span>&nbsp;&nbsp;<span style="color:#111827;font-weight:600;">FigEx2: Visual-Conditioned Panel Detection and Captioning for Scientific Compound Figures</span><br>
 <span style="text-decoration:underline;">Jifeng Song</span>, Arun Das, Pan Wang, Hui Ji, Kun Zhao, Yufei Huang<br>
 [[paper]](https://arxiv.org/abs/2601.08026)
 
-<span style="background:#1d4ed8;color:#fff;padding:1px 6px;border-radius:4px;font-weight:600;font-size:0.85em;display:inline-block;vertical-align:baseline;white-space:nowrap;">arXiv · submitted to ACL&nbsp;2026</span>&nbsp;&nbsp;<span style="color:#111827;font-weight:600;">Aligning Findings with Diagnosis: A Self-Consistent Reinforcement Learning Framework for Trustworthy Radiology Reporting</span><br>
+<span style="background:#1d4ed8;color:#fff;padding:1px 6px;border-radius:4px;font-weight:600;font-size:0.85em;display:inline-block;vertical-align:baseline;white-space:nowrap;">arXiv&nbsp;2026</span>&nbsp;&nbsp;<span style="color:#111827;font-weight:600;">Aligning Findings with Diagnosis: A Self-Consistent Reinforcement Learning Framework for Trustworthy Radiology Reporting</span><br>
 Kun Zhao, Siyuan Dai, Pan Wang, <span style="text-decoration:underline;">Jifeng Song</span>, Hui Ji, Chenghua Lin, Liang Zhan, Haoteng Tang<br>
 [[paper]](https://arxiv.org/abs/2601.03321)
 
 ### AI for Science
 
-<span style="background:#db2777;color:#fff;padding:1px 6px;border-radius:4px;font-weight:600;font-size:0.85em;display:inline-block;vertical-align:baseline;white-space:nowrap;">Res Sq · submitted to Science Advances</span>&nbsp;&nbsp;<span style="color:#111827;font-weight:600;">A Process-Centric Survey of AI for Scientific Discovery Through the EXHYTE Framework</span><br>
+<span style="background:#db2777;color:#fff;padding:1px 6px;border-radius:4px;font-weight:600;font-size:0.85em;display:inline-block;vertical-align:baseline;white-space:nowrap;">Res Sq</span>&nbsp;&nbsp;<span style="color:#111827;font-weight:600;">A Process-Centric Survey of AI for Scientific Discovery Through the EXHYTE Framework</span><br>
 Md Musaddaqul Hasib, Sumin Jo, Harsh Sinha, <span style="text-decoration:underline;">Jifeng Song</span>, Arun Das, Zhentao Liu, Hugh Galloway, Huey Huang, Kexun Zhang, Shou-Jiang Gao, Yu-Chiao Chiu, Lei Li, Yufei Huang<br>
 [[paper]](https://doi.org/10.21203/rs.3.rs-8370059/v1)
 
