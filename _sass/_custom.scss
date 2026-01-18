@@ -1,46 +1,13 @@
-/* ===== Publications (blue badge + thumbnail cards) ===== */
-.pub-card{
-  display: grid;
-  grid-template-columns: 220px 1fr;
-  gap: 16px;
-  padding: 16px 0;
-  border-top: 1px solid rgba(0,0,0,.10);
-}
-
-.pub-thumb img{
-  width: 100%;
-  border-radius: 10px;
-  border: 1px solid rgba(0,0,0,.10);
-  display: block;
-}
-
-.pub-badge{
-  display: inline-block;
-  padding: 4px 10px;
-  border-radius: 999px;
+/* Inline venue badge (small, not bold, stays on same line) */
+.pub-badge-inline{
   background: #1d4ed8;
   color: #fff;
-  font-size: 0.85rem;
-  font-weight: 700;
-  margin-bottom: 8px;
-}
-
-.pub-title a{
-  color: #527bbd;
-  font-size: 1.05rem;
-  font-weight: 700;
-  line-height: 1.35;
-  text-decoration: none;
-}
-.pub-title a:hover{ text-decoration: underline; }
-
-.pub-authors{ margin-top: 6px; color:#222; }
-.pub-venue{ margin-top: 3px; color:#666; }
-
-.pub-links{ margin-top: 8px; }
-.pub-links a{ margin-right: 12px; }
-
-@media (max-width: 900px){
-  .pub-card{ grid-template-columns: 1fr; }
-  .pub-thumb{ max-width: 560px; }
+  padding: 1px 6px;
+  border-radius: 4px;
+  font-weight: 400;     /* not bold */
+  font-size: 0.85em;    /* your current size */
+  display: inline;
+  margin-right: 8px;
+  vertical-align: baseline;
+  white-space: nowrap;
 }
