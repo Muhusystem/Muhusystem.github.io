@@ -13,8 +13,8 @@ Hi, I am Jifeng Song, a third-year Ph.D. student in Electrical and Computer Engi
 Here is my [CV](http://Muhusystem.github.io/files/CV_JifengSong.pdf). My current work focuses on <b>domain-specific vision-language models for biomedical applications</b>. I am training biomedical multimodal large models for cancer research, particularly in spatial transcriptomics and single-cell, including multimodal retrieval, image captioning, question answering, and hypothesis generation.
 
 
-Education
-====
+## 📖 Education
+
 <b>Ph.D. student</b>, Electrical and Computer Engineering, University of Pittsburgh, Sept. 2023 - Present
 
 <b>M.S. Research</b>, Electrical and Computer Engineering, University of Pittsburgh, Sept. 2023 - August 2025 &#124; GPA: 3.83/4
