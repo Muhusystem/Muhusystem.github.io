@@ -17,19 +17,19 @@ title: "About Me"
     
     <div class="social-icons">
       <a href="mailto:JIS219@pitt.edu" title="Email">
-        <span class="social-icon">✉️</span>
+        <i class="fas fa-envelope social-icon" aria-hidden="true"></i>
         <span class="social-text">Email</span>
       </a>
       <a href="https://scholar.google.com/citations?user=U_c8QM0AAAAJ&hl=en" title="Google Scholar">
-        <span class="social-icon">🔍</span>
+        <i class="ai ai-google-scholar social-icon" aria-hidden="true"></i>
         <span class="social-text">Google Scholar</span>
       </a>
       <a href="https://github.com/Muhusystem" title="GitHub">
-        <span class="social-icon">💻</span>
+        <i class="fab fa-github social-icon" aria-hidden="true"></i>
         <span class="social-text">Github</span>
       </a>
       <a href="https://www.linkedin.com/in/jifeng-song-51b2971a3" title="LinkedIn">
-        <span class="social-icon">💼</span>
+        <i class="fab fa-linkedin social-icon" aria-hidden="true"></i>
         <span class="social-text">LinkedIn</span>
       </a>
     </div>
