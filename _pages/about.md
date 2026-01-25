@@ -16,21 +16,21 @@ title: "About Me"
     <email>JIS219[at]pitt.edu</email>
     
     <div class="social-icons">
+      <a href="mailto:JIS219@pitt.edu" title="Email">
+        <span class="social-icon">✉️</span>
+        <span class="social-text">Email</span>
+      </a>
       <a href="https://scholar.google.com/citations?user=U_c8QM0AAAAJ&hl=en" title="Google Scholar">
         <span class="social-icon">🔍</span>
         <span class="social-text">Google Scholar</span>
       </a>
       <a href="https://github.com/Muhusystem" title="GitHub">
         <span class="social-icon">💻</span>
-        <span class="social-text">GitHub</span>
+        <span class="social-text">Github</span>
       </a>
       <a href="https://www.linkedin.com/in/jifeng-song-51b2971a3" title="LinkedIn">
         <span class="social-icon">💼</span>
         <span class="social-text">LinkedIn</span>
-      </a>
-      <a href="mailto:JIS219@pitt.edu" title="Email">
-        <span class="social-icon">✉️</span>
-        <span class="social-text">Email</span>
       </a>
     </div>
     
