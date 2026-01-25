@@ -4,8 +4,6 @@ permalink: /
 title: "About Me"
 ---
 
-<link rel="stylesheet" href="{{ base_path }}/assets/css/yifan-style.css">
-
 <div class="wrapper">
   <header>
     <div class="image avatar">

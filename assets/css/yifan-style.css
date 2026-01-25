@@ -122,13 +122,14 @@ email {
 }
 
 .social-icon {
-  font-size: 1.1rem;
+  font-size: 0.9rem !important;
   margin-right: 10px;
   display: inline-block;
   flex-shrink: 0;
-  width: 1.3rem;
+  width: auto;
   text-align: center;
   color: #2c3e50;
+  line-height: 1.5;
 }
 
 .social-text {
