@@ -8,28 +8,48 @@
 }
 
 body {
-  background-color: #fff;
-  padding: 0;
-  font: 14px/1.5 'Noto Sans SC', sans-serif;
-  color: #595959;
-  font-weight: 400;
-  margin: 0;
-  overflow-x: hidden;
+  background-color: #fff !important;
+  padding: 0 !important;
+  font: 14px/1.5 'Noto Sans SC', sans-serif !important;
+  color: #595959 !important;
+  font-weight: 400 !important;
+  margin: 0 !important;
+  overflow-x: hidden !important;
+  text-align: left !important;
+}
+
+/* Hide all Jekyll default containers */
+#main,
+.page,
+.archive,
+.page__content,
+.page__inner-wrap,
+.masthead,
+.sidebar,
+.page__footer,
+.breadcrumbs,
+.page__title {
+  display: none !important;
+  visibility: hidden !important;
 }
 
 /* Wrapper */
 .wrapper {
   width: 1060px !important;
+  max-width: 1060px !important;
   margin: 0 auto !important;
   padding: 0 !important;
   position: relative !important;
   clear: both !important;
-  overflow: hidden;
+  overflow: hidden !important;
+  display: block !important;
+  text-align: left !important;
 }
 
 /* Left sidebar header */
 header {
   width: 232px !important;
+  max-width: 232px !important;
   float: left !important;
   position: relative !important;
   padding-top: 6.0em !important;
@@ -39,6 +59,8 @@ header {
   align-items: center !important;
   z-index: 10 !important;
   margin-right: 48px !important;
+  margin-left: 0 !important;
+  clear: left !important;
 }
 
 /* Avatar styling */
@@ -189,6 +211,7 @@ email {
 /* Main content section */
 section {
   width: 750px !important;
+  max-width: 750px !important;
   float: right !important;
   padding-top: 1.2em !important;
   padding-bottom: 50px !important;
@@ -196,6 +219,8 @@ section {
   margin-right: 0 !important;
   position: relative !important;
   z-index: 1 !important;
+  clear: right !important;
+  display: block !important;
 }
 
 /* Section headers */
