@@ -2,127 +2,220 @@
 layout: archive
 permalink: /
 title: "About Me"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi, I am Jifeng Song, a third-year Ph.D. student in Electrical and Computer Engineering at the [University of Pittsburgh](https://www.pitt.edu/) and also a research assistant in the Cancer Virology Program at [UPMC Hillman Cancer Center](https://hillman.upmc.com/), co-advised by [Prof. Yufei Huang](https://www.sci.pitt.edu/people/yufei-huang) and [Prof. Zhi-Hong Mao](https://sites.pitt.edu/~zhm4/). My current research focuses on <b>Multimodal Learning</b> and <b>AI for Biomedicine</b>, with broader interests in AI for scientific discovery, computational biology, explainable AI, and efficient large language models. I received my B.E. in Electrical Engineering and Automation from [Huazhong University of Science and Technology](https://www.hust.edu.cn/), where I worked on transfer learning for renewable energy forecasting.
+<div class="wrapper">
+  <header>
+    <div class="image avatar">
+      <img src="{{ base_path }}/images/jifengsong.JPG" alt="Jifeng Song">
+    </div>
+    <h1>Jifeng Song</h1>
+    <p class="position">Ph.D. Student</p>
+    <p class="affiliation"><a href="https://www.pitt.edu/">University of Pittsburgh</a></p>
+    <email>JIS219[at]pitt.edu</email>
+    
+    <div class="social-icons">
+      <a href="https://scholar.google.com/citations?user=U_c8QM0AAAAJ&hl=en" title="Google Scholar">🔍</a>
+      <a href="https://github.com/Muhusystem" title="GitHub">💻</a>
+      <a href="https://www.linkedin.com/in/jifeng-song-51b2971a3" title="LinkedIn">💼</a>
+      <a href="mailto:JIS219@pitt.edu" title="Email">✉️</a>
+    </div>
+    
+    <div class="research-interests">
+      <p>Research Interests:</p>
+      <ul>
+        <li>Multimodal Learning</li>
+        <li>AI for Biomedicine</li>
+        <li>Vision-Language Models</li>
+        <li>Computational Biology</li>
+      </ul>
+    </div>
+  </header>
 
-Here is my [CV](http://Muhusystem.github.io/files/CV_JifengSong.pdf). My current work focuses on <b>vision-language models for biomedical applications</b>. I am training biomedical multimodal large models for cancer research, particularly in spatial transcriptomics and single-cell, including multimodal retrieval, image captioning, question answering, and hypothesis generation.
+  <section>
+    <div class="about-section">
+      <h2>About Me</h2>
+      <p>
+        Hi, I am Jifeng Song, a third-year Ph.D. student in Electrical and Computer Engineering at the 
+        <a href="https://www.pitt.edu/">University of Pittsburgh</a> and also a research assistant in the Cancer Virology Program at 
+        <a href="https://hillman.upmc.com/">UPMC Hillman Cancer Center</a>, co-advised by 
+        <a href="https://www.sci.pitt.edu/people/yufei-huang">Prof. Yufei Huang</a> and 
+        <a href="https://sites.pitt.edu/~zhm4/">Prof. Zhi-Hong Mao</a>. 
+        My current research focuses on <strong>Multimodal Learning</strong> and <strong>AI for Biomedicine</strong>, with broader interests in AI for scientific discovery, computational biology, explainable AI, and efficient large language models. 
+        I received my B.E. in Electrical Engineering and Automation from 
+        <a href="https://www.hust.edu.cn/">Huazhong University of Science and Technology</a>, where I worked on transfer learning for renewable energy forecasting.
+      </p>
+      <p>
+        Here is my <a href="{{ base_path }}/files/CV_JifengSong.pdf">CV</a>. My current work focuses on <strong>vision-language models for biomedical applications</strong>. 
+        I am training biomedical multimodal large models for cancer research, particularly in spatial transcriptomics and single-cell, including multimodal retrieval, image captioning, question answering, and hypothesis generation.
+      </p>
+    </div>
 
+    <div class="news-section">
+      <h2>News</h2>
+      <ul class="news-list">
+        <li>
+          <strong>[01/2025]</strong>
+          <span class="news-content">Our paper <strong>FigEx2</strong> is released on arXiv. <a href="https://arxiv.org/abs/2601.08026">Check it out!</a></span>
+        </li>
+        <li>
+          <strong>[12/2024]</strong>
+          <span class="news-content">Our paper <strong>FigEx</strong> is accepted by EMNLP 2025 Findings. Congrats to the team!</span>
+        </li>
+        <li>
+          <strong>[12/2024]</strong>
+          <span class="news-content">Our paper <strong>Aligning Findings with Diagnosis</strong> is released on arXiv.</span>
+        </li>
+        <li>
+          <strong>[11/2024]</strong>
+          <span class="news-content">Our survey paper <strong>A Process-Centric Survey of AI for Scientific Discovery</strong> is released on Research Square.</span>
+        </li>
+        <li>
+          <strong>[06/2024]</strong>
+          <span class="news-content">Our paper <strong>Achieving Sparse Activation in Small Language Models</strong> is released on arXiv.</span>
+        </li>
+      </ul>
+    </div>
 
-## 📖 Education
+    <div class="publications-section">
+      <h2>Selected Publications | <a href="{{ base_path }}/publications/">Full list</a></h2>
+      <p>(*equal contribution)</p>
 
-<b>Ph.D. student</b>, Electrical and Computer Engineering, University of Pittsburgh, Sept. 2023 - Present
+      <div class="project-container">
+        <table class="pub-table">
+          <tr>
+            <td class="media-col">
+              <div class="project-media">
+                <span class="conference-badge">EMNLP 2025 Findings</span>
+                <img src="{{ base_path }}/images/figex.png" alt="FigEx">
+              </div>
+            </td>
+            <td class="content-col">
+              <div class="pub-title">
+                <a href="https://aclanthology.org/2025.findings-emnlp.899/">FigEx: Aligned Extraction of Scientific Figures and Captions</a>
+              </div>
+              <div class="pub-authors">
+                <strong>Jifeng Song</strong>, Arun Das, <strong>Ge Cui</strong>, <strong>Yufei Huang</strong>
+              </div>
+              <div class="pub-venue">Findings of the Association for Computational Linguistics: EMNLP 2025</div>
+              <div class="text-links">
+                <a href="https://aclanthology.org/2025.findings-emnlp.899/" class="text-btn">Paper</a>
+                <a href="https://github.com/Huang-AI4Medicine-Lab/FigEx" class="text-btn">Code</a>
+              </div>
+              <div class="pub-description">A framework for aligned extraction of scientific figures and their captions from research papers.</div>
+            </td>
+          </tr>
+        </table>
+      </div>
 
-<b>M.S.</b>, Electrical and Computer Engineering, University of Pittsburgh, Sept. 2023 - August 2025 &#124; GPA: 3.83/4
+      <div class="project-container">
+        <table class="pub-table">
+          <tr>
+            <td class="media-col">
+              <div class="project-media">
+                <span class="conference-badge">arXiv</span>
+                <img src="{{ base_path }}/images/500x300.png" alt="FigEx2">
+              </div>
+            </td>
+            <td class="content-col">
+              <div class="pub-title">
+                <a href="https://arxiv.org/abs/2601.08026">FigEx2: Visual-Conditioned Panel Detection and Captioning for Scientific Compound Figures</a>
+              </div>
+              <div class="pub-authors">
+                <strong>Jifeng Song</strong>, Arun Das, Pan Wang, Hui Ji, Kun Zhao, <strong>Yufei Huang</strong>
+              </div>
+              <div class="pub-venue">arXiv preprint 2025</div>
+              <div class="text-links">
+                <a href="https://arxiv.org/abs/2601.08026" class="text-btn">Paper</a>
+              </div>
+              <div class="pub-description">A visual-conditioned approach for detecting and captioning panels in scientific compound figures.</div>
+            </td>
+          </tr>
+        </table>
+      </div>
 
-<b>B.E.</b>, Electrical Engineering, Huazhong University of Science and Technology, Sept. 2019 - July 2023 &#124; GPA: 3.77/4
+      <div class="project-container">
+        <table class="pub-table">
+          <tr>
+            <td class="media-col">
+              <div class="project-media">
+                <span class="conference-badge">arXiv</span>
+                <img src="{{ base_path }}/images/500x300.png" alt="Radiology Reporting">
+              </div>
+            </td>
+            <td class="content-col">
+              <div class="pub-title">
+                <a href="https://arxiv.org/abs/2601.03321">Aligning Findings with Diagnosis: A Self-Consistent Reinforcement Learning Framework for Trustworthy Radiology Reporting</a>
+              </div>
+              <div class="pub-authors">
+                Kun Zhao, Siyuan Dai, Pan Wang, <strong>Jifeng Song</strong>, Hui Ji, Chenghua Lin, Liang Zhan, Haoteng Tang
+              </div>
+              <div class="pub-venue">arXiv preprint 2025</div>
+              <div class="text-links">
+                <a href="https://arxiv.org/abs/2601.03321" class="text-btn">Paper</a>
+              </div>
+              <div class="pub-description">A self-consistent reinforcement learning framework for generating trustworthy radiology reports that align findings with diagnosis.</div>
+            </td>
+          </tr>
+        </table>
+      </div>
 
-## News
+      <div class="project-container">
+        <table class="pub-table">
+          <tr>
+            <td class="media-col">
+              <div class="project-media">
+                <span class="conference-badge">Res Sq</span>
+                <img src="{{ base_path }}/images/500x300.png" alt="EXHYTE Framework">
+              </div>
+            </td>
+            <td class="content-col">
+              <div class="pub-title">
+                <a href="https://doi.org/10.21203/rs.3.rs-8370059/v1">A Process-Centric Survey of AI for Scientific Discovery Through the EXHYTE Framework</a>
+              </div>
+              <div class="pub-authors">
+                Md Musaddaqul Hasib, Sumin Jo, Harsh Sinha, <strong>Jifeng Song</strong>, Arun Das, Zhentao Liu, Hugh Galloway, Huey Huang, Kexun Zhang, Shou-Jiang Gao, Yu-Chiao Chiu, Lei Li, <strong>Yufei Huang</strong>
+              </div>
+              <div class="pub-venue">Research Square preprint 2024</div>
+              <div class="text-links">
+                <a href="https://doi.org/10.21203/rs.3.rs-8370059/v1" class="text-btn">Paper</a>
+              </div>
+              <div class="pub-description">A comprehensive survey of AI applications in scientific discovery organized through the EXHYTE framework.</div>
+            </td>
+          </tr>
+        </table>
+      </div>
 
-<div class="news-section">
-* <span class="news-date">[01/2025]</span> Our paper <strong>FigEx2</strong> is released on arXiv. <a href="https://arxiv.org/abs/2601.08026">Check it out!</a>
-* <span class="news-date">[12/2024]</span> Our paper <strong>FigEx</strong> is accepted by EMNLP 2025 Findings. Congrats to the team!
-* <span class="news-date">[12/2024]</span> Our paper <strong>Aligning Findings with Diagnosis</strong> is released on arXiv.
-* <span class="news-date">[11/2024]</span> Our survey paper <strong>A Process-Centric Survey of AI for Scientific Discovery</strong> is released on Research Square.
-* <span class="news-date">[06/2024]</span> Our paper <strong>Achieving Sparse Activation in Small Language Models</strong> is released on arXiv.
+      <div class="project-container">
+        <table class="pub-table">
+          <tr>
+            <td class="media-col">
+              <div class="project-media">
+                <span class="conference-badge">arXiv</span>
+                <img src="{{ base_path }}/images/500x300.png" alt="Sparse Activation">
+              </div>
+            </td>
+            <td class="content-col">
+              <div class="pub-title">
+                <a href="https://arxiv.org/abs/2406.06562">Achieving Sparse Activation in Small Language Models</a>
+              </div>
+              <div class="pub-authors">
+                <strong>Jifeng Song</strong>, Kai Huang, Xiangyu Yin, Boyuan Yang, Wei Gao
+              </div>
+              <div class="pub-venue">arXiv preprint 2024</div>
+              <div class="text-links">
+                <a href="https://arxiv.org/abs/2406.06562" class="text-btn">Paper</a>
+                <a href="https://github.com/pittisl/Sparse-Activation" class="text-btn">Code</a>
+              </div>
+              <div class="pub-description">A method for achieving sparse activation patterns in small language models to improve efficiency and interpretability.</div>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </div>
+  </section>
 </div>
-
-## Selected Publications | [Full list]({{ base_path }}/publications/)
-
-<div class="selected-publication">
-  <div class="pub-thumbnail">
-    <img src="{{ base_path }}/images/figex.png" alt="FigEx">
-  </div>
-  <div class="pub-content">
-    <div class="pub-badge badge-emnlp">EMNLP 2025 Findings</div>
-    <div class="pub-title">FigEx: Aligned Extraction of Scientific Figures and Captions</div>
-    <div class="pub-authors">
-      <strong><span class="author-me">Jifeng Song</span></strong>, <strong>Arun Das</strong>, <strong>Ge Cui</strong>, <strong>Yufei Huang</strong>
-    </div>
-    <div class="pub-venue">Findings of the Association for Computational Linguistics: EMNLP 2025</div>
-    <div class="pub-links">
-      <a href="https://aclanthology.org/2025.findings-emnlp.899/">paper</a>
-      <a href="https://github.com/Huang-AI4Medicine-Lab/FigEx">code</a>
-    </div>
-    <div class="pub-abstract">A framework for aligned extraction of scientific figures and their captions from research papers.</div>
-  </div>
-</div>
-
-<div class="selected-publication">
-  <div class="pub-thumbnail">
-    <img src="{{ base_path }}/images/500x300.png" alt="FigEx2">
-  </div>
-  <div class="pub-content">
-    <div class="pub-badge badge-arxiv">arXiv</div>
-    <div class="pub-title">FigEx2: Visual-Conditioned Panel Detection and Captioning for Scientific Compound Figures</div>
-    <div class="pub-authors">
-      <strong><span class="author-me">Jifeng Song</span></strong>, <strong>Arun Das</strong>, <strong>Pan Wang</strong>, <strong>Hui Ji</strong>, <strong>Kun Zhao</strong>, <strong>Yufei Huang</strong>
-    </div>
-    <div class="pub-venue">arXiv preprint 2025</div>
-    <div class="pub-links">
-      <a href="https://arxiv.org/abs/2601.08026">paper</a>
-    </div>
-    <div class="pub-abstract">A visual-conditioned approach for detecting and captioning panels in scientific compound figures.</div>
-  </div>
-</div>
-
-<div class="selected-publication">
-  <div class="pub-thumbnail">
-    <img src="{{ base_path }}/images/500x300.png" alt="Radiology Reporting">
-  </div>
-  <div class="pub-content">
-    <div class="pub-badge badge-arxiv">arXiv</div>
-    <div class="pub-title">Aligning Findings with Diagnosis: A Self-Consistent Reinforcement Learning Framework for Trustworthy Radiology Reporting</div>
-    <div class="pub-authors">
-      <strong>Kun Zhao</strong>, <strong>Siyuan Dai</strong>, <strong>Pan Wang</strong>, <strong><span class="author-me">Jifeng Song</span></strong>, <strong>Hui Ji</strong>, <strong>Chenghua Lin</strong>, <strong>Liang Zhan</strong>, <strong>Haoteng Tang</strong>
-    </div>
-    <div class="pub-venue">arXiv preprint 2025</div>
-    <div class="pub-links">
-      <a href="https://arxiv.org/abs/2601.03321">paper</a>
-    </div>
-    <div class="pub-abstract">A self-consistent reinforcement learning framework for generating trustworthy radiology reports that align findings with diagnosis.</div>
-  </div>
-</div>
-
-<div class="selected-publication">
-  <div class="pub-thumbnail">
-    <img src="{{ base_path }}/images/500x300.png" alt="EXHYTE Framework">
-  </div>
-  <div class="pub-content">
-    <div class="pub-badge badge-research-square">Res Sq</div>
-    <div class="pub-title">A Process-Centric Survey of AI for Scientific Discovery Through the EXHYTE Framework</div>
-    <div class="pub-authors">
-      <strong>Md Musaddaqul Hasib</strong>, <strong>Sumin Jo</strong>, <strong>Harsh Sinha</strong>, <strong><span class="author-me">Jifeng Song</span></strong>, <strong>Arun Das</strong>, <strong>Zhentao Liu</strong>, <strong>Hugh Galloway</strong>, <strong>Huey Huang</strong>, <strong>Kexun Zhang</strong>, <strong>Shou-Jiang Gao</strong>, <strong>Yu-Chiao Chiu</strong>, <strong>Lei Li</strong>, <strong>Yufei Huang</strong>
-    </div>
-    <div class="pub-venue">Research Square preprint 2024</div>
-    <div class="pub-links">
-      <a href="https://doi.org/10.21203/rs.3.rs-8370059/v1">paper</a>
-    </div>
-    <div class="pub-abstract">A comprehensive survey of AI applications in scientific discovery organized through the EXHYTE framework.</div>
-  </div>
-</div>
-
-<div class="selected-publication">
-  <div class="pub-thumbnail">
-    <img src="{{ base_path }}/images/500x300.png" alt="Sparse Activation">
-  </div>
-  <div class="pub-content">
-    <div class="pub-badge badge-other">arXiv</div>
-    <div class="pub-title">Achieving Sparse Activation in Small Language Models</div>
-    <div class="pub-authors">
-      <strong><span class="author-me">Jifeng Song</span></strong>, <strong>Kai Huang</strong>, <strong>Xiangyu Yin</strong>, <strong>Boyuan Yang</strong>, <strong>Wei Gao</strong>
-    </div>
-    <div class="pub-venue">arXiv preprint 2024</div>
-    <div class="pub-links">
-      <a href="https://arxiv.org/abs/2406.06562">paper</a>
-      <a href="https://github.com/pittisl/Sparse-Activation">code</a>
-    </div>
-    <div class="pub-abstract">A method for achieving sparse activation patterns in small language models to improve efficiency and interpretability.</div>
-  </div>
-</div>
-
-

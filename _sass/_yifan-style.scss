@@ -1,0 +1,478 @@
+/* Yifan Liu Style Homepage - Complete CSS */
+
+/* Override Jekyll default styles for this page */
+.page__content .wrapper,
+.archive .wrapper,
+#main .wrapper {
+  max-width: none !important;
+  padding: 0 !important;
+  margin: 0 auto !important;
+}
+
+#main {
+  max-width: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+.archive {
+  max-width: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+/* Hide Jekyll sidebar and masthead for this layout */
+.page__content .sidebar,
+.archive .sidebar,
+#main .sidebar,
+.masthead {
+  display: none !important;
+}
+
+/* Ensure wrapper takes full width */
+.page__content .wrapper {
+  width: 1060px !important;
+  margin: 0 auto !important;
+}
+
+body {
+  background-color: #fff;
+  padding: 0px;
+  font: 14px/1.5 'Noto Sans SC', sans-serif;
+  color: #595959;
+  font-weight: 400;
+  margin: 0;
+}
+
+.wrapper {
+  width: 1060px;
+  margin: 0 auto;
+}
+
+/* Left sidebar header */
+header {
+  width: 232px;
+  float: left;
+  position: fixed;
+  padding-top: 6.0em;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Avatar styling */
+.image {
+  border-radius: 0.35em;
+  border: 0;
+  display: inline-block;
+  position: relative;
+}
+
+.image.avatar {
+  border-radius: 100%;
+  margin: 0 0 1em 0;
+  width: 6.5em;
+}
+
+.image.avatar img {
+  border-radius: 100%;
+  width: 100%;
+  padding: 0;
+}
+
+h1 {
+  font-weight: 500;
+  color: #2c3e50;
+  margin: 0 0 15px;
+  font-size: 22px;
+}
+
+.position {
+  font-size: 1.05rem;
+  color: #2c3e50;
+  font-weight: 500;
+  margin-bottom: 4px;
+}
+
+.affiliation {
+  color: #3498db;
+  text-decoration: none;
+  margin-bottom: 3px;
+  display: inline-block;
+  font-size: 14px;
+}
+
+.affiliation:hover {
+  color: #2980b9;
+}
+
+email {
+  font-size: 13px;
+  font-family: "Ubuntu Mono", monospace;
+  color: #2c3e50;
+}
+
+/* Social icons */
+.social-icons {
+  margin: 8px 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px;
+}
+
+.social-icons a {
+  display: inline-block;
+  height: 2.2rem;
+  width: 2.2rem;
+  background-color: transparent;
+  color: #3498db;
+  border-radius: 100%;
+  text-align: center;
+  font-size: 1.1rem;
+  line-height: 2.2rem;
+  transition: all 0.3s ease;
+}
+
+.social-icons a:hover {
+  background-color: #3498db;
+  color: white;
+  transform: scale(1.1);
+}
+
+/* Research interests styling */
+.research-interests {
+  margin-top: 0px;
+  text-align: left;
+  font-size: 13px;
+  line-height: 1.4;
+  padding: 0 10px;
+  width: 100%;
+}
+
+.research-interests p {
+  margin-bottom: 8px;
+  font-weight: 600;
+  color: #2c3e50;
+}
+
+.research-interests ul {
+  margin: 8px 0;
+  padding-left: 18px;
+}
+
+.research-interests li {
+  margin-bottom: 6px;
+}
+
+/* Main content section */
+section {
+  width: 750px;
+  float: right;
+  padding-top: 1.2em;
+  padding-bottom: 50px;
+}
+
+/* Section headers */
+h2 {
+  color: #2c3e50;
+  font-weight: 500;
+  margin: 20px 0px 20px;
+  font-size: 20px;
+  border-bottom: 1px solid #e5e5e5;
+  padding-bottom: 8px;
+}
+
+/* About section */
+.about-section {
+  margin-bottom: 30px;
+  padding-top: 0;
+}
+
+.about-section p {
+  text-align: justify;
+  margin-bottom: 18px;
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+/* News section */
+.news-section {
+  margin-bottom: 30px;
+}
+
+.news-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.news-list li {
+  margin-bottom: 12px;
+  padding: 8px 0;
+  font-size: 13px;
+  line-height: 1.5;
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+}
+
+.news-list li strong {
+  color: #2c3e50;
+  font-weight: 600;
+  min-width: 110px;
+  flex-shrink: 0;
+}
+
+.news-content {
+  flex: 1;
+  color: #2c3e50;
+}
+
+/* Publications section */
+.publications-section {
+  margin-bottom: 30px;
+}
+
+.publications-section p {
+  margin-bottom: 25px;
+  font-size: 13px;
+  color: #595959;
+}
+
+/* Project containers */
+.project-container {
+  width: 100%;
+  margin-bottom: 35px;
+  overflow: visible;
+}
+
+.pub-table {
+  width: 100%;
+  border-collapse: separate;
+  margin-bottom: 15px;
+  overflow: visible;
+}
+
+.pub-table td {
+  padding: 0;
+  vertical-align: middle;
+}
+
+.pub-table .media-col {
+  width: 30%;
+  padding-right: 15px;
+  padding-top: 20px;
+  vertical-align: middle;
+  text-align: center;
+  position: relative;
+  overflow: visible;
+}
+
+.pub-table .content-col {
+  width: 70%;
+}
+
+.project-media {
+  position: relative;
+  margin: 16px auto 0 auto;
+  display: inline-block;
+  width: 90%;
+  border-radius: 8px;
+  overflow: visible;
+}
+
+.project-media video,
+.project-media img {
+  border-radius: 6px !important;
+  display: block;
+  width: 100%;
+  transition: transform 0.3s ease;
+}
+
+.project-media:hover video,
+.project-media:hover img {
+  transform: scale(1.5);
+  z-index: 1000;
+  position: relative;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+  border-radius: 8px;
+}
+
+.media-col .conference-badge {
+  position: absolute;
+  top: 10px;
+  left: 5%;
+  width: auto;
+  z-index: 10;
+  display: inline-block;
+  background-color: #3498db !important;
+  color: white !important;
+  padding: 6px 10px !important;
+  border-radius: 5px !important;
+  font-size: 11px !important;
+  font-weight: bold !important;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2) !important;
+  white-space: nowrap;
+  line-height: 1 !important;
+  box-sizing: border-box;
+  display: inline-block !important;
+  font-family: inherit !important;
+  vertical-align: baseline;
+  margin: 0;
+  border: none;
+  min-width: auto;
+  max-width: none;
+  height: auto;
+}
+
+/* Publication text elements */
+.pub-title,
+.pub-authors,
+.pub-venue,
+.pub-description {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.pub-title {
+  margin-bottom: 8px !important;
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 1.3;
+  transition: color 0.3s ease;
+}
+
+.pub-title a {
+  color: #2c3e50;
+  text-decoration: none;
+}
+
+.pub-title a:hover {
+  color: #3498db !important;
+}
+
+.pub-authors {
+  margin-bottom: 8px !important;
+  color: #595959;
+  font-size: 13px;
+  line-height: 1.2;
+}
+
+.pub-authors strong {
+  color: #2c3e50;
+  font-weight: 600;
+}
+
+.pub-venue {
+  margin-bottom: 8px !important;
+  font-style: italic;
+  color: #2c3e50;
+  font-size: 13px;
+  line-height: 1.2;
+}
+
+.pub-description {
+  margin-top: 8px !important;
+  color: #2c3e50;
+  font-size: 12px;
+  line-height: 1.2;
+}
+
+/* Button styles - thin border, no fill */
+.text-links {
+  display: flex;
+  gap: 12px;
+  margin: 0 0 8px 0 !important;
+  padding: 0 !important;
+  flex-wrap: wrap;
+}
+
+.text-btn {
+  background-color: transparent;
+  color: #3498db;
+  padding: 4px 10px;
+  border: 1px solid #3498db;
+  border-radius: 3px;
+  text-decoration: none;
+  font-size: 11px;
+  font-weight: 500;
+  transition: all 0.3s ease;
+}
+
+.text-btn:hover {
+  background-color: #3498db;
+  color: white;
+}
+
+/* Mobile responsive */
+@media print,
+screen and (max-width: 1060px) {
+  .wrapper {
+    width: auto;
+    margin: 0;
+  }
+
+  header,
+  section {
+    float: none;
+    position: static;
+    width: auto;
+  }
+
+  header {
+    padding: 0;
+    padding-top: 20px;
+    margin-bottom: 0;
+    text-align: center;
+  }
+
+  section {
+    padding: 0 20px;
+  }
+
+  /* Mobile: show media above content */
+  .pub-table {
+    display: block;
+  }
+
+  .pub-table tbody,
+  .pub-table tr {
+    display: block;
+  }
+
+  .pub-table .media-col {
+    display: block;
+    width: 100%;
+    !important;
+    text-align: center;
+    margin-bottom: 15px;
+  }
+
+  .pub-table .content-col {
+    width: 100%;
+    display: block;
+  }
+
+  .project-media {
+    display: block;
+    position: static;
+    width: 70%;
+    margin: 0 auto;
+  }
+
+  .media-col .conference-badge {
+    display: block;
+    position: relative;
+    left: auto;
+    top: auto;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  /* Hide research interests on mobile */
+  .research-interests {
+    display: none;
+  }
+}
