@@ -31,15 +31,14 @@ body {
 header {
   width: 232px !important;
   float: left !important;
-  position: fixed !important;
-  left: 50% !important;
-  margin-left: -530px !important; /* Half of wrapper width (1060px / 2) minus half of header width (232px / 2) */
+  position: relative !important;
   padding-top: 6.0em !important;
   text-align: center !important;
   display: flex !important;
   flex-direction: column !important;
   align-items: center !important;
   z-index: 10 !important;
+  margin-right: 48px !important;
 }
 
 /* Avatar styling */
@@ -193,7 +192,7 @@ section {
   float: right !important;
   padding-top: 1.2em !important;
   padding-bottom: 50px !important;
-  margin-left: 280px !important; /* 232px (header width) + 48px (spacing) */
+  margin-left: 0 !important;
   margin-right: 0 !important;
   position: relative !important;
   z-index: 1 !important;

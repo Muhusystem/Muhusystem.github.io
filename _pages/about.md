@@ -10,7 +10,6 @@ title: "About Me"
       <img src="{{ base_path }}/images/jifengsong.JPG" alt="Jifeng Song">
     </div>
     <h1>Jifeng Song</h1>
-    <p class="position">Ph.D. Student</p>
     <email>JIS219[at]pitt.edu</email>
     
     <div class="social-icons">
