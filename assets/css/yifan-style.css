@@ -50,7 +50,7 @@ body {
   width: 1060px !important;
   max-width: 1060px !important;
   margin: 0 auto !important;
-  padding: 0 20px !important;
+  padding: 0 !important;
   position: relative !important;
   clear: both !important;
   overflow: visible !important;
