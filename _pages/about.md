@@ -56,23 +56,23 @@ title: "About Me"
       <h2>News</h2>
       <ul class="news-list">
         <li>
-          <strong>[01/2025]</strong>
+          <strong>[01/2026]</strong>
           <span class="news-content">Our paper <strong>FigEx2</strong> is released on arXiv. <a href="https://arxiv.org/abs/2601.08026">Check it out!</a></span>
         </li>
         <li>
-          <strong>[01/2025]</strong>
+          <strong>[01/2026]</strong>
           <span class="news-content">Our paper <strong>Aligning Findings with Diagnosis</strong> is released on arXiv.</span>
         </li>
         <li>
-          <strong>[01/2025]</strong>
+          <strong>[11/2025]</strong>
           <span class="news-content">Our paper <strong>FigEx</strong> is accepted by EMNLP 2025 Findings. Congrats to the team!</span>
         </li>
         <li>
-          <strong>[12/2024]</strong>
+          <strong>[12/2025]</strong>
           <span class="news-content">Our survey paper <strong>A Process-Centric Survey of AI for Scientific Discovery</strong> is released on Research Square.</span>
         </li>
         <li>
-          <strong>[06/2024]</strong>
+          <strong>[06/2025]</strong>
           <span class="news-content">Our paper <strong>Achieving Sparse Activation in Small Language Models</strong> is released on arXiv.</span>
         </li>
       </ul>
