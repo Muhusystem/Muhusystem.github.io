@@ -69,7 +69,7 @@ title: "About Me"
         </li>
         <li>
           <strong>[11/2025]</strong>
-          <span class="news-content">Our paper <strong>FigEx</strong> is accepted by EMNLP 2025 Findings. Congrats to the team!</span>
+          <span class="news-content">Our paper <strong>FigEx</strong> is accepted by EMNLP 2025 Findings.</span>
         </li>
         <li>
           <strong>[06/2024]</strong>
@@ -87,33 +87,6 @@ title: "About Me"
           <tr>
             <td class="media-col">
               <div class="project-media">
-                <span class="conference-badge">EMNLP 2025 Findings</span>
-                <img src="{{ base_path }}/images/figex.png" alt="FigEx">
-              </div>
-            </td>
-            <td class="content-col">
-              <div class="pub-title">
-                <a href="https://aclanthology.org/2025.findings-emnlp.899/">FigEx: Aligned Extraction of Scientific Figures and Captions</a>
-              </div>
-              <div class="pub-authors">
-                <strong>Jifeng Song</strong>, Arun Das, <strong>Ge Cui</strong>, <strong>Yufei Huang</strong>
-              </div>
-              <div class="pub-venue">Findings of the Association for Computational Linguistics: EMNLP 2025</div>
-              <div class="text-links">
-                <a href="https://aclanthology.org/2025.findings-emnlp.899/" class="text-btn">Paper</a>
-                <a href="https://github.com/Huang-AI4Medicine-Lab/FigEx" class="text-btn">Code</a>
-              </div>
-              <div class="pub-description">A framework for aligned extraction of scientific figures and their captions from research papers.</div>
-            </td>
-          </tr>
-        </table>
-      </div>
-
-      <div class="project-container">
-        <table class="pub-table">
-          <tr>
-            <td class="media-col">
-              <div class="project-media">
                 <span class="conference-badge">arXiv</span>
                 <img src="{{ base_path }}/images/500x300.png" alt="FigEx2">
               </div>
@@ -123,13 +96,12 @@ title: "About Me"
                 <a href="https://arxiv.org/abs/2601.08026">FigEx2: Visual-Conditioned Panel Detection and Captioning for Scientific Compound Figures</a>
               </div>
               <div class="pub-authors">
-                <strong>Jifeng Song</strong>, Arun Das, Pan Wang, Hui Ji, Kun Zhao, <strong>Yufei Huang</strong>
+                <strong>Jifeng Song</strong>, Arun Das, Pan Wang, Hui Ji, Kun Zhao, Yufei Huang
               </div>
               <div class="pub-venue">arXiv preprint 2025</div>
               <div class="text-links">
                 <a href="https://arxiv.org/abs/2601.08026" class="text-btn">Paper</a>
               </div>
-              <div class="pub-description">A visual-conditioned approach for detecting and captioning panels in scientific compound figures.</div>
             </td>
           </tr>
         </table>
@@ -155,7 +127,6 @@ title: "About Me"
               <div class="text-links">
                 <a href="https://arxiv.org/abs/2601.03321" class="text-btn">Paper</a>
               </div>
-              <div class="pub-description">A self-consistent reinforcement learning framework for generating trustworthy radiology reports that align findings with diagnosis.</div>
             </td>
           </tr>
         </table>
@@ -175,13 +146,38 @@ title: "About Me"
                 <a href="https://doi.org/10.21203/rs.3.rs-8370059/v1">A Process-Centric Survey of AI for Scientific Discovery Through the EXHYTE Framework</a>
               </div>
               <div class="pub-authors">
-                Md Musaddaqul Hasib, Sumin Jo, Harsh Sinha, <strong>Jifeng Song</strong>, Arun Das, Zhentao Liu, Hugh Galloway, Huey Huang, Kexun Zhang, Shou-Jiang Gao, Yu-Chiao Chiu, Lei Li, <strong>Yufei Huang</strong>
+                Md Musaddaqul Hasib, Sumin Jo, Harsh Sinha, <strong>Jifeng Song</strong>, Arun Das, Zhentao Liu, Hugh Galloway, Huey Huang, Kexun Zhang, Shou-Jiang Gao, Yu-Chiao Chiu, Lei Li, Yufei Huang
               </div>
               <div class="pub-venue">Research Square preprint 2024</div>
               <div class="text-links">
                 <a href="https://doi.org/10.21203/rs.3.rs-8370059/v1" class="text-btn">Paper</a>
               </div>
-              <div class="pub-description">A comprehensive survey of AI applications in scientific discovery organized through the EXHYTE framework.</div>
+            </td>
+          </tr>
+        </table>
+      </div>
+
+      <div class="project-container">
+        <table class="pub-table">
+          <tr>
+            <td class="media-col">
+              <div class="project-media">
+                <span class="conference-badge">EMNLP 2025 Findings</span>
+                <img src="{{ base_path }}/images/figex.png" alt="FigEx">
+              </div>
+            </td>
+            <td class="content-col">
+              <div class="pub-title">
+                <a href="https://aclanthology.org/2025.findings-emnlp.899/">FigEx: Aligned Extraction of Scientific Figures and Captions</a>
+              </div>
+              <div class="pub-authors">
+                <strong>Jifeng Song</strong>, Arun Das, Ge Cui, Yufei Huang
+              </div>
+              <div class="pub-venue">Findings of the Association for Computational Linguistics: EMNLP 2025</div>
+              <div class="text-links">
+                <a href="https://aclanthology.org/2025.findings-emnlp.899/" class="text-btn">Paper</a>
+                <a href="https://github.com/Huang-AI4Medicine-Lab/FigEx" class="text-btn">Code</a>
+              </div>
             </td>
           </tr>
         </table>
@@ -208,7 +204,6 @@ title: "About Me"
                 <a href="https://arxiv.org/abs/2406.06562" class="text-btn">Paper</a>
                 <a href="https://github.com/pittisl/Sparse-Activation" class="text-btn">Code</a>
               </div>
-              <div class="pub-description">A method for achieving sparse activation patterns in small language models to improve efficiency and interpretability.</div>
             </td>
           </tr>
         </table>
