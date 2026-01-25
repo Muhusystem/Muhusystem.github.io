@@ -1,12 +1,12 @@
-/* Yifan Liu Style Homepage - Complete CSS */
+/* Yifan Liu Style - Complete CSS */
 
-/* Override Jekyll default styles for this page */
-.page__content .wrapper,
-.archive .wrapper,
-#main .wrapper {
-  max-width: none !important;
-  padding: 0 !important;
-  margin: 0 auto !important;
+/* Hide Jekyll default elements */
+.masthead,
+.sidebar,
+.page__footer,
+.breadcrumbs,
+.page__title {
+  display: none !important;
 }
 
 #main {
@@ -19,20 +19,6 @@
   max-width: none !important;
   padding: 0 !important;
   margin: 0 !important;
-}
-
-/* Hide Jekyll sidebar and masthead for this layout */
-.page__content .sidebar,
-.archive .sidebar,
-#main .sidebar,
-.masthead {
-  display: none !important;
-}
-
-/* Ensure wrapper takes full width */
-.page__content .wrapper {
-  width: 1060px !important;
-  margin: 0 auto !important;
 }
 
 body {
@@ -379,7 +365,7 @@ h2 {
   line-height: 1.2;
 }
 
-/* Button styles - thin border, no fill */
+/* Button styles */
 .text-links {
   display: flex;
   gap: 12px;
@@ -431,7 +417,6 @@ screen and (max-width: 1060px) {
     padding: 0 20px;
   }
 
-  /* Mobile: show media above content */
   .pub-table {
     display: block;
   }
@@ -444,7 +429,6 @@ screen and (max-width: 1060px) {
   .pub-table .media-col {
     display: block;
     width: 100%;
-    !important;
     text-align: center;
     margin-bottom: 15px;
   }
@@ -471,7 +455,6 @@ screen and (max-width: 1060px) {
     margin-right: auto;
   }
 
-  /* Hide research interests on mobile */
   .research-interests {
     display: none;
   }
