@@ -92,7 +92,6 @@ title: "About Me"
 
     <div class="publications-section">
       <h2>Selected Publications | <a href="{{ base_path }}/publications/">Full list</a></h2>
-      <p>(*equal contribution)</p>
 
       <div class="project-container">
         <table class="pub-table">
