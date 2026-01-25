@@ -13,7 +13,6 @@ title: "About Me"
     </div>
     <h1>Jifeng Song</h1>
     <p class="position">Ph.D. Student</p>
-    <p class="affiliation"><a href="https://www.pitt.edu/">University of Pittsburgh</a></p>
     <email>JIS219[at]pitt.edu</email>
     
     <div class="social-icons">
@@ -27,8 +26,8 @@ title: "About Me"
       <p>Research Interests:</p>
       <ul>
         <li>Multimodal Learning</li>
-        <li>AI for Biomedicine</li>
         <li>Vision-Language Models</li>
+        <li>AI for Biomedicine</li>
         <li>Computational Biology</li>
       </ul>
     </div>
@@ -61,15 +60,15 @@ title: "About Me"
           <span class="news-content">Our paper <strong>FigEx2</strong> is released on arXiv. <a href="https://arxiv.org/abs/2601.08026">Check it out!</a></span>
         </li>
         <li>
-          <strong>[12/2024]</strong>
+          <strong>[01/2025]</strong>
+          <span class="news-content">Our paper <strong>Aligning Findings with Diagnosis</strong> is released on arXiv.</span>
+        </li>
+        <li>
+          <strong>[01/2025]</strong>
           <span class="news-content">Our paper <strong>FigEx</strong> is accepted by EMNLP 2025 Findings. Congrats to the team!</span>
         </li>
         <li>
           <strong>[12/2024]</strong>
-          <span class="news-content">Our paper <strong>Aligning Findings with Diagnosis</strong> is released on arXiv.</span>
-        </li>
-        <li>
-          <strong>[11/2024]</strong>
           <span class="news-content">Our survey paper <strong>A Process-Centric Survey of AI for Scientific Discovery</strong> is released on Research Square.</span>
         </li>
         <li>
