@@ -94,10 +94,13 @@ h1 {
 }
 
 email {
-  font-size: 13px;
-  font-family: "Ubuntu Mono", monospace;
-  color: #2c3e50;
-  display: block;
+  font-size: 13px !important;
+  font-family: "Ubuntu Mono", monospace !important;
+  color: #2c3e50 !important;
+  display: block !important;
+  margin-bottom: 1em !important;
+  text-align: center !important;
+  width: 100% !important;
 }
 
 /* Social icons */
