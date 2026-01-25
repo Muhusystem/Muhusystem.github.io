@@ -19,11 +19,12 @@ body {
 
 /* Wrapper */
 .wrapper {
-  width: 1060px;
-  margin: 0 auto;
-  padding: 0;
-  position: relative;
-  clear: both;
+  width: 1060px !important;
+  margin: 0 auto !important;
+  padding: 0 !important;
+  position: relative !important;
+  clear: both !important;
+  overflow: hidden;
 }
 
 /* Left sidebar header */
@@ -122,21 +123,21 @@ email {
 }
 
 .social-icon {
-  font-size: 0.9rem !important;
-  margin-right: 10px;
+  font-size: 13px !important;
+  margin-right: 8px;
   display: inline-block;
   flex-shrink: 0;
   width: auto;
   text-align: center;
   color: #2c3e50;
-  line-height: 1.5;
+  line-height: 1.4;
 }
 
 .social-text {
-  font-size: 0.9rem;
+  font-size: 13px;
   font-weight: 400;
   text-align: left;
-  line-height: 1.5;
+  line-height: 1.4;
   color: inherit;
 }
 
@@ -177,10 +178,12 @@ email {
 
 /* Main content section */
 section {
-  width: 750px;
-  float: right;
-  padding-top: 1.2em;
-  padding-bottom: 50px;
+  width: 750px !important;
+  float: right !important;
+  padding-top: 1.2em !important;
+  padding-bottom: 50px !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
 }
 
 /* Section headers */
