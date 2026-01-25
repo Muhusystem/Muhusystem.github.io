@@ -2,9 +2,15 @@
 
 /* Reset everything first */
 * {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
+  box-sizing: border-box !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+html {
+  margin: 0 !important;
+  padding: 0 !important;
+  text-align: left !important;
 }
 
 body {
@@ -16,6 +22,7 @@ body {
   margin: 0 !important;
   overflow-x: hidden !important;
   text-align: left !important;
+  width: 100% !important;
 }
 
 /* Hide all Jekyll default containers */
@@ -28,9 +35,14 @@ body {
 .sidebar,
 .page__footer,
 .breadcrumbs,
-.page__title {
+.page__title,
+.site-footer,
+.site-header {
   display: none !important;
   visibility: hidden !important;
+  height: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
 }
 
 /* Wrapper */
@@ -38,12 +50,13 @@ body {
   width: 1060px !important;
   max-width: 1060px !important;
   margin: 0 auto !important;
-  padding: 0 !important;
+  padding: 0 20px !important;
   position: relative !important;
   clear: both !important;
-  overflow: hidden !important;
+  overflow: visible !important;
   display: block !important;
   text-align: left !important;
+  min-height: 100vh !important;
 }
 
 /* Left sidebar header */
