@@ -1,11 +1,7 @@
 ---
-layout: archive
+layout: yifan-homepage
 permalink: /
 title: "About Me"
-author_profile: false
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 <link rel="stylesheet" href="{{ base_path }}/assets/css/yifan-style.css">
