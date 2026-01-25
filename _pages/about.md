@@ -210,7 +210,7 @@ title: "About Me"
               <div class="pub-authors">
                 <strong>Jifeng Song</strong>, Kai Huang, Xiangyu Yin, Boyuan Yang, Wei Gao
               </div>
-              <div class="pub-venue">arXiv preprint 2025</div>
+              <div class="pub-venue">arXiv preprint 2024</div>
               <div class="text-links">
                 <a href="https://arxiv.org/abs/2406.06562" class="text-btn">Paper</a>
                 <a href="https://github.com/pittisl/Sparse-Activation" class="text-btn">Code</a>
