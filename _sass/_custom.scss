@@ -11,3 +11,187 @@
   vertical-align: baseline;
   white-space: nowrap;
 }
+
+/* Selected Publications Style - Similar to Yifan Liu's homepage */
+.selected-publication {
+  display: flex;
+  margin-bottom: 2.5em;
+  padding-bottom: 2em;
+  border-bottom: 1px solid #e5e7eb;
+  
+  &:last-child {
+    border-bottom: none;
+  }
+  
+  @media (max-width: 768px) {
+    flex-direction: column;
+  }
+}
+
+.pub-thumbnail {
+  flex-shrink: 0;
+  width: 200px;
+  height: 120px;
+  margin-right: 1.5em;
+  border-radius: 4px;
+  overflow: hidden;
+  background-color: #f3f4f6;
+  
+  @media (max-width: 768px) {
+    width: 100%;
+    height: auto;
+    margin-right: 0;
+    margin-bottom: 1em;
+  }
+  
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+}
+
+.pub-content {
+  flex: 1;
+}
+
+.pub-badge {
+  display: inline-block;
+  background: #2563eb;
+  color: #fff;
+  padding: 4px 10px;
+  border-radius: 6px;
+  font-weight: 600;
+  font-size: 0.85em;
+  margin-bottom: 0.8em;
+  vertical-align: baseline;
+  white-space: nowrap;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  
+  /* 所有pub类型统一为蓝色 */
+  &.badge-emnlp {
+    background: #2563eb;
+  }
+  
+  &.badge-arxiv {
+    background: #2563eb;
+  }
+  
+  &.badge-research-square {
+    background: #2563eb;
+  }
+  
+  &.badge-other {
+    background: #2563eb;
+  }
+}
+
+.pub-title {
+  font-size: 1.15em;
+  font-weight: 700;  /* 加粗 */
+  color: #111827;
+  margin-bottom: 0.6em;
+  line-height: 1.4;
+  
+  a {
+    color: inherit;
+    text-decoration: none;
+    font-weight: 700;  /* 加粗 */
+    
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+.pub-authors {
+  font-size: 0.95em;
+  color: #111827;  /* 深色，更突出 */
+  margin-bottom: 0.4em;
+  line-height: 1.5;
+  
+  /* 所有作者名字加粗 */
+  strong {
+    font-weight: 700;
+  }
+  
+  .author-me {
+    text-decoration: underline;
+    font-weight: 700;  /* 自己的名字更粗 */
+  }
+}
+
+.pub-venue {
+  font-size: 0.9em;
+  color: #6b7280;
+  margin-bottom: 0.6em;
+}
+
+.pub-links {
+  margin-top: 0.8em;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6em;
+  
+  a {
+    display: inline-block;
+    padding: 6px 14px;
+    font-size: 0.9em;
+    font-weight: 500;
+    color: #2563eb;
+    background: #fff;
+    border: 1.5px solid #2563eb;
+    border-radius: 6px;
+    text-decoration: none;
+    transition: all 0.2s ease;
+    
+    &:hover {
+      background: #2563eb;
+      color: #fff;
+      text-decoration: none;
+    }
+    
+    /* 移除方括号 */
+    &::before,
+    &::after {
+      content: "";
+    }
+  }
+}
+
+.pub-abstract {
+  font-size: 0.9em;
+  color: #4b5563;
+  margin-top: 0.5em;
+  line-height: 1.6;
+  font-style: italic;
+}
+
+/* News Section */
+.news-section {
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+.news-item {
+  margin-bottom: 0.8em;
+  line-height: 1.6;
+  
+  .news-date {
+    font-weight: 600;
+    color: #111827;
+  }
+  
+  a {
+    color: #2563eb;
+    text-decoration: none;
+    
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+  
+  strong {
+    color: #111827;
+  }
+}
