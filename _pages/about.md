@@ -98,7 +98,7 @@ title: "About Me"
               <div class="pub-authors">
                 <strong>Jifeng Song</strong>, Arun Das, Pan Wang, Hui Ji, Kun Zhao, Yufei Huang
               </div>
-              <div class="pub-venue">arXiv preprint 2025</div>
+              <div class="pub-venue">arXiv preprint 2026</div>
               <div class="text-links">
                 <a href="https://arxiv.org/abs/2601.08026" class="text-btn">Paper</a>
               </div>
@@ -123,7 +123,7 @@ title: "About Me"
               <div class="pub-authors">
                 Kun Zhao, Siyuan Dai, Pan Wang, <strong>Jifeng Song</strong>, Hui Ji, Chenghua Lin, Liang Zhan, Haoteng Tang
               </div>
-              <div class="pub-venue">arXiv preprint 2025</div>
+              <div class="pub-venue">arXiv preprint 2026</div>
               <div class="text-links">
                 <a href="https://arxiv.org/abs/2601.03321" class="text-btn">Paper</a>
               </div>
@@ -148,7 +148,7 @@ title: "About Me"
               <div class="pub-authors">
                 Md Musaddaqul Hasib, Sumin Jo, Harsh Sinha, <strong>Jifeng Song</strong>, Arun Das, Zhentao Liu, Hugh Galloway, Huey Huang, Kexun Zhang, Shou-Jiang Gao, Yu-Chiao Chiu, Lei Li, Yufei Huang
               </div>
-              <div class="pub-venue">Research Square preprint 2024</div>
+              <div class="pub-venue">Research Square preprint 2025</div>
               <div class="text-links">
                 <a href="https://doi.org/10.21203/rs.3.rs-8370059/v1" class="text-btn">Paper</a>
               </div>
@@ -162,7 +162,7 @@ title: "About Me"
           <tr>
             <td class="media-col">
               <div class="project-media">
-                <span class="conference-badge">EMNLP 2025 Findings</span>
+                <span class="conference-badge">EMNLP 2026 Findings</span>
                 <img src="{{ base_path }}/images/figex.png" alt="FigEx">
               </div>
             </td>
@@ -173,7 +173,7 @@ title: "About Me"
               <div class="pub-authors">
                 <strong>Jifeng Song</strong>, Arun Das, Ge Cui, Yufei Huang
               </div>
-              <div class="pub-venue">Findings of the Association for Computational Linguistics: EMNLP 2025</div>
+              <div class="pub-venue">Findings of the Association for Computational Linguistics: EMNLP 2026</div>
               <div class="text-links">
                 <a href="https://aclanthology.org/2025.findings-emnlp.899/" class="text-btn">Paper</a>
                 <a href="https://github.com/Huang-AI4Medicine-Lab/FigEx" class="text-btn">Code</a>
@@ -199,7 +199,7 @@ title: "About Me"
               <div class="pub-authors">
                 <strong>Jifeng Song</strong>, Kai Huang, Xiangyu Yin, Boyuan Yang, Wei Gao
               </div>
-              <div class="pub-venue">arXiv preprint 2024</div>
+              <div class="pub-venue">arXiv preprint 2025</div>
               <div class="text-links">
                 <a href="https://arxiv.org/abs/2406.06562" class="text-btn">Paper</a>
                 <a href="https://github.com/pittisl/Sparse-Activation" class="text-btn">Code</a>
