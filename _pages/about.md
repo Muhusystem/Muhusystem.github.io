@@ -16,10 +16,22 @@ title: "About Me"
     <email>JIS219[at]pitt.edu</email>
     
     <div class="social-icons">
-      <a href="https://scholar.google.com/citations?user=U_c8QM0AAAAJ&hl=en" title="Google Scholar">🔍</a>
-      <a href="https://github.com/Muhusystem" title="GitHub">💻</a>
-      <a href="https://www.linkedin.com/in/jifeng-song-51b2971a3" title="LinkedIn">💼</a>
-      <a href="mailto:JIS219@pitt.edu" title="Email">✉️</a>
+      <a href="https://scholar.google.com/citations?user=U_c8QM0AAAAJ&hl=en" title="Google Scholar">
+        <span class="social-icon">🔍</span>
+        <span class="social-text">Google Scholar</span>
+      </a>
+      <a href="https://github.com/Muhusystem" title="GitHub">
+        <span class="social-icon">💻</span>
+        <span class="social-text">GitHub</span>
+      </a>
+      <a href="https://www.linkedin.com/in/jifeng-song-51b2971a3" title="LinkedIn">
+        <span class="social-icon">💼</span>
+        <span class="social-text">LinkedIn</span>
+      </a>
+      <a href="mailto:JIS219@pitt.edu" title="Email">
+        <span class="social-icon">✉️</span>
+        <span class="social-text">Email</span>
+      </a>
     </div>
     
     <div class="research-interests">
@@ -57,7 +69,7 @@ title: "About Me"
       <ul class="news-list">
         <li>
           <strong>[01/2026]</strong>
-          <span class="news-content">Our paper <strong>FigEx2</strong> is released on arXiv. <a href="https://arxiv.org/abs/2601.08026">Check it out!</a></span>
+          <span class="news-content">Our paper <strong>FigEx2</strong> is released on arXiv.</span>
         </li>
         <li>
           <strong>[01/2026]</strong>
@@ -162,7 +174,7 @@ title: "About Me"
           <tr>
             <td class="media-col">
               <div class="project-media">
-                <span class="conference-badge">EMNLP 2026 Findings</span>
+                <span class="conference-badge">EMNLP 2025 Findings</span>
                 <img src="{{ base_path }}/images/figex.png" alt="FigEx">
               </div>
             </td>
@@ -173,7 +185,7 @@ title: "About Me"
               <div class="pub-authors">
                 <strong>Jifeng Song</strong>, Arun Das, Ge Cui, Yufei Huang
               </div>
-              <div class="pub-venue">Findings of the Association for Computational Linguistics: EMNLP 2026</div>
+              <div class="pub-venue">Findings of the Association for Computational Linguistics: EMNLP 2025</div>
               <div class="text-links">
                 <a href="https://aclanthology.org/2025.findings-emnlp.899/" class="text-btn">Paper</a>
                 <a href="https://github.com/Huang-AI4Medicine-Lab/FigEx" class="text-btn">Code</a>
