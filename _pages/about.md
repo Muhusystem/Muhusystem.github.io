@@ -127,7 +127,6 @@ title: "About Me"
         <table class="pub-table">
           <tr>
             <td class="media-col">
-              <div class="project-media">
               <div class="conference-badge">arXiv</div>
               <div class="project-media">
                 <img src="{{ base_path }}/images/500x300.png" alt="Radiology Reporting">
