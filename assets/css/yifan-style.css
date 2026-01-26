@@ -8,59 +8,34 @@
 }
 
 body {
-  background-color: #fff !important;
-  padding: 0 !important;
-  font: 14px/1.5 'Noto Sans SC', sans-serif !important;
-  color: #595959 !important;
-  font-weight: 400 !important;
-  margin: 0 !important;
-  overflow-x: hidden !important;
-  text-align: left !important;
-}
-
-/* Hide all Jekyll default containers */
-#main,
-.page,
-.archive,
-.page__content,
-.page__inner-wrap,
-.masthead,
-.sidebar,
-.page__footer,
-.breadcrumbs,
-.page__title {
-  display: none !important;
-  visibility: hidden !important;
+  background-color: #fff;
+  padding: 0;
+  font: 14px/1.5 'Noto Sans SC', sans-serif;
+  color: #595959;
+  font-weight: 400;
+  margin: 0;
+  overflow-x: hidden;
 }
 
 /* Wrapper */
 .wrapper {
-  width: 1060px !important;
-  max-width: 1060px !important;
-  margin: 0 auto !important;
-  padding: 0 !important;
-  position: relative !important;
-  clear: both !important;
-  overflow: hidden !important;
-  display: block !important;
-  text-align: left !important;
+  width: 1060px;
+  margin: 0 auto;
+  padding: 0;
+  position: relative;
+  clear: both;
 }
 
 /* Left sidebar header */
 header {
-  width: 232px !important;
-  max-width: 232px !important;
-  float: left !important;
-  position: relative !important;
-  padding-top: 6.0em !important;
-  text-align: center !important;
-  display: flex !important;
-  flex-direction: column !important;
-  align-items: center !important;
-  z-index: 10 !important;
-  margin-right: 48px !important;
-  margin-left: 0 !important;
-  clear: left !important;
+  width: 232px;
+  float: left;
+  position: fixed;
+  padding-top: 6.0em;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 /* Avatar styling */
@@ -87,19 +62,15 @@ header {
 h1 {
   font-weight: 500;
   color: #2c3e50;
-  margin: 0 0 8px;
-  font-size: 18px;
-  text-align: center;
-  width: 100%;
+  margin: 0 0 15px;
+  font-size: 22px;
 }
 
 .position {
-  font-size: 13px;
+  font-size: 1.05rem;
   color: #2c3e50;
   font-weight: 500;
-  margin-bottom: 6px;
-  text-align: center;
-  width: 100%;
+  margin-bottom: 4px;
 }
 
 .affiliation {
@@ -115,38 +86,35 @@ h1 {
 }
 
 email {
-  font-size: 13px !important;
-  font-family: "Ubuntu Mono", monospace !important;
-  color: #2c3e50 !important;
-  display: block !important;
-  margin-bottom: 1em !important;
-  text-align: center !important;
-  width: 100% !important;
+  font-size: 13px;
+  font-family: "Ubuntu Mono", monospace;
+  color: #2c3e50;
+  display: block;
 }
 
 /* Social icons */
 .social-icons {
-  margin: 8px 0 !important;
-  display: flex !important;
-  flex-direction: column !important;
-  align-items: center !important;
-  gap: 8px !important;
-  width: 100% !important;
-  padding: 0 !important;
+  margin: 8px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  padding: 0 10px;
 }
 
 .social-icons a {
-  display: flex !important;
-  flex-direction: row !important;
-  align-items: center !important;
-  justify-content: center !important;
-  background-color: transparent !important;
-  color: #2c3e50 !important;
-  text-decoration: none !important;
-  transition: all 0.3s ease !important;
-  padding: 4px 0 !important;
-  width: 100% !important;
-  line-height: 1.4 !important;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  background-color: transparent;
+  color: #2c3e50;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  padding: 4px 0;
+  width: 100%;
+  line-height: 1.5;
 }
 
 .social-icons a:hover {
@@ -154,32 +122,30 @@ email {
 }
 
 .social-icon {
-  font-size: 13px !important;
+  font-size: 1.2rem;
   margin-right: 8px;
   display: inline-block;
   flex-shrink: 0;
-  width: auto;
+  width: 1.5rem;
   text-align: center;
-  color: #2c3e50;
-  line-height: 1.4;
 }
 
 .social-text {
-  font-size: 13px;
+  font-size: 0.9rem;
   font-weight: 400;
   text-align: left;
-  line-height: 1.4;
+  line-height: 1.5;
   color: inherit;
 }
 
 /* Research interests styling */
 .research-interests {
-  margin-top: 0px !important;
-  text-align: center !important;
-  font-size: 13px !important;
-  line-height: 1.4 !important;
-  padding: 0 !important;
-  width: 100% !important;
+  margin-top: 0px;
+  text-align: left;
+  font-size: 13px;
+  line-height: 1.4;
+  padding: 0 10px;
+  width: 100%;
 }
 
 .research-interests p {
@@ -189,10 +155,9 @@ email {
 }
 
 .research-interests ul {
-  margin: 8px 0 !important;
-  padding-left: 0 !important;
-  list-style: none !important;
-  text-align: center !important;
+  margin: 8px 0;
+  padding-left: 18px;
+  list-style: none;
 }
 
 .research-interests li {
@@ -210,17 +175,10 @@ email {
 
 /* Main content section */
 section {
-  width: 750px !important;
-  max-width: 750px !important;
-  float: right !important;
-  padding-top: 1.2em !important;
-  padding-bottom: 50px !important;
-  margin-left: 0 !important;
-  margin-right: 0 !important;
-  position: relative !important;
-  z-index: 1 !important;
-  clear: right !important;
-  display: block !important;
+  width: 750px;
+  float: right;
+  padding-top: 1.2em;
+  padding-bottom: 50px;
 }
 
 /* Section headers */
