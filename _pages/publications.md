@@ -60,7 +60,7 @@ permalink: /publications/
             <td class="media-col">
               <div class="project-media">
                 <span class="conference-badge">arXiv</span>
-                <img src="{{ base_path }}/images/500x300.png" alt="FigEx2">
+                <img src="{{ base_path }}/images/figex2.png" alt="FigEx2">
               </div>
             </td>
             <td class="content-col">
