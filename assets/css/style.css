@@ -72,7 +72,7 @@ h1 {
 }
 
 .affiliation {
-  color: #2e7fa5;
+  color: #1e6a8a;
   text-decoration: none;
   margin-bottom: 3px;
   display: inline-block;
@@ -80,7 +80,7 @@ h1 {
 }
 
 .affiliation:hover {
-  color: #1f5f7f;
+  color: #15506b;
 }
 
 email {
@@ -106,7 +106,7 @@ email {
   height: 2.2rem;
   width: 2.2rem;
   background-color: transparent;
-  color: #2e7fa5;
+  color: #1e6a8a;
   border-radius: 100%;
   text-align: center;
   font-size: 1.1rem;
@@ -116,7 +116,7 @@ email {
 }
 
 .social-icons a:hover {
-  background-color: #2e7fa5;
+  background-color: #1e6a8a;
   color: white;
   transform: scale(1.1);
 }
@@ -193,12 +193,12 @@ h2 {
 }
 
 .about-section a {
-  color: #2e7fa5;
+  color: #1e6a8a;
   text-decoration: none;
 }
 
 .about-section a:hover {
-  color: #1f5f7f;
+  color: #15506b;
   text-decoration: underline;
 }
 
@@ -236,12 +236,12 @@ h2 {
 }
 
 .news-content a {
-  color: #2e7fa5;
+  color: #1e6a8a;
   text-decoration: none;
 }
 
 .news-content a:hover {
-  color: #1f5f7f;
+  color: #15506b;
   text-decoration: underline;
 }
 
@@ -262,12 +262,12 @@ h2 {
 }
 
 .publications-section a {
-  color: #2e7fa5;
+  color: #1e6a8a;
   text-decoration: none;
 }
 
 .publications-section a:hover {
-  color: #1f5f7f;
+  color: #15506b;
   text-decoration: underline;
 }
 
@@ -316,6 +316,8 @@ h2 {
   border-radius: 8px;
   overflow: visible;
   border: none !important;
+  padding-top: 8px;
+  padding-left: 8px;
 }
 
 .project-media video,
@@ -343,7 +345,7 @@ h2 {
   width: auto;
   z-index: 10;
   display: inline-block;
-  background-color: #2e7fa5 !important;
+  background-color: #1e6a8a !important;
   color: white !important;
   padding: 6px 10px !important;
   border-radius: 5px !important;
@@ -423,9 +425,9 @@ h2 {
 
 .text-btn {
   background-color: transparent;
-  color: #2e7fa5;
+  color: #1e6a8a;
   padding: 4px 10px;
-  border: 1px solid #2e7fa5;
+  border: 1px solid #1e6a8a;
   border-radius: 3px;
   text-decoration: none;
   font-size: 11px;
@@ -434,7 +436,7 @@ h2 {
 }
 
 .text-btn:hover {
-  background-color: #2e7fa5;
+  background-color: #1e6a8a;
   color: white;
 }
 
@@ -483,10 +485,10 @@ h2 {
 }
 
 .mobile-nav-item a:hover {
-  background-color: rgba(46, 127, 165, 0.1);
+  background-color: rgba(30, 106, 138, 0.1);
   color: #2c3e50;
   transform: translateY(-2px);
-  box-shadow: 0 2px 8px rgba(46, 127, 165, 0.2);
+  box-shadow: 0 2px 8px rgba(30, 106, 138, 0.2);
 }
 
 .mobile-nav-item a::after {
@@ -496,7 +498,7 @@ h2 {
   left: 50%;
   width: 0;
   height: 2px;
-  background-color: #2e7fa5;
+  background-color: #1e6a8a;
   transition: all 0.3s ease;
   transform: translateX(-50%);
 }
