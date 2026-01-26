@@ -28,6 +28,7 @@ header {
   width: 232px;
   float: left;
   position: fixed;
+  left: calc((100% - 1060px) / 2); /* Left edge of centered wrapper */
   padding-top: 6.0em;
   text-align: center;
   display: flex;
