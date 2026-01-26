@@ -58,8 +58,8 @@ permalink: /publications/
         <table class="pub-table">
           <tr>
             <td class="media-col">
-              <div class="conference-badge">arXiv</div>
               <div class="project-media">
+                <span class="conference-badge">arXiv</span>
                 <img src="{{ base_path }}/images/figex2.png" alt="FigEx2">
               </div>
             </td>
@@ -83,8 +83,8 @@ permalink: /publications/
         <table class="pub-table">
           <tr>
             <td class="media-col">
-              <div class="conference-badge">arXiv</div>
               <div class="project-media">
+                <span class="conference-badge">arXiv</span>
                 <img src="{{ base_path }}/images/500x300.png" alt="Radiology Reporting">
               </div>
             </td>
@@ -108,8 +108,8 @@ permalink: /publications/
         <table class="pub-table">
           <tr>
             <td class="media-col">
-              <div class="conference-badge">Res Sq</div>
               <div class="project-media">
+                <span class="conference-badge">Res Sq</span>
                 <img src="{{ base_path }}/images/500x300.png" alt="EXHYTE Framework">
               </div>
             </td>
@@ -133,8 +133,8 @@ permalink: /publications/
         <table class="pub-table">
           <tr>
             <td class="media-col">
-              <div class="conference-badge">EMNLP 2025 Findings</div>
               <div class="project-media">
+                <span class="conference-badge">EMNLP 2025 Findings</span>
                 <img src="{{ base_path }}/images/figex.png" alt="FigEx">
               </div>
             </td>
@@ -159,8 +159,8 @@ permalink: /publications/
         <table class="pub-table">
           <tr>
             <td class="media-col">
-              <div class="conference-badge">arXiv</div>
               <div class="project-media">
+                <span class="conference-badge">arXiv</span>
                 <img src="{{ base_path }}/images/500x300.png" alt="Sparse Activation">
               </div>
             </td>
@@ -185,8 +185,8 @@ permalink: /publications/
         <table class="pub-table">
           <tr>
             <td class="media-col">
-              <div class="conference-badge">Wind Energy</div>
               <div class="project-media">
+                <span class="conference-badge">Wind Energy</span>
                 <img src="{{ base_path }}/images/500x300.png" alt="MTTLA-DLW">
               </div>
             </td>
@@ -210,8 +210,8 @@ permalink: /publications/
         <table class="pub-table">
           <tr>
             <td class="media-col">
-              <div class="conference-badge">IEEE/IAS I&CPS Asia'22</div>
               <div class="project-media">
+                <span class="conference-badge">IEEE/IAS I&CPS Asia'22</span>
                 <img src="{{ base_path }}/images/500x300.png" alt="Wind Power Prediction">
               </div>
             </td>
@@ -235,8 +235,8 @@ permalink: /publications/
         <table class="pub-table">
           <tr>
             <td class="media-col">
-              <div class="conference-badge">IEEE/IAS I&CPS Asia'22</div>
               <div class="project-media">
+                <span class="conference-badge">IEEE/IAS I&CPS Asia'22</span>
                 <img src="{{ base_path }}/images/500x300.png" alt="CEEMDAN">
               </div>
             </td>
