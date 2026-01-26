@@ -300,7 +300,7 @@ h2 {
   padding-top: 0;
   padding-bottom: 0;
   vertical-align: top;
-  text-align: center;
+  text-align: left;
   position: relative;
   overflow: visible;
 }
@@ -314,9 +314,9 @@ h2 {
 
 .project-media {
   position: relative;
-  margin: 16px auto 0 auto;
-  display: inline-block;
-  width: 90%;
+  margin: 0;
+  display: block;
+  width: 100%;
   border-radius: 8px;
   overflow: visible;
   border: none !important;
@@ -343,7 +343,7 @@ h2 {
 .media-col .conference-badge {
   position: relative;
   top: 0;
-  left: auto;
+  left: 0;
   width: auto;
   z-index: 10;
   display: inline-block;
@@ -359,10 +359,10 @@ h2 {
   box-sizing: border-box;
   font-family: inherit !important;
   vertical-align: baseline;
-  margin: 0 auto 8px auto;
+  margin: 0 0 4px 0;
   margin-top: 0;
   border: none !important;
-  text-align: center;
+  text-align: left;
 }
 
 /* Publication text elements */
