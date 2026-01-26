@@ -72,7 +72,7 @@ h1 {
 }
 
 .affiliation {
-  color: #3498db;
+  color: #ffb84d;
   text-decoration: none;
   margin-bottom: 3px;
   display: inline-block;
@@ -80,7 +80,7 @@ h1 {
 }
 
 .affiliation:hover {
-  color: #2980b9;
+  color: #ff9500;
 }
 
 email {
@@ -106,7 +106,7 @@ email {
   height: 2.2rem;
   width: 2.2rem;
   background-color: transparent;
-  color: #3498db;
+  color: #ffb84d;
   border-radius: 100%;
   text-align: center;
   font-size: 1.1rem;
@@ -116,7 +116,7 @@ email {
 }
 
 .social-icons a:hover {
-  background-color: #3498db;
+  background-color: #ffb84d;
   color: white;
   transform: scale(1.1);
 }
@@ -193,12 +193,12 @@ h2 {
 }
 
 .about-section a {
-  color: #3498db;
+  color: #ffb84d;
   text-decoration: none;
 }
 
 .about-section a:hover {
-  color: #2980b9;
+  color: #ff9500;
   text-decoration: underline;
 }
 
@@ -236,12 +236,12 @@ h2 {
 }
 
 .news-content a {
-  color: #3498db;
+  color: #ffb84d;
   text-decoration: none;
 }
 
 .news-content a:hover {
-  color: #2980b9;
+  color: #ff9500;
   text-decoration: underline;
 }
 
@@ -262,12 +262,12 @@ h2 {
 }
 
 .publications-section a {
-  color: #3498db;
+  color: #ffb84d;
   text-decoration: none;
 }
 
 .publications-section a:hover {
-  color: #2980b9;
+  color: #ff9500;
   text-decoration: underline;
 }
 
@@ -343,7 +343,7 @@ h2 {
   width: auto;
   z-index: 10;
   display: inline-block;
-  background-color: #3498db !important;
+  background-color: #ffb84d !important;
   color: white !important;
   padding: 6px 10px !important;
   border-radius: 5px !important;
@@ -423,9 +423,9 @@ h2 {
 
 .text-btn {
   background-color: transparent;
-  color: #3498db;
+  color: #ffb84d;
   padding: 4px 10px;
-  border: 1px solid #3498db;
+  border: 1px solid #ffb84d;
   border-radius: 3px;
   text-decoration: none;
   font-size: 11px;
@@ -434,7 +434,7 @@ h2 {
 }
 
 .text-btn:hover {
-  background-color: #3498db;
+  background-color: #ffb84d;
   color: white;
 }
 
@@ -483,10 +483,10 @@ h2 {
 }
 
 .mobile-nav-item a:hover {
-  background-color: rgba(52, 152, 219, 0.1);
+  background-color: rgba(255, 184, 77, 0.1);
   color: #2c3e50;
   transform: translateY(-2px);
-  box-shadow: 0 2px 8px rgba(52, 152, 219, 0.2);
+  box-shadow: 0 2px 8px rgba(255, 184, 77, 0.2);
 }
 
 .mobile-nav-item a::after {
@@ -496,7 +496,7 @@ h2 {
   left: 50%;
   width: 0;
   height: 2px;
-  background-color: #3498db;
+  background-color: #ffb84d;
   transition: all 0.3s ease;
   transform: translateX(-50%);
 }
