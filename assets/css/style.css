@@ -303,8 +303,8 @@ h2 {
   vertical-align: top;
   text-align: left;
   position: relative;
-  overflow: hidden;
-  max-width: 200px;
+  overflow: visible;
+  max-width: none;
 }
 
 .pub-table .content-col {
@@ -321,7 +321,6 @@ h2 {
   margin: 0;
   display: block;
   width: 100%;
-  max-width: 100%;
   border-radius: 8px;
   overflow: visible;
   border: none !important;
@@ -332,6 +331,7 @@ h2 {
   line-height: 0;
   box-sizing: border-box;
   transition: transform 0.3s ease;
+  transform-origin: top left;
 }
 
 .project-media video,
@@ -339,9 +339,11 @@ h2 {
   border-radius: 6px !important;
   display: block;
   width: 100%;
+  height: auto;
   transition: none;
   border: none !important;
   vertical-align: top;
+  object-fit: contain;
 }
 
 .project-media:hover {
@@ -350,6 +352,7 @@ h2 {
   position: relative;
   box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
   border-radius: 8px;
+  transform-origin: top left;
 }
 
 .media-col .conference-badge {
