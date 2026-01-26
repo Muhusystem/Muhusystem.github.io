@@ -54,24 +54,19 @@ permalink: /talks/
     <div class="talks-section">
       <h2>Talks & Posters</h2>
 
-      {% for post in site.talks reversed %}
+      {% assign talks_list = site.talks | reverse %}
+      {% for post in talks_list %}
       <div class="project-container">
         <table class="pub-table">
           <tr>
-            <td class="media-col">
-              <div class="project-media">
-                <span class="conference-badge">{{ post.type }}</span>
-                <img src="{{ base_path }}/images/500x300.png" alt="{{ post.title }}">
-              </div>
-            </td>
-            <td class="content-col">
+            <td class="content-col" style="width: 100%;">
               <div class="pub-title" style="color: #2c3e50; font-weight: 600;">
                 {{ post.title }}
               </div>
               <div class="pub-venue">{{ post.venue }}, {{ post.location }}</div>
-              {% if post.permalink %}
+              {% if forloop.first and post.permalink %}
               <div class="text-links">
-                <a href="{{ base_path }}{{ post.permalink }}" class="text-btn">Link</a>
+                <a href="{{ base_path }}{{ post.permalink }}" class="text-btn">Poster</a>
               </div>
               {% endif %}
             </td>
