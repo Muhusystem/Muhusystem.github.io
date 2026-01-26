@@ -226,5 +226,12 @@ title: "About Me"
       </div>
     </div>
 
+    <div class="attribution-section" style="margin-top: 40px; padding-top: 20px; border-top: 1px solid #e0e0e0; font-size: 13px; color: #666;">
+      <p>
+        This website design is inspired by and adapted from 
+        <a href="https://liuyifan22.github.io/" target="_blank" style="color: #2c3e50;">Yifan Liu's homepage</a>.
+      </p>
+    </div>
+
   </section>
 </div>
