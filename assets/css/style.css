@@ -72,7 +72,7 @@ h1 {
 }
 
 .affiliation {
-  color: #1e6a8a;
+  color: #1560b8;
   text-decoration: none;
   margin-bottom: 3px;
   display: inline-block;
@@ -80,7 +80,7 @@ h1 {
 }
 
 .affiliation:hover {
-  color: #15506b;
+  color: #0f4a8a;
 }
 
 email {
@@ -106,7 +106,7 @@ email {
   height: 2.2rem;
   width: 2.2rem;
   background-color: transparent;
-  color: #1e6a8a;
+  color: #1560b8;
   border-radius: 100%;
   text-align: center;
   font-size: 1.1rem;
@@ -116,7 +116,7 @@ email {
 }
 
 .social-icons a:hover {
-  background-color: #1e6a8a;
+  background-color: #1560b8;
   color: white;
   transform: scale(1.1);
 }
@@ -193,12 +193,12 @@ h2 {
 }
 
 .about-section a {
-  color: #1e6a8a;
+  color: #1560b8;
   text-decoration: none;
 }
 
 .about-section a:hover {
-  color: #15506b;
+  color: #0f4a8a;
   text-decoration: underline;
 }
 
@@ -236,12 +236,12 @@ h2 {
 }
 
 .news-content a {
-  color: #1e6a8a;
+  color: #1560b8;
   text-decoration: none;
 }
 
 .news-content a:hover {
-  color: #15506b;
+  color: #0f4a8a;
   text-decoration: underline;
 }
 
@@ -262,12 +262,12 @@ h2 {
 }
 
 .publications-section a {
-  color: #1e6a8a;
+  color: #1560b8;
   text-decoration: none;
 }
 
 .publications-section a:hover {
-  color: #15506b;
+  color: #0f4a8a;
   text-decoration: underline;
 }
 
@@ -316,8 +316,6 @@ h2 {
   border-radius: 8px;
   overflow: visible;
   border: none !important;
-  padding-top: 8px;
-  padding-left: 8px;
 }
 
 .project-media video,
@@ -340,12 +338,12 @@ h2 {
 
 .media-col .conference-badge {
   position: absolute;
-  top: 10px;
-  left: 5%;
+  top: 0px;
+  left: 0px;
   width: auto;
   z-index: 10;
   display: inline-block;
-  background-color: #1e6a8a !important;
+  background-color: #1560b8 !important;
   color: white !important;
   padding: 6px 10px !important;
   border-radius: 5px !important;
@@ -425,9 +423,9 @@ h2 {
 
 .text-btn {
   background-color: transparent;
-  color: #1e6a8a;
+  color: #1560b8;
   padding: 4px 10px;
-  border: 1px solid #1e6a8a;
+  border: 1px solid #1560b8;
   border-radius: 3px;
   text-decoration: none;
   font-size: 11px;
@@ -436,7 +434,7 @@ h2 {
 }
 
 .text-btn:hover {
-  background-color: #1e6a8a;
+  background-color: #1560b8;
   color: white;
 }
 
@@ -485,10 +483,10 @@ h2 {
 }
 
 .mobile-nav-item a:hover {
-  background-color: rgba(30, 106, 138, 0.1);
+  background-color: rgba(21, 96, 184, 0.1);
   color: #2c3e50;
   transform: translateY(-2px);
-  box-shadow: 0 2px 8px rgba(30, 106, 138, 0.2);
+  box-shadow: 0 2px 8px rgba(21, 96, 184, 0.2);
 }
 
 .mobile-nav-item a::after {
@@ -498,7 +496,7 @@ h2 {
   left: 50%;
   width: 0;
   height: 2px;
-  background-color: #1e6a8a;
+  background-color: #1560b8;
   transition: all 0.3s ease;
   transform: translateX(-50%);
 }
