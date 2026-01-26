@@ -312,7 +312,7 @@ h2 {
 
 .project-media {
   position: relative;
-  margin: 8px auto 0 auto;
+  margin: 0 auto 0 auto;
   display: inline-block;
   width: 90%;
   border-radius: 8px;
@@ -361,6 +361,7 @@ h2 {
   vertical-align: baseline;
   margin: 0;
   border: none !important;
+  transform: translateY(0);
 }
 
 /* Publication text elements */
