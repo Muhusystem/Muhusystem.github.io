@@ -321,7 +321,6 @@ h2 {
   margin: 0;
   display: block;
   width: 100%;
-  max-height: 180px;
   border-radius: 8px;
   overflow: hidden;
   border: none !important;
@@ -331,8 +330,9 @@ h2 {
   margin-bottom: 0;
   line-height: 0;
   box-sizing: border-box;
-  transition: transform 0.3s ease, max-height 0.3s ease;
+  transition: transform 0.3s ease;
   transform-origin: top left;
+  max-height: 180px;
 }
 
 .project-media video,
@@ -341,10 +341,10 @@ h2 {
   display: block;
   width: 100%;
   height: auto;
-  max-height: 180px;
   transition: none;
   border: none !important;
   vertical-align: top;
+  max-height: 180px;
   object-fit: cover;
   object-position: center center;
 }
