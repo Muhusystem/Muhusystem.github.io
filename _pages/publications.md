@@ -85,7 +85,7 @@ permalink: /publications/
             <td class="media-col">
               <span class="conference-badge">arXiv</span>
               <div class="project-media">
-                <img src="{{ base_path }}/images/500x300.png" alt="Radiology Reporting">
+                <img src="{{ base_path }}/images/aligning-findings.png" alt="Radiology Reporting">
               </div>
             </td>
             <td class="content-col">
@@ -110,7 +110,7 @@ permalink: /publications/
             <td class="media-col">
               <span class="conference-badge">Res Sq</span>
               <div class="project-media">
-                <img src="{{ base_path }}/images/500x300.png" alt="EXHYTE Framework">
+                <img src="{{ base_path }}/images/exhyte-framework.png" alt="EXHYTE Framework">
               </div>
             </td>
             <td class="content-col">
@@ -161,7 +161,7 @@ permalink: /publications/
             <td class="media-col">
               <span class="conference-badge">arXiv</span>
               <div class="project-media">
-                <img src="{{ base_path }}/images/500x300.png" alt="Sparse Activation">
+                <img src="{{ base_path }}/images/sparse-activation.png" alt="Sparse Activation">
               </div>
             </td>
             <td class="content-col">
