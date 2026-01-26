@@ -10,9 +10,9 @@ title: "About Me"
   <!-- Navigation -->
   <nav class="mobile-nav">
     <ul class="mobile-nav-list">
-      <li class="mobile-nav-item"><a href="/">About</a></li>
-      <li class="mobile-nav-item"><a href="/publications/">Publications</a></li>
-      <li class="mobile-nav-item"><a href="/talks/">Talk</a></li>
+      <li class="mobile-nav-item"><a href="#about">About</a></li>
+      <li class="mobile-nav-item"><a href="#publications">Publications</a></li>
+      <li class="mobile-nav-item"><a href="#talks">Talk</a></li>
     </ul>
   </nav>
 
@@ -51,7 +51,7 @@ title: "About Me"
   </header>
 
   <section>
-    <div class="about-section">
+    <div class="about-section" id="about">
       <h2>About Me</h2>
       <p>
         Hi, I am Jifeng Song, a third-year Ph.D. student in Electrical and Computer Engineering at the 
@@ -224,6 +224,16 @@ title: "About Me"
           </tr>
         </table>
       </div>
+    </div>
+
+    <div class="talks-section" id="talks">
+      <h2>Talks & Posters</h2>
+      {% if site.talkmap_link == true %}
+      <p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+      {% endif %}
+      {% for post in site.talks reversed %}
+        {% include archive-single-talk.html %}
+      {% endfor %}
     </div>
   </section>
 </div>
