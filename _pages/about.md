@@ -128,7 +128,8 @@ title: "About Me"
           <tr>
             <td class="media-col">
               <div class="project-media">
-                <span class="conference-badge">arXiv</span>
+              <div class="conference-badge">arXiv</div>
+              <div class="project-media">
                 <img src="{{ base_path }}/images/500x300.png" alt="Radiology Reporting">
               </div>
             </td>
@@ -153,7 +154,8 @@ title: "About Me"
           <tr>
             <td class="media-col">
               <div class="project-media">
-                <span class="conference-badge">Res Sq</span>
+              <div class="conference-badge">Res Sq</div>
+              <div class="project-media">
                 <img src="{{ base_path }}/images/500x300.png" alt="EXHYTE Framework">
               </div>
             </td>
@@ -204,7 +206,8 @@ title: "About Me"
           <tr>
             <td class="media-col">
               <div class="project-media">
-                <span class="conference-badge">arXiv</span>
+              <div class="conference-badge">arXiv</div>
+              <div class="project-media">
                 <img src="{{ base_path }}/images/500x300.png" alt="Sparse Activation">
               </div>
             </td>
