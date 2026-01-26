@@ -298,6 +298,7 @@ h2 {
   width: 30%;
   padding-right: 15px;
   padding-top: 0;
+  padding-bottom: 0;
   vertical-align: top;
   text-align: center;
   position: relative;
@@ -308,6 +309,7 @@ h2 {
   width: 70%;
   vertical-align: top;
   padding-top: 0;
+  padding-bottom: 0;
 }
 
 .project-media {
@@ -358,6 +360,7 @@ h2 {
   font-family: inherit !important;
   vertical-align: baseline;
   margin: 0 auto 8px auto;
+  margin-top: 0;
   border: none !important;
   text-align: center;
 }
