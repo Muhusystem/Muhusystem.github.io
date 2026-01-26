@@ -324,6 +324,7 @@ h2 {
   padding-left: 0;
   margin-top: 0;
   margin-bottom: 0;
+  line-height: 0;
 }
 
 .project-media video,
@@ -333,6 +334,7 @@ h2 {
   width: 100%;
   transition: transform 0.3s ease;
   border: none !important;
+  vertical-align: top;
 }
 
 .project-media:hover video,
@@ -360,7 +362,7 @@ h2 {
   font-weight: bold !important;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2) !important;
   white-space: nowrap;
-  line-height: 1 !important;
+  line-height: 1.2 !important;
   box-sizing: border-box;
   font-family: inherit !important;
   vertical-align: baseline;
