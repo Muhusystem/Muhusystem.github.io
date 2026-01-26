@@ -68,6 +68,10 @@ permalink: /talks/
               <div class="text-links">
                 <a href="{{ base_path }}{{ post.permalink }}" class="text-btn">Poster</a>
               </div>
+              {% elsif forloop.index == 2 and post.type == "Poster" %}
+              <div class="text-links">
+                <a href="{{ base_path }}/files/FigEx_EMNLP2025_poster.pdf" target="_blank" class="text-btn">Poster</a>
+              </div>
               {% endif %}
             </td>
           </tr>
