@@ -322,7 +322,7 @@ h2 {
   display: block;
   width: 100%;
   border-radius: 8px;
-  overflow: hidden;
+  overflow: visible;
   border: none !important;
   padding-top: 0;
   padding-left: 0;
@@ -332,37 +332,26 @@ h2 {
   box-sizing: border-box;
   transition: transform 0.3s ease;
   transform-origin: top left;
-  max-height: 180px;
-  min-width: 100%;
 }
 
 .project-media video,
 .project-media img {
   border-radius: 6px !important;
   display: block;
-  width: 100% !important;
+  width: 100%;
   height: auto;
   transition: none;
   border: none !important;
   vertical-align: top;
-  max-height: 180px;
-  object-fit: contain;
-  object-position: center center;
 }
 
 .project-media:hover {
   transform: scale(1.5);
-  max-height: none;
   z-index: 1000;
   position: relative;
   box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
   border-radius: 8px;
   transform-origin: top left;
-}
-
-.project-media:hover img {
-  max-height: none;
-  object-fit: contain;
 }
 
 .media-col .conference-badge {
