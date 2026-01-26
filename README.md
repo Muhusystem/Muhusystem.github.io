@@ -4,7 +4,7 @@
 
 Academic Pages is a Github Pages template for academic websites.
 
-This website design is inspired by and adapted from [Yifan Liu's homepage](https://liuyifan22.github.io/).
+This website design is inspired by and adapted from [yifliu3.github.io](https://github.com/yifliu3/yifliu3.github.io).
 
 # Getting Started
 
