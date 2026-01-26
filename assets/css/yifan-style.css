@@ -24,7 +24,6 @@ body {
   padding: 0;
   position: relative;
   clear: both;
-  max-width: 1060px;
 }
 
 
@@ -33,14 +32,11 @@ header {
   width: 232px;
   float: left;
   position: fixed;
-  left: calc(50% - 530px); /* Center of wrapper: 50% - (1060px / 2) = left edge of wrapper */
   padding-top: 6.0em;
   text-align: center;
   display: flex;
   flex-direction: column;
   align-items: center;
-  z-index: 10;
-  top: 0;
 }
 
 /* Avatar styling */
@@ -169,8 +165,6 @@ section {
   float: right;
   padding-top: 1.2em;
   padding-bottom: 50px;
-  margin-left: 280px; /* 232px (header width) + 48px (gap) */
-  position: relative;
 }
 
 /* Section headers */
