@@ -283,6 +283,7 @@ h2 {
 .pub-table {
   width: 100%;
   border-collapse: separate;
+  border-spacing: 0;
   margin-bottom: 15px;
   overflow: visible;
   border: none !important;
@@ -296,7 +297,7 @@ h2 {
 
 .pub-table .media-col {
   width: 30%;
-  padding-right: 15px;
+  padding-right: 25px;
   padding-top: 0;
   padding-bottom: 0;
   vertical-align: top;
@@ -310,6 +311,7 @@ h2 {
   vertical-align: top;
   padding-top: 0;
   padding-bottom: 0;
+  padding-left: 0;
 }
 
 .project-media {
