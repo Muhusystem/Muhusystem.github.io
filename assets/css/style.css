@@ -290,15 +290,15 @@ h2 {
 
 .pub-table td {
   padding: 0;
-  vertical-align: middle;
+  vertical-align: top;
   border: none !important;
 }
 
 .pub-table .media-col {
   width: 30%;
   padding-right: 15px;
-  padding-top: 20px;
-  vertical-align: middle;
+  padding-top: 0;
+  vertical-align: top;
   text-align: center;
   position: relative;
   overflow: visible;
@@ -306,6 +306,8 @@ h2 {
 
 .pub-table .content-col {
   width: 70%;
+  vertical-align: top;
+  padding-top: 0;
 }
 
 .project-media {
