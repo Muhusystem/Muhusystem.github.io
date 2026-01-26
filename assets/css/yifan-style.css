@@ -2,19 +2,27 @@
 
 /* Reset everything first */
 * {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
+  box-sizing: border-box !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+html {
+  margin: 0 !important;
+  padding: 0 !important;
+  text-align: left !important;
 }
 
 body {
-  background-color: #fff;
-  padding: 0;
-  font: 14px/1.5 'Lato', Verdana, Helvetica, sans-serif;
-  color: #595959;
-  font-weight: 400;
-  margin: 0;
-  overflow-x: hidden;
+  background-color: #fff !important;
+  padding: 0 !important;
+  font: 14px/1.5 'Lato', Verdana, Helvetica, sans-serif !important;
+  color: #595959 !important;
+  font-weight: 400 !important;
+  margin: 0 !important;
+  overflow-x: hidden !important;
+  text-align: left !important;
+  width: 100% !important;
 }
 
 /* Hide all Jekyll default containers */
@@ -39,23 +47,31 @@ body {
 
 /* Wrapper */
 .wrapper {
-  width: 1060px;
-  margin: 0 auto;
-  padding: 0;
-  position: relative;
-  clear: both;
+  width: 1060px !important;
+  max-width: 1060px !important;
+  margin: 0 auto !important;
+  padding: 0 !important;
+  position: relative !important;
+  clear: both !important;
+  overflow: visible !important;
+  display: block !important;
+  text-align: left !important;
 }
 
 /* Left sidebar header */
 header {
-  width: 232px;
-  float: left;
-  position: relative;
-  padding-top: 6.0em;
-  text-align: center;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+  width: 232px !important;
+  max-width: 232px !important;
+  float: left !important;
+  position: relative !important;
+  padding-top: 6.0em !important;
+  text-align: center !important;
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: center !important;
+  margin-right: 48px !important;
+  margin-left: 0 !important;
+  clear: left !important;
 }
 
 /* Avatar styling */
@@ -95,53 +111,50 @@ email {
   font-family: "Ubuntu Mono", monospace;
 }
 
-/* Social icons - HORIZONTAL (4 icons in a row) */
+/* Social icons - HORIZONTAL (4 icons in a row, icons only, no text) */
 .social-icons {
-  margin: 8px 0;
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: center;
-  gap: 12px;
-  width: 100%;
-  padding: 0;
-  flex-wrap: wrap;
+  margin: 8px 0 !important;
+  display: flex !important;
+  flex-direction: row !important;
+  align-items: center !important;
+  justify-content: center !important;
+  gap: 16px !important;
+  width: 100% !important;
+  padding: 0 !important;
+  flex-wrap: nowrap !important;
 }
 
 .social-icons a {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: center;
-  background-color: transparent;
-  color: #2c3e50;
-  text-decoration: none;
-  transition: all 0.3s ease;
-  padding: 4px 8px;
-  line-height: 1.4;
+  display: flex !important;
+  flex-direction: row !important;
+  align-items: center !important;
+  justify-content: center !important;
+  background-color: transparent !important;
+  color: #2c3e50 !important;
+  text-decoration: none !important;
+  transition: all 0.3s ease !important;
+  padding: 4px !important;
+  line-height: 1 !important;
+  width: auto !important;
 }
 
 .social-icons a:hover {
-  color: #3498db;
+  color: #3498db !important;
 }
 
 .social-icon {
-  font-size: 18px;
-  margin-right: 6px;
-  display: inline-block;
-  flex-shrink: 0;
-  width: auto;
-  text-align: center;
-  color: #2c3e50;
-  line-height: 1.4;
+  font-size: 20px !important;
+  margin: 0 !important;
+  display: inline-block !important;
+  flex-shrink: 0 !important;
+  width: auto !important;
+  text-align: center !important;
+  color: inherit !important;
+  line-height: 1 !important;
 }
 
 .social-text {
-  font-size: 13px;
-  font-weight: 400;
-  text-align: left;
-  line-height: 1.4;
-  color: inherit;
+  display: none !important;
 }
 
 /* Research interests styling */
@@ -181,10 +194,16 @@ email {
 
 /* Main content section */
 section {
-  width: 750px;
-  float: right;
-  padding-top: 1.2em;
-  padding-bottom: 50px;
+  width: 750px !important;
+  max-width: 750px !important;
+  float: right !important;
+  padding-top: 1.2em !important;
+  padding-bottom: 50px !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+  position: relative !important;
+  clear: right !important;
+  display: block !important;
 }
 
 /* Section headers */
