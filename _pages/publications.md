@@ -187,7 +187,7 @@ permalink: /publications/
             <td class="media-col">
               <span class="conference-badge">Wind Energy</span>
               <div class="project-media">
-                <img src="{{ base_path }}/images/500x300.png" alt="MTTLA-DLW">
+                <img src="{{ base_path }}/images/mttla-dlw.png" alt="MTTLA-DLW">
               </div>
             </td>
             <td class="content-col">
@@ -212,7 +212,7 @@ permalink: /publications/
             <td class="media-col">
               <span class="conference-badge">IEEE/IAS I&CPS Asia'22</span>
               <div class="project-media">
-                <img src="{{ base_path }}/images/500x300.png" alt="Wind Power Prediction">
+                <img src="{{ base_path }}/images/tcn-lstm.png" alt="Wind Power Prediction">
               </div>
             </td>
             <td class="content-col">
@@ -237,7 +237,7 @@ permalink: /publications/
             <td class="media-col">
               <span class="conference-badge">IEEE/IAS I&CPS Asia'22</span>
               <div class="project-media">
-                <img src="{{ base_path }}/images/500x300.png" alt="CEEMDAN">
+                <img src="{{ base_path }}/images/ceemdan-cnn-lstm.png" alt="CEEMDAN">
               </div>
             </td>
             <td class="content-col">
