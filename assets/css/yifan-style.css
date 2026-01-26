@@ -65,9 +65,9 @@ h1 {
 }
 
 .position {
-  font-size: 0.95rem;
+  font-size: 0.85rem;
   color: #2c3e50;
-  font-weight: 500;
+  font-weight: 400;
   margin-bottom: 4px;
 }
 
@@ -158,7 +158,7 @@ email {
 
 /* Main content section */
 section {
-  width: 750px;
+  width: 780px;
   float: right;
   padding-top: 1.2em;
   padding-bottom: 50px;
@@ -449,7 +449,7 @@ h2 {
   top: 0;
   z-index: 100;
   margin-bottom: 10px;
-  margin-left: 310px; /* 1060px wrapper - 750px section = section start */
+  margin-left: 280px; /* 1060px wrapper - 780px section = section start */
 }
 
 .mobile-nav-list {
