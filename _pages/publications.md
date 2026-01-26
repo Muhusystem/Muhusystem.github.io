@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 ---
 
-<link rel="stylesheet" href="{{ base_path }}/assets/css/yifan-style.css">
+<link rel="stylesheet" href="{{ base_path }}/assets/css/style.css">
 
 <div class="wrapper">
   <!-- Navigation -->
