@@ -58,8 +58,8 @@ permalink: /publications/
         <table class="pub-table">
           <tr>
             <td class="media-col">
+              <div class="conference-badge">arXiv</div>
               <div class="project-media">
-                <span class="conference-badge">arXiv</span>
                 <img src="{{ base_path }}/images/figex2.png" alt="FigEx2">
               </div>
             </td>
@@ -108,8 +108,8 @@ permalink: /publications/
         <table class="pub-table">
           <tr>
             <td class="media-col">
+              <div class="conference-badge">Res Sq</div>
               <div class="project-media">
-                <span class="conference-badge">Res Sq</span>
                 <img src="{{ base_path }}/images/500x300.png" alt="EXHYTE Framework">
               </div>
             </td>

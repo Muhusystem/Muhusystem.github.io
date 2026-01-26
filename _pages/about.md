@@ -102,8 +102,8 @@ title: "About Me"
         <table class="pub-table">
           <tr>
             <td class="media-col">
+              <div class="conference-badge">arXiv</div>
               <div class="project-media">
-                <span class="conference-badge">arXiv</span>
                 <img src="{{ base_path }}/images/figex2.png" alt="FigEx2">
               </div>
             </td>
@@ -177,8 +177,8 @@ title: "About Me"
         <table class="pub-table">
           <tr>
             <td class="media-col">
+              <div class="conference-badge">EMNLP 2025 Findings</div>
               <div class="project-media">
-                <span class="conference-badge">EMNLP 2025 Findings</span>
                 <img src="{{ base_path }}/images/figex.png" alt="FigEx">
               </div>
             </td>
