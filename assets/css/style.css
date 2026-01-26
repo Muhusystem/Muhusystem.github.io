@@ -72,7 +72,7 @@ h1 {
 }
 
 .affiliation {
-  color: #ffb84d;
+  color: #2980b9;
   text-decoration: none;
   margin-bottom: 3px;
   display: inline-block;
@@ -106,7 +106,7 @@ email {
   height: 2.2rem;
   width: 2.2rem;
   background-color: transparent;
-  color: #ffb84d;
+  color: #2980b9;
   border-radius: 100%;
   text-align: center;
   font-size: 1.1rem;
@@ -116,7 +116,7 @@ email {
 }
 
 .social-icons a:hover {
-  background-color: #ffb84d;
+  background-color: #2980b9;
   color: white;
   transform: scale(1.1);
 }
@@ -193,7 +193,7 @@ h2 {
 }
 
 .about-section a {
-  color: #ffb84d;
+  color: #2980b9;
   text-decoration: none;
 }
 
@@ -236,7 +236,7 @@ h2 {
 }
 
 .news-content a {
-  color: #ffb84d;
+  color: #2980b9;
   text-decoration: none;
 }
 
@@ -262,7 +262,7 @@ h2 {
 }
 
 .publications-section a {
-  color: #ffb84d;
+  color: #2980b9;
   text-decoration: none;
 }
 
@@ -343,7 +343,7 @@ h2 {
   width: auto;
   z-index: 10;
   display: inline-block;
-  background-color: #ffb84d !important;
+  background-color: #2980b9 !important;
   color: white !important;
   padding: 6px 10px !important;
   border-radius: 5px !important;
@@ -382,7 +382,7 @@ h2 {
 }
 
 .pub-title a:hover {
-  color: #ffb84d !important;
+  color: #2980b9 !important;
 }
 
 .pub-authors {
@@ -423,9 +423,9 @@ h2 {
 
 .text-btn {
   background-color: transparent;
-  color: #ffb84d;
+  color: #2980b9;
   padding: 4px 10px;
-  border: 1px solid #ffb84d;
+  border: 1px solid #2980b9;
   border-radius: 3px;
   text-decoration: none;
   font-size: 11px;
@@ -434,7 +434,7 @@ h2 {
 }
 
 .text-btn:hover {
-  background-color: #ffb84d;
+  background-color: #2980b9;
   color: white;
 }
 
@@ -483,10 +483,10 @@ h2 {
 }
 
 .mobile-nav-item a:hover {
-  background-color: rgba(255, 184, 77, 0.1);
+  background-color: rgba(41, 128, 185, 0.1);
   color: #2c3e50;
   transform: translateY(-2px);
-  box-shadow: 0 2px 8px rgba(255, 184, 77, 0.2);
+  box-shadow: 0 2px 8px rgba(41, 128, 185, 0.2);
 }
 
 .mobile-nav-item a::after {
@@ -496,7 +496,7 @@ h2 {
   left: 50%;
   width: 0;
   height: 2px;
-  background-color: #ffb84d;
+  background-color: #2980b9;
   transition: all 0.3s ease;
   transform: translateX(-50%);
 }
