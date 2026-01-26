@@ -449,7 +449,7 @@ h2 {
   top: 0;
   z-index: 100;
   margin-bottom: 10px;
-  margin-left: 280px; /* 232px (header width) + 48px (gap) = section start position */
+  margin-left: 310px; /* 1060px wrapper - 750px section = section start */
 }
 
 .mobile-nav-list {
