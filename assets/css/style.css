@@ -323,7 +323,7 @@ h2 {
   width: 100%;
   max-width: 100%;
   border-radius: 8px;
-  overflow: hidden;
+  overflow: visible;
   border: none !important;
   padding-top: 0;
   padding-left: 0;
@@ -331,6 +331,7 @@ h2 {
   margin-bottom: 0;
   line-height: 0;
   box-sizing: border-box;
+  transition: transform 0.3s ease;
 }
 
 .project-media video,
@@ -338,13 +339,12 @@ h2 {
   border-radius: 6px !important;
   display: block;
   width: 100%;
-  transition: transform 0.3s ease;
+  transition: none;
   border: none !important;
   vertical-align: top;
 }
 
-.project-media:hover video,
-.project-media:hover img {
+.project-media:hover {
   transform: scale(1.5);
   z-index: 1000;
   position: relative;
