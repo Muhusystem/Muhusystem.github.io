@@ -83,7 +83,6 @@ permalink: /publications/
         <table class="pub-table">
           <tr>
             <td class="media-col">
-              <div class="project-media">
               <div class="conference-badge">arXiv</div>
               <div class="project-media">
                 <img src="{{ base_path }}/images/500x300.png" alt="Radiology Reporting">
@@ -134,7 +133,6 @@ permalink: /publications/
         <table class="pub-table">
           <tr>
             <td class="media-col">
-              <div class="project-media">
               <div class="conference-badge">EMNLP 2025 Findings</div>
               <div class="project-media">
                 <img src="{{ base_path }}/images/figex.png" alt="FigEx">
@@ -161,7 +159,6 @@ permalink: /publications/
         <table class="pub-table">
           <tr>
             <td class="media-col">
-              <div class="project-media">
               <div class="conference-badge">arXiv</div>
               <div class="project-media">
                 <img src="{{ base_path }}/images/500x300.png" alt="Sparse Activation">
@@ -188,7 +185,6 @@ permalink: /publications/
         <table class="pub-table">
           <tr>
             <td class="media-col">
-              <div class="project-media">
               <div class="conference-badge">Wind Energy</div>
               <div class="project-media">
                 <img src="{{ base_path }}/images/500x300.png" alt="MTTLA-DLW">
@@ -214,7 +210,6 @@ permalink: /publications/
         <table class="pub-table">
           <tr>
             <td class="media-col">
-              <div class="project-media">
               <div class="conference-badge">IEEE/IAS I&CPS Asia'22</div>
               <div class="project-media">
                 <img src="{{ base_path }}/images/500x300.png" alt="Wind Power Prediction">
@@ -240,7 +235,6 @@ permalink: /publications/
         <table class="pub-table">
           <tr>
             <td class="media-col">
-              <div class="project-media">
               <div class="conference-badge">IEEE/IAS I&CPS Asia'22</div>
               <div class="project-media">
                 <img src="{{ base_path }}/images/500x300.png" alt="CEEMDAN">
