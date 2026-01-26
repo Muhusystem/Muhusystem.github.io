@@ -340,7 +340,7 @@ h2 {
 
 .media-col .conference-badge {
   position: relative;
-  top: auto;
+  top: 0;
   left: auto;
   width: auto;
   z-index: 10;
@@ -372,6 +372,7 @@ h2 {
 }
 
 .pub-title {
+  margin-top: 0 !important;
   margin-bottom: 8px !important;
   font-size: 15px;
   font-weight: 600;
@@ -453,7 +454,7 @@ h2 {
   z-index: 100;
   margin-bottom: 10px;
   margin-left: 0px;
-  padding-left: 180px;
+  padding-left: 170px;
 }
 
 .mobile-nav-list {
