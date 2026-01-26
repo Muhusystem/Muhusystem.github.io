@@ -274,7 +274,7 @@ h2 {
 /* Project containers - NO BORDERS */
 .project-container {
   width: 100%;
-  margin-bottom: 12px;
+  margin-bottom: 8px;
   overflow: visible;
   border: none !important;
   padding: 0 !important;

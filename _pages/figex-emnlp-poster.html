@@ -1,7 +1,7 @@
 ---
 layout: yifan-homepage
-title: "Talks & Posters"
-permalink: /talks/
+title: "FigEx: Aligned Extraction of Scientific Figures and Captions"
+permalink: /talks/figex-emnlp-poster/
 ---
 
 <link rel="stylesheet" href="{{ base_path }}/assets/css/style.css">
@@ -51,29 +51,11 @@ permalink: /talks/
   </header>
 
   <section>
-    <div class="talks-section">
-      <h2>Talks & Posters</h2>
-
-      {% assign talks_list = site.talks | reverse %}
-      {% for post in talks_list %}
-      <div class="project-container">
-        <table class="pub-table">
-          <tr>
-            <td class="content-col" style="width: 100%;">
-              <div class="pub-title" style="color: #2c3e50; font-weight: 600;">
-                {{ post.title }}
-              </div>
-              <div class="pub-venue">{{ post.venue }}, {{ post.location }}</div>
-              {% if forloop.first and post.permalink %}
-              <div class="text-links">
-                <a href="{{ base_path }}/talks/figex-emnlp-poster/" class="text-btn">Poster</a>
-              </div>
-              {% endif %}
-            </td>
-          </tr>
-        </table>
-      </div>
-      {% endfor %}
-    </div>
+    <iframe
+      src="{{ base_path }}/files/FigEx_EMNLP2025_poster.pdf#toolbar=0&navpanes=0"
+      width="100%"
+      height="900px"
+      style="border:none;">
+    </iframe>
   </section>
 </div>
