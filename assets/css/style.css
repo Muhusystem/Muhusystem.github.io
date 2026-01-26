@@ -298,6 +298,7 @@ h2 {
   width: 30%;
   padding-right: 15px;
   padding-top: 0;
+  padding-bottom: 0;
   vertical-align: top;
   text-align: center;
   position: relative;
@@ -320,6 +321,7 @@ h2 {
   border: none !important;
   padding-top: 0;
   padding-left: 0;
+  margin-top: 0;
 }
 
 .project-media video,
@@ -361,7 +363,6 @@ h2 {
   vertical-align: baseline;
   margin: 0;
   border: none !important;
-  transform: translateY(0);
 }
 
 /* Publication text elements */
