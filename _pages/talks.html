@@ -65,13 +65,13 @@ permalink: /talks/
               </div>
             </td>
             <td class="content-col">
-              <div class="pub-title">
+              <div class="pub-title" style="color: #2c3e50; font-weight: 600;">
                 {{ post.title }}
               </div>
               <div class="pub-venue">{{ post.venue }}, {{ post.location }}</div>
-              {% if post.link %}
+              {% if post.permalink %}
               <div class="text-links">
-                <a href="{{ post.link }}" class="text-btn">Link</a>
+                <a href="{{ base_path }}{{ post.permalink }}" class="text-btn">Link</a>
               </div>
               {% endif %}
             </td>

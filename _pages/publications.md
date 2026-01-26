@@ -12,7 +12,7 @@ permalink: /publications/
     <ul class="mobile-nav-list">
       <li class="mobile-nav-item"><a href="/">About</a></li>
       <li class="mobile-nav-item"><a href="/publications/">Publications</a></li>
-      <li class="mobile-nav-item"><a href="/talks/">Talk</a></li>
+      <li class="mobile-nav-item"><a href="/talks/">Talks & Posters</a></li>
     </ul>
   </nav>
 
