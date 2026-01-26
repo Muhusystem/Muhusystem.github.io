@@ -1,9 +1,58 @@
 ---
-layout: archive
+layout: yifan-homepage
 title: "Publications"
 permalink: /publications/
-author_profile: true
 ---
+
+<link rel="stylesheet" href="{{ base_path }}/assets/css/yifan-style.css">
+
+<div class="wrapper">
+  <!-- Navigation -->
+  <nav class="mobile-nav">
+    <ul class="mobile-nav-list">
+      <li class="mobile-nav-item"><a href="/">About</a></li>
+      <li class="mobile-nav-item"><a href="/publications/">Publications</a></li>
+      <li class="mobile-nav-item"><a href="/talks/">Talk</a></li>
+    </ul>
+  </nav>
+
+  <header>
+    <div class="image avatar">
+      <img src="{{ base_path }}/images/jifengsong.JPG" alt="Jifeng Song">
+    </div>
+    <h1>Jifeng Song</h1>
+    <p class="position">Ph.D. Student</p>
+    <email>JIS219[at]pitt.edu</email>
+    
+    <div class="social-icons">
+      <a href="mailto:JIS219@pitt.edu" title="Email">
+        <i class="fas fa-envelope social-icon" aria-hidden="true"></i>
+      </a>
+      <a href="https://scholar.google.com/citations?user=U_c8QM0AAAAJ&hl=en" title="Google Scholar">
+        <i class="ai ai-google-scholar social-icon" aria-hidden="true"></i>
+      </a>
+      <a href="https://github.com/Muhusystem" title="GitHub">
+        <i class="fab fa-github social-icon" aria-hidden="true"></i>
+      </a>
+      <a href="https://www.linkedin.com/in/jifeng-song-51b2971a3" title="LinkedIn">
+        <i class="fab fa-linkedin social-icon" aria-hidden="true"></i>
+      </a>
+    </div>
+    
+    <div class="research-interests">
+      <p>Research Interests:</p>
+      <ul>
+        <li>Multimodal Learning</li>
+        <li>Vision-Language Models</li>
+        <li>AI for Biomedicine</li>
+        <li>Computational Biology</li>
+      </ul>
+    </div>
+  </header>
+
+  <section>
+    <div class="publications-section">
+      <h2>Publications</h2>
 
 ### Multimodal Learning
 
@@ -60,6 +109,6 @@ arXiv:2406.06562<br>
 [[paper]](https://arxiv.org/abs/2406.06562)
 [[code]](https://github.com/pittisl/Sparse-Activation)
 
-
-
-
+    </div>
+  </section>
+</div>

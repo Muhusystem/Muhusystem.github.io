@@ -7,6 +7,15 @@ title: "About Me"
 <link rel="stylesheet" href="{{ base_path }}/assets/css/yifan-style.css">
 
 <div class="wrapper">
+  <!-- Navigation -->
+  <nav class="mobile-nav">
+    <ul class="mobile-nav-list">
+      <li class="mobile-nav-item"><a href="/">About</a></li>
+      <li class="mobile-nav-item"><a href="/publications/">Publications</a></li>
+      <li class="mobile-nav-item"><a href="/talks/">Talk</a></li>
+    </ul>
+  </nav>
+
   <header>
     <div class="image avatar">
       <img src="{{ base_path }}/images/jifengsong.JPG" alt="Jifeng Song">
@@ -42,12 +51,6 @@ title: "About Me"
   </header>
 
   <section>
-    <!-- Section Navigation Links -->
-    <div class="section-nav">
-      <a href="#news">News</a>
-      <a href="#publications">Publications</a>
-    </div>
-
     <div class="about-section">
       <h2>About Me</h2>
       <p>
