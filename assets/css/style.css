@@ -333,19 +333,20 @@ h2 {
   transition: transform 0.3s ease;
   transform-origin: top left;
   max-height: 180px;
+  min-width: 100%;
 }
 
 .project-media video,
 .project-media img {
   border-radius: 6px !important;
   display: block;
-  width: 100%;
+  width: 100% !important;
   height: auto;
   transition: none;
   border: none !important;
   vertical-align: top;
   max-height: 180px;
-  object-fit: cover;
+  object-fit: contain;
   object-position: center center;
 }
 
