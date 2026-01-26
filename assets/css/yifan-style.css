@@ -24,18 +24,21 @@ body {
   padding: 0;
   position: relative;
   clear: both;
+  max-width: 1060px;
 }
 
 /* Left sidebar header */
 header {
   width: 232px;
   float: left;
-  position: fixed;
+  position: relative;
   padding-top: 6.0em;
   text-align: center;
   display: flex;
   flex-direction: column;
   align-items: center;
+  margin-right: 48px;
+  margin-left: 0;
 }
 
 /* Avatar styling */
@@ -62,7 +65,7 @@ header {
 h1 {
   font-weight: 500;
   color: #2c3e50;
-  margin: 0 0 15px;
+  margin: 0 0 8px;
   font-size: 22px;
 }
 
@@ -90,6 +93,8 @@ email {
   font-family: "Ubuntu Mono", monospace;
   color: #2c3e50;
   display: block;
+  margin-bottom: 1em;
+  text-align: center;
 }
 
 /* Social icons */
