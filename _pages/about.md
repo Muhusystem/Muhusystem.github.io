@@ -12,7 +12,7 @@ title: "About Me"
     <ul class="mobile-nav-list">
       <li class="mobile-nav-item"><a href="#about">About</a></li>
       <li class="mobile-nav-item"><a href="/publications/">Publications</a></li>
-      <li class="mobile-nav-item"><a href="#talks">Talk</a></li>
+      <li class="mobile-nav-item"><a href="/talks/">Talks & Posters</a></li>
     </ul>
   </nav>
 
@@ -226,14 +226,5 @@ title: "About Me"
       </div>
     </div>
 
-    <div class="talks-section" id="talks">
-      <h2>Talks & Posters</h2>
-      {% if site.talkmap_link == true %}
-      <p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-      {% endif %}
-      {% for post in site.talks reversed %}
-        {% include archive-single-talk.html %}
-      {% endfor %}
-    </div>
   </section>
 </div>

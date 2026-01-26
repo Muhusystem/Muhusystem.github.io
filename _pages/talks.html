@@ -12,7 +12,7 @@ permalink: /talks/
     <ul class="mobile-nav-list">
       <li class="mobile-nav-item"><a href="/">About</a></li>
       <li class="mobile-nav-item"><a href="/publications/">Publications</a></li>
-      <li class="mobile-nav-item"><a href="/talks/">Talk</a></li>
+      <li class="mobile-nav-item"><a href="/talks/">Talks & Posters</a></li>
     </ul>
   </nav>
 
@@ -54,23 +54,31 @@ permalink: /talks/
     <div class="talks-section">
       <h2>Talks & Posters</h2>
 
-      {% if site.talkmap_link == true %}
-      <p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-      {% endif %}
-
       {% for post in site.talks reversed %}
-        {% include archive-single-talk.html %}
+      <div class="project-container">
+        <table class="pub-table">
+          <tr>
+            <td class="media-col">
+              <div class="project-media">
+                <span class="conference-badge">{{ post.type }}</span>
+                <img src="{{ base_path }}/images/500x300.png" alt="{{ post.title }}">
+              </div>
+            </td>
+            <td class="content-col">
+              <div class="pub-title">
+                {{ post.title }}
+              </div>
+              <div class="pub-venue">{{ post.venue }}, {{ post.location }}</div>
+              {% if post.link %}
+              <div class="text-links">
+                <a href="{{ post.link }}" class="text-btn">Link</a>
+              </div>
+              {% endif %}
+            </td>
+          </tr>
+        </table>
+      </div>
       {% endfor %}
     </div>
   </section>
 </div>
-
-{% if site.talkmap_link == true %}
-
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
-{% endif %}
-
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
