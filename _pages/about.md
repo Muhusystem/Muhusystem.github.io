@@ -11,7 +11,7 @@ title: "About Me"
   <nav class="mobile-nav">
     <ul class="mobile-nav-list">
       <li class="mobile-nav-item"><a href="#about">About</a></li>
-      <li class="mobile-nav-item"><a href="#publications">Publications</a></li>
+      <li class="mobile-nav-item"><a href="/publications/">Publications</a></li>
       <li class="mobile-nav-item"><a href="#talks">Talk</a></li>
     </ul>
   </nav>
