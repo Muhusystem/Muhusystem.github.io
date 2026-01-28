@@ -59,7 +59,7 @@ title: "About Me"
         <a href="https://hillman.upmc.com/">UPMC Hillman Cancer Center</a>, co-advised by 
         <a href="https://www.sci.pitt.edu/people/yufei-huang">Prof. Yufei Huang</a> and 
         <a href="https://sites.pitt.edu/~zhm4/">Prof. Zhi-Hong Mao</a>. 
-        My current research focuses on <strong>Multimodal Learning</strong> and <strong>AI for Biomedicine</strong>, with broader interests in AI for scientific discovery, computational biology, explainable AI, and efficient large language models. 
+        My current research focuses on <strong>Multimodal Learning</strong> and <strong>AI for Biomedicine</strong>, with broader interests in AI for scientific discovery, computational biology (Single-cell and Spatial Transcriptomics), explainable AI, and efficient large language models. 
         I received my B.E. in Electrical Engineering and Automation from 
         <a href="https://www.hust.edu.cn/">Huazhong University of Science and Technology</a>, where I worked on transfer learning for renewable energy forecasting.
       </p>
