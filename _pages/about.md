@@ -86,7 +86,7 @@ title: "About Me"
         </li>
         <li>
           <strong>[11/2025]</strong>
-          <span class="news-content">Our paper <strong>FigEx</strong> is accepted by EMNLP 2025 Findings.</span>
+          <span class="news-content">Our paper <strong>FigEx</strong> is accepted by EMNLP.</span>
         </li>
         <li>
           <strong>[06/2024]</strong>
@@ -177,7 +177,7 @@ title: "About Me"
         <table class="pub-table">
           <tr>
             <td class="media-col">
-              <span class="conference-badge">EMNLP 2025 Findings</span>
+              <span class="conference-badge">EMNLP</span>
               <div class="project-media">
                 <img src="{{ base_path }}/images/figex.png" alt="FigEx">
               </div>
@@ -189,7 +189,7 @@ title: "About Me"
               <div class="pub-authors">
                 <strong>Jifeng Song</strong>, Arun Das, Ge Cui, Yufei Huang
               </div>
-              <div class="pub-venue">Findings of the Association for Computational Linguistics: EMNLP 2025</div>
+              <div class="pub-venue">EMNLP</div>
               <div class="text-links">
                 <a href="https://aclanthology.org/2025.findings-emnlp.899/" class="text-btn">Paper</a>
                 <a href="https://github.com/Huang-AI4Medicine-Lab/FigEx" class="text-btn">Code</a>
