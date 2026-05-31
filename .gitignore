@@ -10,3 +10,9 @@ Gemfile.lock
 # Ingore files created by npm
 node_modules
 package-lock.json
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore manual local backup snapshots (e.g. local-backup-<timestamp>/)
+local-backup-*/
