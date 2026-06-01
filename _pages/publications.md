@@ -55,6 +55,9 @@ permalink: /publications/
       <h2>Publications</h2>
 
       <div class="project-container">
+        <div class="pub-title">
+          <a href="https://arxiv.org/abs/2601.08026">FigEx2: Visual-Conditioned Panel Detection and Captioning for Scientific Compound Figures</a>
+        </div>
         <table class="pub-table">
           <tr>
             <td class="media-col">
@@ -64,9 +67,6 @@ permalink: /publications/
               </div>
             </td>
             <td class="content-col">
-              <div class="pub-title">
-                <a href="https://arxiv.org/abs/2601.08026">FigEx2: Visual-Conditioned Panel Detection and Captioning for Scientific Compound Figures</a>
-              </div>
               <div class="pub-authors">
                 <strong>Jifeng Song</strong>, Arun Das, Pan Wang, Hui Ji, Kun Zhao, Yufei Huang
               </div>
@@ -80,6 +80,9 @@ permalink: /publications/
       </div>
 
       <div class="project-container">
+        <div class="pub-title">
+          <a href="https://arxiv.org/abs/2601.03321">Aligning Findings with Diagnosis: A Self-Consistent Reinforcement Learning Framework for Trustworthy Radiology Reporting</a>
+        </div>
         <table class="pub-table">
           <tr>
             <td class="media-col">
@@ -89,9 +92,6 @@ permalink: /publications/
               </div>
             </td>
             <td class="content-col">
-              <div class="pub-title">
-                <a href="https://arxiv.org/abs/2601.03321">Aligning Findings with Diagnosis: A Self-Consistent Reinforcement Learning Framework for Trustworthy Radiology Reporting</a>
-              </div>
               <div class="pub-authors">
                 Kun Zhao, Siyuan Dai, Pan Wang, <strong>Jifeng Song</strong>, Hui Ji, Chenghua Lin, Liang Zhan, Haoteng Tang
               </div>
@@ -105,6 +105,9 @@ permalink: /publications/
       </div>
 
       <div class="project-container">
+        <div class="pub-title">
+          <a href="https://doi.org/10.21203/rs.3.rs-8370059/v1">A Process-Centric Survey of AI for Scientific Discovery Through the EXHYTE Framework</a>
+        </div>
         <table class="pub-table">
           <tr>
             <td class="media-col">
@@ -114,9 +117,6 @@ permalink: /publications/
               </div>
             </td>
             <td class="content-col">
-              <div class="pub-title">
-                <a href="https://doi.org/10.21203/rs.3.rs-8370059/v1">A Process-Centric Survey of AI for Scientific Discovery Through the EXHYTE Framework</a>
-              </div>
               <div class="pub-authors">
                 Md Musaddaqul Hasib, Sumin Jo, Harsh Sinha, <strong>Jifeng Song</strong>, Arun Das, Zhentao Liu, Hugh Galloway, Huey Huang, Kexun Zhang, Shou-Jiang Gao, Yu-Chiao Chiu, Lei Li, Yufei Huang
               </div>
@@ -130,6 +130,9 @@ permalink: /publications/
       </div>
 
       <div class="project-container">
+        <div class="pub-title">
+          <a href="https://aclanthology.org/2025.findings-emnlp.899/">FigEx: Aligned Extraction of Scientific Figures and Captions</a>
+        </div>
         <table class="pub-table">
           <tr>
             <td class="media-col">
@@ -139,9 +142,6 @@ permalink: /publications/
               </div>
             </td>
             <td class="content-col">
-              <div class="pub-title">
-                <a href="https://aclanthology.org/2025.findings-emnlp.899/">FigEx: Aligned Extraction of Scientific Figures and Captions</a>
-              </div>
               <div class="pub-authors">
                 <strong>Jifeng Song</strong>, Arun Das, Ge Cui, Yufei Huang
               </div>
@@ -156,6 +156,9 @@ permalink: /publications/
       </div>
 
       <div class="project-container">
+        <div class="pub-title">
+          <a href="https://arxiv.org/abs/2406.06562">Achieving Sparse Activation in Small Language Models</a>
+        </div>
         <table class="pub-table">
           <tr>
             <td class="media-col">
@@ -165,9 +168,6 @@ permalink: /publications/
               </div>
             </td>
             <td class="content-col">
-              <div class="pub-title">
-                <a href="https://arxiv.org/abs/2406.06562">Achieving Sparse Activation in Small Language Models</a>
-              </div>
               <div class="pub-authors">
                 <strong>Jifeng Song</strong>, Kai Huang, Xiangyu Yin, Boyuan Yang, Wei Gao
               </div>
@@ -182,6 +182,9 @@ permalink: /publications/
       </div>
 
       <div class="project-container">
+        <div class="pub-title">
+          <a href="https://doi.org/10.1002/we.2909">MTTLA-DLW: Multi-task TCN-Bi-LSTM Transfer Learning Approach with Dynamic Loss Weights based on Feature Correlations of the Training Samples for Short-term Wind Power Prediction</a>
+        </div>
         <table class="pub-table">
           <tr>
             <td class="media-col">
@@ -191,9 +194,6 @@ permalink: /publications/
               </div>
             </td>
             <td class="content-col">
-              <div class="pub-title">
-                <a href="https://doi.org/10.1002/we.2909">MTTLA-DLW: Multi-task TCN-Bi-LSTM Transfer Learning Approach with Dynamic Loss Weights based on Feature Correlations of the Training Samples for Short-term Wind Power Prediction</a>
-              </div>
               <div class="pub-authors">
                 <strong>Jifeng Song</strong>, Xiaosheng Peng, Jiajiong Song, Zimin Yang, Bo Wang, Jianfeng Che
               </div>
@@ -207,6 +207,9 @@ permalink: /publications/
       </div>
 
       <div class="project-container">
+        <div class="pub-title">
+          <a href="https://ieeexplore.ieee.org/document/9949665">A Novel Wind Power Prediction Approach for Extreme Wind Conditions Based on TCN-LSTM and Transfer Learning</a>
+        </div>
         <table class="pub-table">
           <tr>
             <td class="media-col">
@@ -216,9 +219,6 @@ permalink: /publications/
               </div>
             </td>
             <td class="content-col">
-              <div class="pub-title">
-                <a href="https://ieeexplore.ieee.org/document/9949665">A Novel Wind Power Prediction Approach for Extreme Wind Conditions Based on TCN-LSTM and Transfer Learning</a>
-              </div>
               <div class="pub-authors">
                 <strong>Jifeng Song</strong>, Xiaosheng Peng, Zimin Yang, Peijie Wei, Bo Wang, Zheng Wang
               </div>
@@ -232,6 +232,9 @@ permalink: /publications/
       </div>
 
       <div class="project-container">
+        <div class="pub-title">
+          <a href="https://ieeexplore.ieee.org/abstract/document/9949917">Short-term Wind Power Prediction Based on CEEMDAN and Parallel CNN-LSTM</a>
+        </div>
         <table class="pub-table">
           <tr>
             <td class="media-col">
@@ -241,9 +244,6 @@ permalink: /publications/
               </div>
             </td>
             <td class="content-col">
-              <div class="pub-title">
-                <a href="https://ieeexplore.ieee.org/abstract/document/9949917">Short-term Wind Power Prediction Based on CEEMDAN and Parallel CNN-LSTM</a>
-              </div>
               <div class="pub-authors">
                 Zimin Yang, Xiaosheng Peng, Peijie Wei, <strong>Jifeng Song</strong>
               </div>

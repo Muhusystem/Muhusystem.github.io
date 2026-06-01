@@ -99,6 +99,9 @@ title: "About Me"
       <h2>Selected Publications | <a href="{{ base_path }}/publications/">Full list</a></h2>
 
       <div class="project-container">
+        <div class="pub-title">
+          <a href="https://arxiv.org/abs/2601.08026">FigEx2: Visual-Conditioned Panel Detection and Captioning for Scientific Compound Figures</a>
+        </div>
         <table class="pub-table">
           <tr>
             <td class="media-col">
@@ -108,9 +111,6 @@ title: "About Me"
               </div>
             </td>
             <td class="content-col">
-              <div class="pub-title">
-                <a href="https://arxiv.org/abs/2601.08026">FigEx2: Visual-Conditioned Panel Detection and Captioning for Scientific Compound Figures</a>
-              </div>
               <div class="pub-authors">
                 <strong>Jifeng Song</strong>, Arun Das, Pan Wang, Hui Ji, Kun Zhao, Yufei Huang
               </div>
@@ -124,6 +124,9 @@ title: "About Me"
       </div>
 
       <div class="project-container">
+        <div class="pub-title">
+          <a href="https://arxiv.org/abs/2601.03321">Aligning Findings with Diagnosis: A Self-Consistent Reinforcement Learning Framework for Trustworthy Radiology Reporting</a>
+        </div>
         <table class="pub-table">
           <tr>
             <td class="media-col">
@@ -133,9 +136,6 @@ title: "About Me"
               </div>
             </td>
             <td class="content-col">
-              <div class="pub-title">
-                <a href="https://arxiv.org/abs/2601.03321">Aligning Findings with Diagnosis: A Self-Consistent Reinforcement Learning Framework for Trustworthy Radiology Reporting</a>
-              </div>
               <div class="pub-authors">
                 Kun Zhao, Siyuan Dai, Pan Wang, <strong>Jifeng Song</strong>, Hui Ji, Chenghua Lin, Liang Zhan, Haoteng Tang
               </div>
@@ -149,6 +149,9 @@ title: "About Me"
       </div>
 
       <div class="project-container">
+        <div class="pub-title">
+          <a href="https://doi.org/10.21203/rs.3.rs-8370059/v1">A Process-Centric Survey of AI for Scientific Discovery Through the EXHYTE Framework</a>
+        </div>
         <table class="pub-table">
           <tr>
             <td class="media-col">
@@ -158,9 +161,6 @@ title: "About Me"
               </div>
             </td>
             <td class="content-col">
-              <div class="pub-title">
-                <a href="https://doi.org/10.21203/rs.3.rs-8370059/v1">A Process-Centric Survey of AI for Scientific Discovery Through the EXHYTE Framework</a>
-              </div>
               <div class="pub-authors">
                 Md Musaddaqul Hasib, Sumin Jo, Harsh Sinha, <strong>Jifeng Song</strong>, Arun Das, Zhentao Liu, Hugh Galloway, Huey Huang, Kexun Zhang, Shou-Jiang Gao, Yu-Chiao Chiu, Lei Li, Yufei Huang
               </div>
@@ -174,6 +174,9 @@ title: "About Me"
       </div>
 
       <div class="project-container">
+        <div class="pub-title">
+          <a href="https://aclanthology.org/2025.findings-emnlp.899/">FigEx: Aligned Extraction of Scientific Figures and Captions</a>
+        </div>
         <table class="pub-table">
           <tr>
             <td class="media-col">
@@ -183,9 +186,6 @@ title: "About Me"
               </div>
             </td>
             <td class="content-col">
-              <div class="pub-title">
-                <a href="https://aclanthology.org/2025.findings-emnlp.899/">FigEx: Aligned Extraction of Scientific Figures and Captions</a>
-              </div>
               <div class="pub-authors">
                 <strong>Jifeng Song</strong>, Arun Das, Ge Cui, Yufei Huang
               </div>
@@ -200,6 +200,9 @@ title: "About Me"
       </div>
 
       <div class="project-container">
+        <div class="pub-title">
+          <a href="https://arxiv.org/abs/2406.06562">Achieving Sparse Activation in Small Language Models</a>
+        </div>
         <table class="pub-table">
           <tr>
             <td class="media-col">
@@ -209,9 +212,6 @@ title: "About Me"
               </div>
             </td>
             <td class="content-col">
-              <div class="pub-title">
-                <a href="https://arxiv.org/abs/2406.06562">Achieving Sparse Activation in Small Language Models</a>
-              </div>
               <div class="pub-authors">
                 <strong>Jifeng Song</strong>, Kai Huang, Xiangyu Yin, Boyuan Yang, Wei Gao
               </div>

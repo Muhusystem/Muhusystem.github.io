@@ -378,7 +378,6 @@ h2 {
 }
 
 /* Publication text elements */
-.pub-title,
 .pub-authors,
 .pub-venue,
 .pub-description {
@@ -386,12 +385,14 @@ h2 {
   padding: 0 !important;
 }
 
+/* Full-width title heading: spans the whole card, above the figure+details row */
 .pub-title {
-  margin-top: 0 !important;
-  margin-bottom: 8px !important;
-  font-size: 15px;
+  margin: 0 0 12px 0 !important;
+  padding: 0 0 8px 0;
+  border-bottom: 1px solid #ececec;
+  font-size: 16px;
   font-weight: 600;
-  line-height: 1.3;
+  line-height: 1.35;
   transition: color 0.3s ease;
 }
 
