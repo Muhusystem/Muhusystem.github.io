@@ -134,21 +134,22 @@ title: "About Me"
         <table class="pub-table">
           <tr>
             <td class="media-col">
-              <span class="conference-badge">bioRxiv</span>
+              <span class="conference-badge">EMNLP 2025</span>
               <div class="project-media">
-                <img src="{{ base_path }}/images/spatialytica.png" alt="spatiAlytica">
+                <img src="{{ base_path }}/images/figex.png" alt="FigEx">
               </div>
             </td>
             <td class="content-col">
               <div class="pub-title">
-                <a href="https://www.biorxiv.org/content/10.64898/2026.04.29.721735v1">spatiAlytica: Viewer-Grounded Multimodal Agentic System for Interactive Spatial Omics Analysis</a>
+                <a href="https://aclanthology.org/2025.findings-emnlp.899/">FigEx: Aligned Extraction of Scientific Figures and Captions</a>
               </div>
               <div class="pub-authors">
-                Arun Das, Kexun Zhang, <strong>Jifeng Song</strong>, Meiru Han, Angela Chen, Wen Meng, Hugh Galloway, Po-Yuan Chen, Sumin Jo, Zhentao Liu, Md Musaddaqul Hasib, Adam Officer, Harsh Sinha, Yu-Chiao Chiu, Shou-Jiang Gao, Lei Li, Yufei Huang
+                <strong>Jifeng Song</strong>, Arun Das, Ge Cui, Yufei Huang
               </div>
-              <div class="pub-venue">bioRxiv preprint 2026</div>
+              <div class="pub-venue">Findings of the Association for Computational Linguistics: EMNLP 2025</div>
               <div class="text-links">
-                <a href="https://www.biorxiv.org/content/10.64898/2026.04.29.721735v1" class="text-btn">Paper</a>
+                <a href="https://aclanthology.org/2025.findings-emnlp.899/" class="text-btn">Paper</a>
+                <a href="https://github.com/Huang-AI4Medicine-Lab/FigEx" class="text-btn">Code</a>
               </div>
             </td>
           </tr>
@@ -184,6 +185,31 @@ title: "About Me"
         <table class="pub-table">
           <tr>
             <td class="media-col">
+              <span class="conference-badge">bioRxiv</span>
+              <div class="project-media">
+                <img src="{{ base_path }}/images/spatialytica.png" alt="spatiAlytica">
+              </div>
+            </td>
+            <td class="content-col">
+              <div class="pub-title">
+                <a href="https://www.biorxiv.org/content/10.64898/2026.04.29.721735v1">spatiAlytica: Viewer-Grounded Multimodal Agentic System for Interactive Spatial Omics Analysis</a>
+              </div>
+              <div class="pub-authors">
+                Arun Das, Kexun Zhang, <strong>Jifeng Song</strong>, Meiru Han, Angela Chen, Wen Meng, Hugh Galloway, Po-Yuan Chen, Sumin Jo, Zhentao Liu, Md Musaddaqul Hasib, Adam Officer, Harsh Sinha, Yu-Chiao Chiu, Shou-Jiang Gao, Lei Li, Yufei Huang
+              </div>
+              <div class="pub-venue">bioRxiv preprint 2026</div>
+              <div class="text-links">
+                <a href="https://www.biorxiv.org/content/10.64898/2026.04.29.721735v1" class="text-btn">Paper</a>
+              </div>
+            </td>
+          </tr>
+        </table>
+      </div>
+
+      <div class="project-container">
+        <table class="pub-table">
+          <tr>
+            <td class="media-col">
               <span class="conference-badge">arXiv</span>
               <div class="project-media">
                 <img src="{{ base_path }}/images/aligning-findings.png" alt="Radiology Reporting">
@@ -199,57 +225,6 @@ title: "About Me"
               <div class="pub-venue">arXiv preprint 2026</div>
               <div class="text-links">
                 <a href="https://arxiv.org/abs/2601.03321" class="text-btn">Paper</a>
-              </div>
-            </td>
-          </tr>
-        </table>
-      </div>
-
-      <div class="project-container">
-        <table class="pub-table">
-          <tr>
-            <td class="media-col">
-              <span class="conference-badge">Res Sq</span>
-              <div class="project-media">
-                <img src="{{ base_path }}/images/exhyte-framework.png" alt="EXHYTE Framework">
-              </div>
-            </td>
-            <td class="content-col">
-              <div class="pub-title">
-                <a href="https://doi.org/10.21203/rs.3.rs-8370059/v1">A Process-Centric Survey of AI for Scientific Discovery Through the EXHYTE Framework</a>
-              </div>
-              <div class="pub-authors">
-                Md Musaddaqul Hasib, Sumin Jo, Harsh Sinha, <strong>Jifeng Song</strong>, Arun Das, Zhentao Liu, Hugh Galloway, Huey Huang, Kexun Zhang, Shou-Jiang Gao, Yu-Chiao Chiu, Lei Li, Yufei Huang
-              </div>
-              <div class="pub-venue">Research Square preprint 2025</div>
-              <div class="text-links">
-                <a href="https://doi.org/10.21203/rs.3.rs-8370059/v1" class="text-btn">Paper</a>
-              </div>
-            </td>
-          </tr>
-        </table>
-      </div>
-
-      <div class="project-container">
-        <table class="pub-table">
-          <tr>
-            <td class="media-col">
-              <span class="conference-badge">EMNLP</span>
-              <div class="project-media">
-                <img src="{{ base_path }}/images/figex.png" alt="FigEx">
-              </div>
-            </td>
-            <td class="content-col">
-              <div class="pub-title">
-                <a href="https://aclanthology.org/2025.findings-emnlp.899/">FigEx: Aligned Extraction of Scientific Figures and Captions</a>
-              </div>
-              <div class="pub-authors">
-                <strong>Jifeng Song</strong>, Arun Das, Ge Cui, Yufei Huang
-              </div>
-              <div class="pub-venue">EMNLP</div>
-              <div class="text-links">
-                <a href="https://aclanthology.org/2025.findings-emnlp.899/" class="text-btn">Paper</a>
-                <a href="https://github.com/Huang-AI4Medicine-Lab/FigEx" class="text-btn">Code</a>
               </div>
             </td>
           </tr>
