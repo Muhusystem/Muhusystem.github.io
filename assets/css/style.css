@@ -360,11 +360,11 @@ h2 {
   width: 100%;
   box-sizing: border-box;
   text-align: center;
-  background-color: #1560b8 !important;
-  color: white !important;
+  background-color: #3a9bc8 !important;
+  color: #000 !important;
   padding: 6px 12px !important;
   border-radius: 5px !important;
-  font-size: 16px !important;
+  font-size: 14px !important;
   font-weight: bold !important;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2) !important;
   line-height: 1.2 !important;
