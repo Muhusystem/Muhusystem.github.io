@@ -392,8 +392,8 @@ h2 {
 }
 
 .pub-title a {
-  color: #2c3e50;
-  text-decoration: none;
+  color: #3a9bc8;
+  text-decoration: underline;
 }
 
 .pub-title a:hover {
@@ -411,7 +411,6 @@ h2 {
 .pub-authors strong {
   color: #2c3e50;
   font-weight: 600;
-  text-decoration: underline;
 }
 
 .pub-venue {
