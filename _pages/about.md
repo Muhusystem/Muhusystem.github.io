@@ -108,7 +108,7 @@ title: "About Me"
         <table class="pub-table">
           <tr>
             <td class="media-col">
-              <span class="conference-badge">MLSys 2026</span>
+              <span class="conference-badge top-venue">MLSys 2026</span>
               <div class="project-media">
                 <img src="{{ base_path }}/images/sparse-activation.png" alt="Attribution-based Sparse Activation">
               </div>
@@ -134,7 +134,7 @@ title: "About Me"
         <table class="pub-table">
           <tr>
             <td class="media-col">
-              <span class="conference-badge">EMNLP 2025</span>
+              <span class="conference-badge top-venue">EMNLP 2025</span>
               <div class="project-media">
                 <img src="{{ base_path }}/images/figex.png" alt="FigEx">
               </div>
