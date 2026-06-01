@@ -223,7 +223,7 @@ h2 {
   gap: 12px;
 }
 
-.news-list li strong {
+.news-list li > strong {
   color: #2c3e50;
   font-weight: 600;
   min-width: 110px;
