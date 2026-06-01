@@ -55,10 +55,10 @@ permalink: /publications/
       <h2>Publications</h2>
 
       <div class="project-container">
-        <span class="conference-badge">arXiv</span>
         <table class="pub-table">
           <tr>
             <td class="media-col">
+              <span class="conference-badge">arXiv</span>
               <div class="project-media">
                 <img src="{{ base_path }}/images/figex2.png" alt="FigEx2">
               </div>
@@ -80,10 +80,10 @@ permalink: /publications/
       </div>
 
       <div class="project-container">
-        <span class="conference-badge">arXiv</span>
         <table class="pub-table">
           <tr>
             <td class="media-col">
+              <span class="conference-badge">arXiv</span>
               <div class="project-media">
                 <img src="{{ base_path }}/images/aligning-findings.png" alt="Radiology Reporting">
               </div>
@@ -105,10 +105,10 @@ permalink: /publications/
       </div>
 
       <div class="project-container">
-        <span class="conference-badge">Res Sq</span>
         <table class="pub-table">
           <tr>
             <td class="media-col">
+              <span class="conference-badge">Res Sq</span>
               <div class="project-media">
                 <img src="{{ base_path }}/images/exhyte-framework.png" alt="EXHYTE Framework">
               </div>
@@ -130,10 +130,10 @@ permalink: /publications/
       </div>
 
       <div class="project-container">
-        <span class="conference-badge">EMNLP</span>
         <table class="pub-table">
           <tr>
             <td class="media-col">
+              <span class="conference-badge">EMNLP</span>
               <div class="project-media">
                 <img src="{{ base_path }}/images/figex.png" alt="FigEx">
               </div>
@@ -156,10 +156,10 @@ permalink: /publications/
       </div>
 
       <div class="project-container">
-        <span class="conference-badge">arXiv</span>
         <table class="pub-table">
           <tr>
             <td class="media-col">
+              <span class="conference-badge">arXiv</span>
               <div class="project-media">
                 <img src="{{ base_path }}/images/sparse-activation.png" alt="Sparse Activation">
               </div>
@@ -182,10 +182,10 @@ permalink: /publications/
       </div>
 
       <div class="project-container">
-        <span class="conference-badge">Wind Energy</span>
         <table class="pub-table">
           <tr>
             <td class="media-col">
+              <span class="conference-badge">Wind Energy</span>
               <div class="project-media">
                 <img src="{{ base_path }}/images/mttla-dlw.png" alt="MTTLA-DLW">
               </div>
@@ -207,10 +207,10 @@ permalink: /publications/
       </div>
 
       <div class="project-container">
-        <span class="conference-badge">IEEE/IAS I&CPS Asia'22</span>
         <table class="pub-table">
           <tr>
             <td class="media-col">
+              <span class="conference-badge">IEEE/IAS I&CPS Asia'22</span>
               <div class="project-media">
                 <img src="{{ base_path }}/images/tcn-lstm.png" alt="Wind Power Prediction">
               </div>
@@ -232,10 +232,10 @@ permalink: /publications/
       </div>
 
       <div class="project-container">
-        <span class="conference-badge">IEEE/IAS I&CPS Asia'22</span>
         <table class="pub-table">
           <tr>
             <td class="media-col">
+              <span class="conference-badge">IEEE/IAS I&CPS Asia'22</span>
               <div class="project-media">
                 <img src="{{ base_path }}/images/ceemdan-cnn-lstm.png" alt="CEEMDAN">
               </div>

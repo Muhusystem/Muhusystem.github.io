@@ -99,10 +99,10 @@ title: "About Me"
       <h2>Selected Publications | <a href="{{ base_path }}/publications/">Full list</a></h2>
 
       <div class="project-container">
-        <span class="conference-badge">arXiv</span>
         <table class="pub-table">
           <tr>
             <td class="media-col">
+              <span class="conference-badge">arXiv</span>
               <div class="project-media">
                 <img src="{{ base_path }}/images/figex2.png" alt="FigEx2">
               </div>
@@ -124,10 +124,10 @@ title: "About Me"
       </div>
 
       <div class="project-container">
-        <span class="conference-badge">arXiv</span>
         <table class="pub-table">
           <tr>
             <td class="media-col">
+              <span class="conference-badge">arXiv</span>
               <div class="project-media">
                 <img src="{{ base_path }}/images/aligning-findings.png" alt="Radiology Reporting">
               </div>
@@ -149,10 +149,10 @@ title: "About Me"
       </div>
 
       <div class="project-container">
-        <span class="conference-badge">Res Sq</span>
         <table class="pub-table">
           <tr>
             <td class="media-col">
+              <span class="conference-badge">Res Sq</span>
               <div class="project-media">
                 <img src="{{ base_path }}/images/exhyte-framework.png" alt="EXHYTE Framework">
               </div>
@@ -174,10 +174,10 @@ title: "About Me"
       </div>
 
       <div class="project-container">
-        <span class="conference-badge">EMNLP</span>
         <table class="pub-table">
           <tr>
             <td class="media-col">
+              <span class="conference-badge">EMNLP</span>
               <div class="project-media">
                 <img src="{{ base_path }}/images/figex.png" alt="FigEx">
               </div>
@@ -200,10 +200,10 @@ title: "About Me"
       </div>
 
       <div class="project-container">
-        <span class="conference-badge">arXiv</span>
         <table class="pub-table">
           <tr>
             <td class="media-col">
+              <span class="conference-badge">arXiv</span>
               <div class="project-media">
                 <img src="{{ base_path }}/images/sparse-activation.png" alt="Sparse Activation">
               </div>

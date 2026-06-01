@@ -354,12 +354,12 @@ h2 {
   transform-origin: top left;
 }
 
-/* Conference badge: full-width banner across the top of each card */
-.project-container > .conference-badge {
+/* Conference badge: block above the figure, same width as the image, text centered */
+.media-col .conference-badge {
   display: block;
   width: 100%;
   box-sizing: border-box;
-  text-align: left;
+  text-align: center;
   background-color: #1560b8 !important;
   color: white !important;
   padding: 6px 12px !important;
@@ -574,6 +574,12 @@ screen and (max-width: 1060px) {
     position: static;
     width: 70%;
     margin: 0 auto;
+  }
+
+  .media-col .conference-badge {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .research-interests {
