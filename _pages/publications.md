@@ -4,8 +4,6 @@ title: "Publications"
 permalink: /publications/
 ---
 
-<link rel="stylesheet" href="{{ base_path }}/assets/css/style.css">
-
 <div class="wrapper">
   <!-- Navigation -->
   <nav class="mobile-nav">
