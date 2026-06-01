@@ -236,8 +236,8 @@ h2 {
 }
 
 .news-content a {
-  color: #1560b8;
-  text-decoration: none;
+  color: #0f4a8a;
+  text-decoration: underline;
 }
 
 .news-content a:hover {
@@ -392,8 +392,8 @@ h2 {
 }
 
 .pub-title a {
-  color: #2c3e50;
-  text-decoration: none;
+  color: #3a9bc8;
+  text-decoration: underline;
 }
 
 .pub-title a:hover {
