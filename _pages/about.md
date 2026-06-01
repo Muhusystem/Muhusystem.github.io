@@ -150,6 +150,7 @@ title: "About Me"
               <div class="text-links">
                 <a href="https://aclanthology.org/2025.findings-emnlp.899/" class="text-btn">Paper</a>
                 <a href="https://github.com/Huang-AI4Medicine-Lab/FigEx" class="text-btn">Code</a>
+                <a href="https://huggingface.co/datasets/Huang-AI4Medicine-Lab/BioSci-Fig" class="text-btn">Dataset</a>
               </div>
             </td>
           </tr>
