@@ -373,10 +373,10 @@ h2 {
   border: none !important;
 }
 
-/* Top venue / formally published (MLSys, EMNLP, journals, IEEE/IAS): light blue-gray badge, dark blue text */
+/* Accepted / published (MLSys, EMNLP, journals, IEEE/IAS): light green badge, dark green text */
 .media-col .conference-badge.top-venue {
-  background-color: #E8EEF7 !important;
-  color: #1F4E79 !important;
+  background-color: #EAF1EA !important;
+  color: #2C5F2D !important;
 }
 
 /* Publication text elements */
