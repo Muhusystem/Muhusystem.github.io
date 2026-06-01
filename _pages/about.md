@@ -71,30 +71,89 @@ title: "About Me"
       <h2>News</h2>
       <ul class="news-list">
         <li>
-          <strong>[01/2026]</strong>
-          <span class="news-content">Our paper <strong>FigEx2</strong> is released on arXiv.</span>
+          <strong>[05/2026]</strong>
+          <span class="news-content">Our paper <a href="https://mlsys.org/virtual/2026/oral/3779"><strong>Attribution-based Sparse Activation in Large Language Models</strong></a> is accepted by MLSys 2026.</span>
+        </li>
+        <li>
+          <strong>[04/2026]</strong>
+          <span class="news-content">Our paper <a href="https://www.biorxiv.org/content/10.64898/2026.04.29.721735v1"><strong>spatiAlytica</strong></a> is released on bioRxiv.</span>
         </li>
         <li>
           <strong>[01/2026]</strong>
-          <span class="news-content">Our paper <strong>Aligning Findings with Diagnosis</strong> is released on arXiv.</span>
+          <span class="news-content">Our paper <a href="https://arxiv.org/abs/2601.08026"><strong>FigEx2</strong></a> is released on arXiv.</span>
+        </li>
+        <li>
+          <strong>[01/2026]</strong>
+          <span class="news-content">Our paper <a href="https://arxiv.org/abs/2601.03321"><strong>Aligning Findings with Diagnosis</strong></a> is released on arXiv.</span>
         </li>
         <li>
           <strong>[12/2025]</strong>
-          <span class="news-content">Our survey paper <strong>A Process-Centric Survey of AI for Scientific Discovery</strong> is released on Research Square.</span>
+          <span class="news-content">Our survey paper <a href="https://doi.org/10.21203/rs.3.rs-8370059/v1"><strong>A Process-Centric Survey of AI for Scientific Discovery</strong></a> is released on Research Square.</span>
         </li>
         <li>
           <strong>[11/2025]</strong>
-          <span class="news-content">Our paper <strong>FigEx</strong> is accepted by EMNLP.</span>
+          <span class="news-content">Our paper <a href="https://aclanthology.org/2025.findings-emnlp.899/"><strong>FigEx</strong></a> is accepted by EMNLP.</span>
         </li>
         <li>
           <strong>[06/2024]</strong>
-          <span class="news-content">Our paper <strong>Achieving Sparse Activation in Small Language Models</strong> is released on arXiv.</span>
+          <span class="news-content">Our paper <a href="https://arxiv.org/abs/2406.06562"><strong>Achieving Sparse Activation in Small Language Models</strong></a> is released on arXiv.</span>
         </li>
       </ul>
     </div>
 
     <div class="publications-section" id="publications">
       <h2>Selected Publications | <a href="{{ base_path }}/publications/">Full list</a></h2>
+
+      <div class="project-container">
+        <table class="pub-table">
+          <tr>
+            <td class="media-col">
+              <span class="conference-badge">MLSys 2026</span>
+              <div class="project-media">
+                <img src="{{ base_path }}/images/sparse-activation.png" alt="Attribution-based Sparse Activation">
+              </div>
+            </td>
+            <td class="content-col">
+              <div class="pub-title">
+                <a href="https://mlsys.org/virtual/2026/oral/3779">Attribution-based Sparse Activation in Large Language Models</a>
+              </div>
+              <div class="pub-authors">
+                <strong>Jifeng Song</strong><sup>&dagger;</sup>, Xiangyu Yin<sup>&dagger;</sup>, Boyuan Yang, Kai Huang, Weichen Liu, Wei Gao (<sup>&dagger;</sup>Equal contribution)
+              </div>
+              <div class="pub-venue">Proceedings of Machine Learning and Systems (MLSys) 2026</div>
+              <div class="text-links">
+                <a href="https://mlsys.org/virtual/2026/oral/3779" class="text-btn">Paper</a>
+                <a href="https://github.com/pittisl/Sparse-Activation" class="text-btn">Code</a>
+              </div>
+            </td>
+          </tr>
+        </table>
+      </div>
+
+      <div class="project-container">
+        <table class="pub-table">
+          <tr>
+            <td class="media-col">
+              <span class="conference-badge">bioRxiv</span>
+              <div class="project-media">
+                <img src="{{ base_path }}/images/spatialytica.png" alt="spatiAlytica">
+              </div>
+            </td>
+            <td class="content-col">
+              <div class="pub-title">
+                <a href="https://www.biorxiv.org/content/10.64898/2026.04.29.721735v1">spatiAlytica: Viewer-Grounded Multimodal Agentic System for Interactive Spatial Omics Analysis</a>
+              </div>
+              <div class="pub-authors">
+                Arun Das, Kexun Zhang, <strong>Jifeng Song</strong>, Meiru Han, Angela Chen, Wen Meng, Hugh Galloway, Po-Yuan Chen, Sumin Jo, Zhentao Liu, Md Musaddaqul Hasib, Adam Officer, Harsh Sinha, Yu-Chiao Chiu, Shou-Jiang Gao, Lei Li, Yufei Huang
+              </div>
+              <div class="pub-venue">bioRxiv preprint 2026</div>
+              <div class="text-links">
+                <a href="https://www.biorxiv.org/content/10.64898/2026.04.29.721735v1" class="text-btn">Paper</a>
+              </div>
+            </td>
+          </tr>
+        </table>
+      </div>
 
       <div class="project-container">
         <table class="pub-table">
@@ -191,32 +250,6 @@ title: "About Me"
               <div class="text-links">
                 <a href="https://aclanthology.org/2025.findings-emnlp.899/" class="text-btn">Paper</a>
                 <a href="https://github.com/Huang-AI4Medicine-Lab/FigEx" class="text-btn">Code</a>
-              </div>
-            </td>
-          </tr>
-        </table>
-      </div>
-
-      <div class="project-container">
-        <table class="pub-table">
-          <tr>
-            <td class="media-col">
-              <span class="conference-badge">arXiv</span>
-              <div class="project-media">
-                <img src="{{ base_path }}/images/sparse-activation.png" alt="Sparse Activation">
-              </div>
-            </td>
-            <td class="content-col">
-              <div class="pub-title">
-                <a href="https://arxiv.org/abs/2406.06562">Achieving Sparse Activation in Small Language Models</a>
-              </div>
-              <div class="pub-authors">
-                <strong>Jifeng Song</strong>, Kai Huang, Xiangyu Yin, Boyuan Yang, Wei Gao
-              </div>
-              <div class="pub-venue">arXiv preprint 2024</div>
-              <div class="text-links">
-                <a href="https://arxiv.org/abs/2406.06562" class="text-btn">Paper</a>
-                <a href="https://github.com/pittisl/Sparse-Activation" class="text-btn">Code</a>
               </div>
             </td>
           </tr>
