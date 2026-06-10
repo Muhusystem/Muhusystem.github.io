@@ -72,31 +72,31 @@ title: "About Me"
       <ul class="news-list">
         <li>
           <strong>[05/2026]</strong>
-          <span class="news-content">Paper accepted to <strong>MLSys 2026</strong>: <a href="https://mlsys.org/virtual/2026/oral/3779"><strong>Attribution-based Sparse Activation in Large Language Models</strong></a>.</span>
+          <span class="news-content">Paper accepted to <strong>MLSys 2026</strong>: <a href="https://mlsys.org/virtual/2026/oral/3779">Attribution-based Sparse Activation in Large Language Models</a>.</span>
         </li>
         <li>
           <strong>[04/2026]</strong>
-          <span class="news-content">New preprint: <a href="https://www.biorxiv.org/content/10.64898/2026.04.29.721735v1"><strong>spatiAlytica</strong></a>.</span>
+          <span class="news-content">New preprint: <a href="https://www.biorxiv.org/content/10.64898/2026.04.29.721735v1">spatiAlytica</a>.</span>
         </li>
         <li>
           <strong>[01/2026]</strong>
-          <span class="news-content">New preprint: <a href="https://arxiv.org/abs/2601.08026"><strong>FigEx2</strong></a>.</span>
+          <span class="news-content">New preprint: <a href="https://arxiv.org/abs/2601.08026">FigEx2</a>.</span>
         </li>
         <li>
           <strong>[01/2026]</strong>
-          <span class="news-content">New preprint: <a href="https://arxiv.org/abs/2601.03321"><strong>Aligning Findings with Diagnosis</strong></a>.</span>
+          <span class="news-content">New preprint: <a href="https://arxiv.org/abs/2601.03321">Aligning Findings with Diagnosis</a>.</span>
         </li>
         <li>
           <strong>[12/2025]</strong>
-          <span class="news-content">New preprint: <a href="https://doi.org/10.21203/rs.3.rs-8370059/v1"><strong>A Process-Centric Survey of AI for Scientific Discovery</strong></a>.</span>
+          <span class="news-content">New preprint: <a href="https://doi.org/10.21203/rs.3.rs-8370059/v1">A Process-Centric Survey of AI for Scientific Discovery</a>.</span>
         </li>
         <li>
           <strong>[11/2025]</strong>
-          <span class="news-content">Paper accepted to <strong>EMNLP 2025</strong>: <a href="https://aclanthology.org/2025.findings-emnlp.899/"><strong>FigEx</strong></a>.</span>
+          <span class="news-content">Paper accepted to <strong>EMNLP 2025</strong>: <a href="https://aclanthology.org/2025.findings-emnlp.899/">FigEx</a>.</span>
         </li>
         <li>
           <strong>[06/2024]</strong>
-          <span class="news-content">New preprint: <a href="https://arxiv.org/abs/2406.06562"><strong>Achieving Sparse Activation in Small Language Models</strong></a>.</span>
+          <span class="news-content">New preprint: <a href="https://arxiv.org/abs/2406.06562">Achieving Sparse Activation in Small Language Models</a>.</span>
         </li>
       </ul>
     </div>
