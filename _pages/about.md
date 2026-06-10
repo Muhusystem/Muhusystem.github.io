@@ -71,40 +71,32 @@ title: "About Me"
       <h2>News</h2>
       <ul class="news-list">
         <li>
-          <strong>[06/2026]</strong>
-          <span class="news-content">Paper accepted to CVPR'26 oral poster: <strong>InfiniBench: Infinite Benchmarking for Visual Spatial Reasoning with Customizable Scene Complexity</strong>.</span>
-        </li>
-        <li>
-          <strong>[06/2026]</strong>
-          <span class="news-content">New preprint: <strong>InfiniBench: Infinite Benchmarking for Visual Spatial Reasoning with Customizable Scene Complexity</strong>.</span>
-        </li>
-        <li>
           <strong>[05/2026]</strong>
-          <span class="news-content">Our paper <a href="https://mlsys.org/virtual/2026/oral/3779"><strong>Attribution-based Sparse Activation in Large Language Models</strong></a> is accepted by MLSys 2026.</span>
+          <span class="news-content">Paper accepted to MLSys 2026: <a href="https://mlsys.org/virtual/2026/oral/3779"><strong>Attribution-based Sparse Activation in Large Language Models</strong></a>.</span>
         </li>
         <li>
           <strong>[04/2026]</strong>
-          <span class="news-content">Our paper <a href="https://www.biorxiv.org/content/10.64898/2026.04.29.721735v1"><strong>spatiAlytica</strong></a> is released on bioRxiv.</span>
+          <span class="news-content">New preprint on bioRxiv: <a href="https://www.biorxiv.org/content/10.64898/2026.04.29.721735v1"><strong>spatiAlytica</strong></a>.</span>
         </li>
         <li>
           <strong>[01/2026]</strong>
-          <span class="news-content">Our paper <a href="https://arxiv.org/abs/2601.08026"><strong>FigEx2</strong></a> is released on arXiv.</span>
+          <span class="news-content">New preprint on arXiv: <a href="https://arxiv.org/abs/2601.08026"><strong>FigEx2</strong></a>.</span>
         </li>
         <li>
           <strong>[01/2026]</strong>
-          <span class="news-content">Our paper <a href="https://arxiv.org/abs/2601.03321"><strong>Aligning Findings with Diagnosis</strong></a> is released on arXiv.</span>
+          <span class="news-content">New preprint on arXiv: <a href="https://arxiv.org/abs/2601.03321"><strong>Aligning Findings with Diagnosis</strong></a>.</span>
         </li>
         <li>
           <strong>[12/2025]</strong>
-          <span class="news-content">Our survey paper <a href="https://doi.org/10.21203/rs.3.rs-8370059/v1"><strong>A Process-Centric Survey of AI for Scientific Discovery</strong></a> is released on Research Square.</span>
+          <span class="news-content">New preprint on Research Square: <a href="https://doi.org/10.21203/rs.3.rs-8370059/v1"><strong>A Process-Centric Survey of AI for Scientific Discovery</strong></a>.</span>
         </li>
         <li>
           <strong>[11/2025]</strong>
-          <span class="news-content">Our paper <a href="https://aclanthology.org/2025.findings-emnlp.899/"><strong>FigEx</strong></a> is accepted by EMNLP 2025.</span>
+          <span class="news-content">Paper accepted to EMNLP 2025: <a href="https://aclanthology.org/2025.findings-emnlp.899/"><strong>FigEx</strong></a>.</span>
         </li>
         <li>
           <strong>[06/2024]</strong>
-          <span class="news-content">Our paper <a href="https://arxiv.org/abs/2406.06562"><strong>Achieving Sparse Activation in Small Language Models</strong></a> is released on arXiv.</span>
+          <span class="news-content">New preprint on arXiv: <a href="https://arxiv.org/abs/2406.06562"><strong>Achieving Sparse Activation in Small Language Models</strong></a>.</span>
         </li>
       </ul>
     </div>
