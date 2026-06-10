@@ -71,6 +71,14 @@ title: "About Me"
       <h2>News</h2>
       <ul class="news-list">
         <li>
+          <strong>[06/2026]</strong>
+          <span class="news-content">Paper accepted to CVPR'26 oral poster: <strong>InfiniBench: Infinite Benchmarking for Visual Spatial Reasoning with Customizable Scene Complexity</strong>.</span>
+        </li>
+        <li>
+          <strong>[06/2026]</strong>
+          <span class="news-content">New preprint: <strong>InfiniBench: Infinite Benchmarking for Visual Spatial Reasoning with Customizable Scene Complexity</strong>.</span>
+        </li>
+        <li>
           <strong>[05/2026]</strong>
           <span class="news-content">Our paper <a href="https://mlsys.org/virtual/2026/oral/3779"><strong>Attribution-based Sparse Activation in Large Language Models</strong></a> is accepted by MLSys 2026.</span>
         </li>
