@@ -76,19 +76,19 @@ title: "About Me"
         </li>
         <li>
           <strong>[04/2026]</strong>
-          <span class="news-content">New preprint on bioRxiv: <a href="https://www.biorxiv.org/content/10.64898/2026.04.29.721735v1"><strong>spatiAlytica</strong></a>.</span>
+          <span class="news-content">New preprint: <a href="https://www.biorxiv.org/content/10.64898/2026.04.29.721735v1"><strong>spatiAlytica</strong></a>.</span>
         </li>
         <li>
           <strong>[01/2026]</strong>
-          <span class="news-content">New preprint on arXiv: <a href="https://arxiv.org/abs/2601.08026"><strong>FigEx2</strong></a>.</span>
+          <span class="news-content">New preprint: <a href="https://arxiv.org/abs/2601.08026"><strong>FigEx2</strong></a>.</span>
         </li>
         <li>
           <strong>[01/2026]</strong>
-          <span class="news-content">New preprint on arXiv: <a href="https://arxiv.org/abs/2601.03321"><strong>Aligning Findings with Diagnosis</strong></a>.</span>
+          <span class="news-content">New preprint: <a href="https://arxiv.org/abs/2601.03321"><strong>Aligning Findings with Diagnosis</strong></a>.</span>
         </li>
         <li>
           <strong>[12/2025]</strong>
-          <span class="news-content">New preprint on Research Square: <a href="https://doi.org/10.21203/rs.3.rs-8370059/v1"><strong>A Process-Centric Survey of AI for Scientific Discovery</strong></a>.</span>
+          <span class="news-content">New preprint: <a href="https://doi.org/10.21203/rs.3.rs-8370059/v1"><strong>A Process-Centric Survey of AI for Scientific Discovery</strong></a>.</span>
         </li>
         <li>
           <strong>[11/2025]</strong>
@@ -96,7 +96,7 @@ title: "About Me"
         </li>
         <li>
           <strong>[06/2024]</strong>
-          <span class="news-content">New preprint on arXiv: <a href="https://arxiv.org/abs/2406.06562"><strong>Achieving Sparse Activation in Small Language Models</strong></a>.</span>
+          <span class="news-content">New preprint: <a href="https://arxiv.org/abs/2406.06562"><strong>Achieving Sparse Activation in Small Language Models</strong></a>.</span>
         </li>
       </ul>
     </div>
