@@ -92,7 +92,7 @@ title: "About Me"
         </li>
         <li>
           <strong>[11/2025]</strong>
-          <span class="news-content">Our paper <a href="https://aclanthology.org/2025.findings-emnlp.899/"><strong>FigEx</strong></a> is accepted by EMNLP.</span>
+          <span class="news-content">Our paper <a href="https://aclanthology.org/2025.findings-emnlp.899/"><strong>FigEx</strong></a> is accepted by EMNLP 2025.</span>
         </li>
         <li>
           <strong>[06/2024]</strong>
