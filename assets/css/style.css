@@ -237,7 +237,7 @@ h2 {
 
 .news-content a {
   color: #2980b9;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 .news-content a:hover {
