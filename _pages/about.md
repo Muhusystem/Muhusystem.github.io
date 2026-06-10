@@ -72,7 +72,7 @@ title: "About Me"
       <ul class="news-list">
         <li>
           <strong>[05/2026]</strong>
-          <span class="news-content">Paper accepted to MLSys 2026: <a href="https://mlsys.org/virtual/2026/oral/3779"><strong>Attribution-based Sparse Activation in Large Language Models</strong></a>.</span>
+          <span class="news-content">Paper accepted to <strong>MLSys 2026</strong>: <a href="https://mlsys.org/virtual/2026/oral/3779"><strong>Attribution-based Sparse Activation in Large Language Models</strong></a>.</span>
         </li>
         <li>
           <strong>[04/2026]</strong>
@@ -92,7 +92,7 @@ title: "About Me"
         </li>
         <li>
           <strong>[11/2025]</strong>
-          <span class="news-content">Paper accepted to EMNLP 2025: <a href="https://aclanthology.org/2025.findings-emnlp.899/"><strong>FigEx</strong></a>.</span>
+          <span class="news-content">Paper accepted to <strong>EMNLP 2025</strong>: <a href="https://aclanthology.org/2025.findings-emnlp.899/"><strong>FigEx</strong></a>.</span>
         </li>
         <li>
           <strong>[06/2024]</strong>
