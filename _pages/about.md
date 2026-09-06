@@ -92,7 +92,7 @@ title: "About Me"
           <span class="news-content">New preprint: <a href="https://doi.org/10.21203/rs.3.rs-8370059/v1">A Process-Centric Survey of AI for Scientific Discovery</a>.</span>
         </li>
         <li>
-          <strong>[11/2025]</strong>
+          <strong>[08/2025]</strong>
           <span class="news-content">🎉 Paper accepted to <strong>EMNLP 2025 Findings</strong>: <a href="https://aclanthology.org/2025.findings-emnlp.899/">FigEx: Aligned Extraction of Scientific Figures and Captions</a>.</span>
         </li>
         <li>
