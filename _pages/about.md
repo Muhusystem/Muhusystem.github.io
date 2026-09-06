@@ -80,7 +80,7 @@ title: "About Me"
         </li>
         <li>
           <strong>[08/2026]</strong>
-          <span class="news-content">🎉 Paper accepted to <strong>EMNLP 2026</strong> main: <a href="https://arxiv.org/abs/2601.08026">FigEx2</a>.</span>
+          <span class="news-content">🎉 Paper accepted to <strong>EMNLP 2026 Main</strong>: <a href="https://arxiv.org/abs/2601.08026">FigEx2</a>.</span>
         </li>
         <li>
           <strong>[01/2026]</strong>
@@ -92,7 +92,7 @@ title: "About Me"
         </li>
         <li>
           <strong>[11/2025]</strong>
-          <span class="news-content">🎉 Paper accepted to <strong>Findings of EMNLP 2025</strong>: <a href="https://aclanthology.org/2025.findings-emnlp.899/">FigEx</a>.</span>
+          <span class="news-content">🎉 Paper accepted to <strong>EMNLP 2025 Findings</strong>: <a href="https://aclanthology.org/2025.findings-emnlp.899/">FigEx</a>.</span>
         </li>
         <li>
           <strong>[06/2024]</strong>
