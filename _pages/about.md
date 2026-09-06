@@ -44,7 +44,7 @@ title: "About Me"
         <li>Vision-Language Models</li>
         <li>AI for Biomedicine</li>
         <li>Computational Biology</li>
-        <li>Efficient Large Language Models</li>
+        <li>Efficient Generative AI</li>
       </ul>
     </div>
   </header>
@@ -58,7 +58,7 @@ title: "About Me"
         <a href="https://hillman.upmc.com/">UPMC Hillman Cancer Center</a>, co-advised by 
         <a href="https://www.sci.pitt.edu/people/yufei-huang">Prof. Yufei Huang</a> and 
         <a href="https://sites.pitt.edu/~zhm4/">Prof. Zhi-Hong Mao</a>. 
-        My current research focuses on <strong>Multimodal Learning</strong> and <strong>AI for Biomedicine</strong>, with broader interests in <strong>AI for scientific discovery</strong>, computational biology (single-cell and spatial transcriptomics), explainable AI, and efficient large language models.
+        My current research focuses on <strong>Multimodal Learning</strong> and <strong>AI for Biomedicine</strong>, with broader interests in <strong>AI for scientific discovery</strong>, computational biology (single-cell and spatial transcriptomics), explainable AI, and efficient generative AI.
         I received my B.E. in Electrical Engineering and Automation from 
         <a href="https://www.hust.edu.cn/">Huazhong University of Science and Technology</a>, where I worked on transfer learning for renewable energy forecasting.
       </p>
