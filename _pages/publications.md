@@ -56,6 +56,31 @@ permalink: /publications/
         <table class="pub-table">
           <tr>
             <td class="media-col">
+              <span class="conference-badge top-venue">EMNLP 2026</span>
+              <div class="project-media">
+                <img src="{{ base_path }}/images/figex2.png" alt="FigEx2">
+              </div>
+            </td>
+            <td class="content-col">
+              <div class="pub-title">
+                <a href="https://arxiv.org/abs/2601.08026">FigEx2: Visual-Conditioned Panel Detection and Captioning for Scientific Compound Figures</a>
+              </div>
+              <div class="pub-authors">
+                <strong>Jifeng Song</strong>, Arun Das, Pan Wang, Hui Ji, Kun Zhao, Yufei Huang
+              </div>
+              <div class="pub-venue">Proceedings of the Association for Computational Linguistics: EMNLP 2026 Main</div>
+              <div class="text-links">
+                <a href="https://arxiv.org/abs/2601.08026" class="text-btn">Paper</a>
+              </div>
+            </td>
+          </tr>
+        </table>
+      </div>
+
+      <div class="project-container">
+        <table class="pub-table">
+          <tr>
+            <td class="media-col">
               <span class="conference-badge top-venue">MLSys 2026</span>
               <div class="project-media">
                 <img src="{{ base_path }}/images/sparse-activation.png" alt="Attribution-based Sparse Activation">
@@ -97,31 +122,6 @@ permalink: /publications/
               <div class="pub-venue">bioRxiv preprint 2026</div>
               <div class="text-links">
                 <a href="https://www.biorxiv.org/content/10.64898/2026.04.29.721735v1" class="text-btn">Paper</a>
-              </div>
-            </td>
-          </tr>
-        </table>
-      </div>
-
-      <div class="project-container">
-        <table class="pub-table">
-          <tr>
-            <td class="media-col">
-              <span class="conference-badge top-venue">EMNLP 2026</span>
-              <div class="project-media">
-                <img src="{{ base_path }}/images/figex2.png" alt="FigEx2">
-              </div>
-            </td>
-            <td class="content-col">
-              <div class="pub-title">
-                <a href="https://arxiv.org/abs/2601.08026">FigEx2: Visual-Conditioned Panel Detection and Captioning for Scientific Compound Figures</a>
-              </div>
-              <div class="pub-authors">
-                <strong>Jifeng Song</strong>, Arun Das, Pan Wang, Hui Ji, Kun Zhao, Yufei Huang
-              </div>
-              <div class="pub-venue">Proceedings of the Association for Computational Linguistics: EMNLP 2026 Main</div>
-              <div class="text-links">
-                <a href="https://arxiv.org/abs/2601.08026" class="text-btn">Paper</a>
               </div>
             </td>
           </tr>

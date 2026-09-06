@@ -108,6 +108,31 @@ title: "About Me"
         <table class="pub-table">
           <tr>
             <td class="media-col">
+              <span class="conference-badge top-venue">EMNLP 2026</span>
+              <div class="project-media">
+                <img src="{{ base_path }}/images/figex2.png" alt="FigEx2">
+              </div>
+            </td>
+            <td class="content-col">
+              <div class="pub-title">
+                <a href="https://arxiv.org/abs/2601.08026">FigEx2: Visual-Conditioned Panel Detection and Captioning for Scientific Compound Figures</a>
+              </div>
+              <div class="pub-authors">
+                <strong>Jifeng Song</strong>, Arun Das, Pan Wang, Hui Ji, Kun Zhao, Yufei Huang
+              </div>
+              <div class="pub-venue">Proceedings of the Association for Computational Linguistics: EMNLP 2026 Main</div>
+              <div class="text-links">
+                <a href="https://arxiv.org/abs/2601.08026" class="text-btn">Paper</a>
+              </div>
+            </td>
+          </tr>
+        </table>
+      </div>
+
+      <div class="project-container">
+        <table class="pub-table">
+          <tr>
+            <td class="media-col">
               <span class="conference-badge top-venue">MLSys 2026</span>
               <div class="project-media">
                 <img src="{{ base_path }}/images/sparse-activation.png" alt="Attribution-based Sparse Activation">
@@ -124,58 +149,6 @@ title: "About Me"
               <div class="text-links">
                 <a href="https://mlsys.org/virtual/2026/oral/3779" class="text-btn">Paper</a>
                 <a href="https://github.com/pittisl/Sparse-Activation" class="text-btn">Code</a>
-              </div>
-            </td>
-          </tr>
-        </table>
-      </div>
-
-      <div class="project-container">
-        <table class="pub-table">
-          <tr>
-            <td class="media-col">
-              <span class="conference-badge top-venue">EMNLP 2025</span>
-              <div class="project-media">
-                <img src="{{ base_path }}/images/figex.png" alt="FigEx">
-              </div>
-            </td>
-            <td class="content-col">
-              <div class="pub-title">
-                <a href="https://aclanthology.org/2025.findings-emnlp.899/">FigEx: Aligned Extraction of Scientific Figures and Captions</a>
-              </div>
-              <div class="pub-authors">
-                <strong>Jifeng Song</strong>, Arun Das, Ge Cui, Yufei Huang
-              </div>
-              <div class="pub-venue">Findings of the Association for Computational Linguistics: EMNLP 2025</div>
-              <div class="text-links">
-                <a href="https://aclanthology.org/2025.findings-emnlp.899/" class="text-btn">Paper</a>
-                <a href="https://github.com/Huang-AI4Medicine-Lab/FigEx" class="text-btn">Code</a>
-                <a href="https://huggingface.co/datasets/Huang-AI4Medicine-Lab/BioSci-Fig" class="text-btn">Dataset</a>
-              </div>
-            </td>
-          </tr>
-        </table>
-      </div>
-
-      <div class="project-container">
-        <table class="pub-table">
-          <tr>
-            <td class="media-col">
-              <span class="conference-badge top-venue">EMNLP 2026</span>
-              <div class="project-media">
-                <img src="{{ base_path }}/images/figex2.png" alt="FigEx2">
-              </div>
-            </td>
-            <td class="content-col">
-              <div class="pub-title">
-                <a href="https://arxiv.org/abs/2601.08026">FigEx2: Visual-Conditioned Panel Detection and Captioning for Scientific Compound Figures</a>
-              </div>
-              <div class="pub-authors">
-                <strong>Jifeng Song</strong>, Arun Das, Pan Wang, Hui Ji, Kun Zhao, Yufei Huang
-              </div>
-              <div class="pub-venue">Proceedings of the Association for Computational Linguistics: EMNLP 2026 Main</div>
-              <div class="text-links">
-                <a href="https://arxiv.org/abs/2601.08026" class="text-btn">Paper</a>
               </div>
             </td>
           </tr>
@@ -226,6 +199,33 @@ title: "About Me"
               <div class="pub-venue">arXiv preprint 2026</div>
               <div class="text-links">
                 <a href="https://arxiv.org/abs/2601.03321" class="text-btn">Paper</a>
+              </div>
+            </td>
+          </tr>
+        </table>
+      </div>
+
+      <div class="project-container">
+        <table class="pub-table">
+          <tr>
+            <td class="media-col">
+              <span class="conference-badge top-venue">EMNLP 2025</span>
+              <div class="project-media">
+                <img src="{{ base_path }}/images/figex.png" alt="FigEx">
+              </div>
+            </td>
+            <td class="content-col">
+              <div class="pub-title">
+                <a href="https://aclanthology.org/2025.findings-emnlp.899/">FigEx: Aligned Extraction of Scientific Figures and Captions</a>
+              </div>
+              <div class="pub-authors">
+                <strong>Jifeng Song</strong>, Arun Das, Ge Cui, Yufei Huang
+              </div>
+              <div class="pub-venue">Findings of the Association for Computational Linguistics: EMNLP 2025</div>
+              <div class="text-links">
+                <a href="https://aclanthology.org/2025.findings-emnlp.899/" class="text-btn">Paper</a>
+                <a href="https://github.com/Huang-AI4Medicine-Lab/FigEx" class="text-btn">Code</a>
+                <a href="https://huggingface.co/datasets/Huang-AI4Medicine-Lab/BioSci-Fig" class="text-btn">Dataset</a>
               </div>
             </td>
           </tr>
