@@ -44,6 +44,7 @@ permalink: /publications/
         <li>Vision-Language Models</li>
         <li>AI for Biomedicine</li>
         <li>Computational Biology</li>
+        <li>Efficient Large Language Models</li>
       </ul>
     </div>
   </header>
