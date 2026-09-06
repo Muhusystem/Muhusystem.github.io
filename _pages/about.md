@@ -71,16 +71,16 @@ title: "About Me"
       <h2>News</h2>
       <ul class="news-list">
         <li>
+          <strong>[08/2026]</strong>
+          <span class="news-content">🎉 Paper accepted to <strong>EMNLP 2026 Main</strong>: <a href="https://arxiv.org/abs/2601.08026">FigEx2</a>.</span>
+        </li>
+        <li>
           <strong>[05/2026]</strong>
           <span class="news-content">🎉 Paper accepted to <strong>MLSys 2026</strong>: <a href="https://proceedings.mlsys.org/paper_files/paper/2026/hash/29591f355702c3f4436991335784b503-Abstract-Conference.html">Attribution-based Sparse Activation in Large Language Models</a>.</span>
         </li>
         <li>
           <strong>[04/2026]</strong>
           <span class="news-content">New preprint: <a href="https://www.biorxiv.org/content/10.64898/2026.04.29.721735v1">spatiAlytica</a>.</span>
-        </li>
-        <li>
-          <strong>[08/2026]</strong>
-          <span class="news-content">🎉 Paper accepted to <strong>EMNLP 2026 Main</strong>: <a href="https://arxiv.org/abs/2601.08026">FigEx2</a>.</span>
         </li>
         <li>
           <strong>[01/2026]</strong>
