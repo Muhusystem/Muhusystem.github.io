@@ -161,7 +161,7 @@ title: "About Me"
         <table class="pub-table">
           <tr>
             <td class="media-col">
-              <span class="conference-badge">arXiv</span>
+              <span class="conference-badge top-venue">EMNLP 2026</span>
               <div class="project-media">
                 <img src="{{ base_path }}/images/figex2.png" alt="FigEx2">
               </div>
@@ -173,7 +173,7 @@ title: "About Me"
               <div class="pub-authors">
                 <strong>Jifeng Song</strong>, Arun Das, Pan Wang, Hui Ji, Kun Zhao, Yufei Huang
               </div>
-              <div class="pub-venue">arXiv preprint 2026</div>
+              <div class="pub-venue">Proceedings of the Association for Computational Linguistics: EMNLP 2026 Main</div>
               <div class="text-links">
                 <a href="https://arxiv.org/abs/2601.08026" class="text-btn">Paper</a>
               </div>
