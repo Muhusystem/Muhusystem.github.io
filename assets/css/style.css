@@ -1,8 +1,8 @@
 /* Yifan Liu Style - Complete CSS - Clean Version */
 
 :root {
-  --link-blue: #365c7d;
-  --link-blue-hover: #214864;
+  --link-blue: #124e86;
+  --link-blue-hover: #0d3c69;
 }
 
 /* Reset everything first */
@@ -16,8 +16,8 @@ body {
   background-color: #fff;
   padding: 0px;
   font: 16px/1.6 'Noto Sans SC', sans-serif;
-  color: #454545;
-  font-weight: 400;
+  color: #363636;
+  font-weight: 600;
   margin: 0;
 }
 
@@ -64,7 +64,7 @@ header {
 }
 
 h1 {
-  font-weight: 500;
+  font-weight: 600;
   color: #2c3e50;
   margin: 0 0 15px;
   font-size: 22px;
@@ -73,7 +73,7 @@ h1 {
 .position {
   font-size: 0.85rem;
   color: #2c3e50;
-  font-weight: 400;
+  font-weight: 600;
   margin-bottom: 4px;
 }
 
@@ -175,7 +175,7 @@ section {
 /* Section headers */
 h2 {
   color: #2c3e50;
-  font-weight: 500;
+  font-weight: 600;
   margin: 20px 0px 20px;
   font-size: 20px;
   border-bottom: 1px solid #e5e5e5;
@@ -192,10 +192,10 @@ h2 {
 }
 
 .about-section p {
-  text-align: left;
+  text-align: justify;
   margin-bottom: 18px;
   font-size: 16px;
-  line-height: 1.65;
+  line-height: 1.7;
 }
 
 .about-section a {
@@ -220,26 +220,26 @@ h2 {
 }
 
 .news-list li {
-  margin-bottom: 14px;
-  padding: 0;
+  margin-bottom: 12px;
+  padding: 8px 0;
   font-size: 15px;
   line-height: 1.6;
   display: flex;
   align-items: flex-start;
-  gap: 16px;
+  gap: 12px;
 }
 
 .news-list li > strong {
-  color: #62666d;
-  font-weight: 400;
-  min-width: 88px;
+  color: #2c3e50;
+  font-weight: 600;
+  min-width: 110px;
   flex-shrink: 0;
 }
 
 .news-content {
   flex: 1;
   min-width: 0;
-  color: #454545;
+  color: #2c3e50;
 }
 
 .news-content a {
@@ -265,7 +265,7 @@ h2 {
 .publications-section p {
   margin-bottom: 25px;
   font-size: 14px;
-  color: #454545;
+  color: #363636;
 }
 
 .publications-section a {
@@ -281,7 +281,7 @@ h2 {
 /* Project containers - NO BORDERS */
 .project-container {
   width: 100%;
-  margin-bottom: 30px;
+  margin-bottom: 8px;
   overflow: visible;
   border: none !important;
   padding: 0 !important;
@@ -291,7 +291,7 @@ h2 {
   width: 100%;
   border-collapse: separate;
   border-spacing: 0;
-  margin-bottom: 0;
+  margin-bottom: 15px;
   overflow: visible;
   border: none !important;
 }
@@ -361,28 +361,29 @@ h2 {
   transform-origin: top left;
 }
 
-/* Keep venue labels aligned with their figures without adding colored panels. */
+/* Conference badge: block above the figure, same width as the image, text centered */
 .media-col .conference-badge {
   display: block;
   width: 100%;
   box-sizing: border-box;
-  text-align: left;
-  background-color: transparent !important;
-  color: #62666d !important;
-  padding: 0 !important;
-  border-radius: 0 !important;
+  text-align: center;
+  background-color: #F0F0F0 !important;
+  color: #5A5A5A !important;
+  padding: 6px 12px !important;
+  border-radius: 5px !important;
   font-size: 14px !important;
-  font-weight: 600 !important;
-  box-shadow: none !important;
-  line-height: 1.5 !important;
+  font-weight: bold !important;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2) !important;
+  line-height: 1.2 !important;
   font-family: inherit !important;
-  margin: 0 0 8px 0;
+  margin: 0 0 12px 0;
   border: none !important;
 }
 
-/* Accepted venues retain a restrained green accent. */
+/* Accepted / published (MLSys, EMNLP, journals, IEEE/IAS): light green badge, deep ink-green text */
 .media-col .conference-badge.top-venue {
-  color: #315a42 !important;
+  background-color: #cfe2d4 !important;
+  color: #12331f !important;
 }
 
 /* Publication text elements */
@@ -396,15 +397,15 @@ h2 {
 
 .pub-title {
   margin-top: 0 !important;
-  margin-bottom: 6px !important;
+  margin-bottom: 8px !important;
   font-size: 16px;
-  font-weight: 600;
+  font-weight: 700;
   line-height: 1.45;
   transition: color 0.3s ease;
 }
 
 .pub-title a {
-  color: #30343b;
+  color: var(--link-blue);
   text-decoration: none;
 }
 
@@ -414,21 +415,23 @@ h2 {
 }
 
 .pub-authors {
-  margin-bottom: 4px !important;
-  color: #62666d;
+  font-weight: 600;
+  margin-bottom: 8px !important;
+  color: #363636;
   font-size: 14px;
   line-height: 1.5;
 }
 
 .pub-authors strong {
   color: #2c3e50;
-  font-weight: 600;
+  font-weight: 700;
 }
 
 .pub-venue {
-  margin-bottom: 6px !important;
-  font-style: normal;
-  color: #62666d;
+  font-weight: 600;
+  margin-bottom: 8px !important;
+  font-style: italic;
+  color: #2c3e50;
   font-size: 14px;
   line-height: 1.5;
 }
@@ -443,8 +446,8 @@ h2 {
 /* Button styles */
 .text-links {
   display: flex;
-  gap: 16px;
-  margin: 0 !important;
+  gap: 12px;
+  margin: 0 0 8px 0 !important;
   padding: 0 !important;
   flex-wrap: wrap;
 }
@@ -452,19 +455,18 @@ h2 {
 .text-btn {
   background-color: transparent;
   color: var(--link-blue);
-  padding: 2px 0;
-  border: none;
-  border-radius: 0;
+  padding: 4px 10px;
+  border: 1px solid var(--link-blue);
+  border-radius: 3px;
   text-decoration: none;
-  font-size: 13px;
-  font-weight: 500;
-  transition: color 0.15s ease;
+  font-size: 12px;
+  font-weight: 600;
+  transition: all 0.3s ease;
 }
 
 .text-links .text-btn:hover {
-  background-color: transparent;
-  color: var(--link-blue-hover);
-  text-decoration: underline;
+  background-color: var(--link-blue);
+  color: white;
 }
 
 /* Navigation bar */
@@ -504,7 +506,7 @@ h2 {
   padding: 5px 10px;
   border-radius: 20px;
   transition: all 0.3s ease;
-  font-weight: 400;
+  font-weight: 600;
   font-size: 16px;
   letter-spacing: 0;
   position: relative;
