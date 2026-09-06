@@ -1,5 +1,22 @@
 /* Yifan Liu Style - Complete CSS - Clean Version */
 
+/* Inter 4.1: self-hosted variable fonts, licensed in assets/fonts/Inter-LICENSE.txt. */
+@font-face {
+  font-family: 'InterVariable';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url('../fonts/InterVariable.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'InterVariable';
+  font-style: italic;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url('../fonts/InterVariable-Italic.woff2') format('woff2');
+}
+
 :root {
   --link-blue: #124e86;
   --link-blue-hover: #0d3c69;
@@ -15,10 +32,15 @@
 body {
   background-color: #fff;
   padding: 0px;
-  font: 16px/1.6 'Noto Sans SC', sans-serif;
+  font: 16px/1.6 'InterVariable', Arial, sans-serif;
+  font-optical-sizing: auto;
   color: #363636;
-  font-weight: 600;
+  font-weight: 450;
   margin: 0;
+}
+
+strong, b {
+  font-weight: 750;
 }
 
 /* Wrapper */
@@ -64,7 +86,8 @@ header {
 }
 
 h1 {
-  font-weight: 600;
+  font-family: inherit;
+  font-weight: 550;
   color: #2c3e50;
   margin: 0 0 15px;
   font-size: 22px;
@@ -73,7 +96,7 @@ h1 {
 .position {
   font-size: 0.85rem;
   color: #2c3e50;
-  font-weight: 600;
+  font-weight: 450;
   margin-bottom: 4px;
 }
 
@@ -91,7 +114,7 @@ h1 {
 
 email {
   font-size: 13px;
-  font-family: "Ubuntu Mono", monospace;
+  font-family: inherit;
   color: #2c3e50;
   display: block;
   margin-bottom: 1em;
@@ -139,7 +162,7 @@ email {
 
 .research-interests p {
   margin-bottom: 8px;
-  font-weight: 600;
+  font-weight: 650;
   color: #2c3e50;
 }
 
@@ -174,8 +197,9 @@ section {
 
 /* Section headers */
 h2 {
+  font-family: inherit;
   color: #2c3e50;
-  font-weight: 600;
+  font-weight: 550;
   margin: 20px 0px 20px;
   font-size: 20px;
   border-bottom: 1px solid #e5e5e5;
@@ -231,7 +255,7 @@ h2 {
 
 .news-list li > strong {
   color: #2c3e50;
-  font-weight: 600;
+  font-weight: 650;
   min-width: 110px;
   flex-shrink: 0;
 }
@@ -288,6 +312,7 @@ h2 {
 }
 
 .pub-table {
+  font-family: inherit;
   width: 100%;
   border-collapse: separate;
   border-spacing: 0;
@@ -372,7 +397,7 @@ h2 {
   padding: 6px 12px !important;
   border-radius: 5px !important;
   font-size: 14px !important;
-  font-weight: bold !important;
+  font-weight: 750 !important;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2) !important;
   line-height: 1.2 !important;
   font-family: inherit !important;
@@ -399,7 +424,7 @@ h2 {
   margin-top: 0 !important;
   margin-bottom: 8px !important;
   font-size: 16px;
-  font-weight: 700;
+  font-weight: 650;
   line-height: 1.45;
   transition: color 0.3s ease;
 }
@@ -415,7 +440,7 @@ h2 {
 }
 
 .pub-authors {
-  font-weight: 600;
+  font-weight: 450;
   margin-bottom: 8px !important;
   color: #363636;
   font-size: 14px;
@@ -424,11 +449,11 @@ h2 {
 
 .pub-authors strong {
   color: #2c3e50;
-  font-weight: 700;
+  font-weight: 650;
 }
 
 .pub-venue {
-  font-weight: 600;
+  font-weight: 450;
   margin-bottom: 8px !important;
   font-style: italic;
   color: #2c3e50;
@@ -460,7 +485,7 @@ h2 {
   border-radius: 3px;
   text-decoration: none;
   font-size: 12px;
-  font-weight: 600;
+  font-weight: 550;
   transition: all 0.3s ease;
 }
 
@@ -506,7 +531,7 @@ h2 {
   padding: 5px 10px;
   border-radius: 20px;
   transition: all 0.3s ease;
-  font-weight: 600;
+  font-weight: 450;
   font-size: 16px;
   letter-spacing: 0;
   position: relative;
