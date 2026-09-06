@@ -5,6 +5,7 @@ type: "Poster"
 permalink: /talks/2025-11-figex-emnlp-poster
 venue: "EMNLP 2025"
 location: "Suzhou, China"
+poster_url: /talks/figex-emnlp-poster/
 ---
 
 <iframe
@@ -13,6 +14,5 @@ location: "Suzhou, China"
   height="900px"
   style="border:none;">
 </iframe>
-
 
 
