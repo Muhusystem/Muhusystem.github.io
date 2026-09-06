@@ -72,7 +72,7 @@ title: "About Me"
       <ul class="news-list">
         <li>
           <strong>[08/2026]</strong>
-          <span class="news-content">🎉 Paper accepted to <strong>EMNLP 2026 Main</strong>: <a href="https://arxiv.org/abs/2601.08026">FigEx2</a>.</span>
+          <span class="news-content">🎉 Paper accepted to <strong>EMNLP 2026 Main</strong>: <a href="https://arxiv.org/abs/2601.08026">FigEx2: Visual-Conditioned Panel Detection and Captioning for Scientific Compound Figures</a>.</span>
         </li>
         <li>
           <strong>[05/2026]</strong>
@@ -92,7 +92,7 @@ title: "About Me"
         </li>
         <li>
           <strong>[11/2025]</strong>
-          <span class="news-content">🎉 Paper accepted to <strong>EMNLP 2025 Findings</strong>: <a href="https://aclanthology.org/2025.findings-emnlp.899/">FigEx</a>.</span>
+          <span class="news-content">🎉 Paper accepted to <strong>EMNLP 2025 Findings</strong>: <a href="https://aclanthology.org/2025.findings-emnlp.899/">FigEx: Aligned Extraction of Scientific Figures and Captions</a>.</span>
         </li>
         <li>
           <strong>[06/2024]</strong>
@@ -120,7 +120,7 @@ title: "About Me"
               <div class="pub-authors">
                 <strong>Jifeng Song</strong>, Arun Das, Pan Wang, Hui Ji, Kun Zhao, Yufei Huang
               </div>
-              <div class="pub-venue">In Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing, 2026</div>
+              <div class="pub-venue">Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing, 2026</div>
               <div class="text-links">
                 <a href="https://arxiv.org/abs/2601.08026" class="text-btn">Paper</a>
               </div>
@@ -140,14 +140,14 @@ title: "About Me"
             </td>
             <td class="content-col">
               <div class="pub-title">
-                <a href="https://mlsys.org/virtual/2026/oral/3779">Attribution-based Sparse Activation in Large Language Models</a>
+                <a href="https://proceedings.mlsys.org/paper_files/paper/2026/hash/29591f355702c3f4436991335784b503-Abstract-Conference.html">Attribution-based Sparse Activation in Large Language Models</a>
               </div>
               <div class="pub-authors">
                 <strong>Jifeng Song</strong><sup>&dagger;</sup>, Xiangyu Yin<sup>&dagger;</sup>, Boyuan Yang, Kai Huang, Weichen Liu, Wei Gao (<sup>&dagger;</sup>Equal contribution)
               </div>
               <div class="pub-venue">Proceedings of Machine Learning and Systems (MLSys) 2026</div>
               <div class="text-links">
-                <a href="https://mlsys.org/virtual/2026/oral/3779" class="text-btn">Paper</a>
+                <a href="https://proceedings.mlsys.org/paper_files/paper/2026/hash/29591f355702c3f4436991335784b503-Abstract-Conference.html" class="text-btn">Paper</a>
                 <a href="https://github.com/pittisl/Sparse-Activation" class="text-btn">Code</a>
               </div>
             </td>

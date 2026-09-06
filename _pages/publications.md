@@ -68,7 +68,7 @@ permalink: /publications/
               <div class="pub-authors">
                 <strong>Jifeng Song</strong>, Arun Das, Pan Wang, Hui Ji, Kun Zhao, Yufei Huang
               </div>
-              <div class="pub-venue">In Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing, 2026</div>
+              <div class="pub-venue">Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing, 2026</div>
               <div class="text-links">
                 <a href="https://arxiv.org/abs/2601.08026" class="text-btn">Paper</a>
               </div>
@@ -88,14 +88,14 @@ permalink: /publications/
             </td>
             <td class="content-col">
               <div class="pub-title">
-                <a href="https://mlsys.org/virtual/2026/oral/3779">Attribution-based Sparse Activation in Large Language Models</a>
+                <a href="https://proceedings.mlsys.org/paper_files/paper/2026/hash/29591f355702c3f4436991335784b503-Abstract-Conference.html">Attribution-based Sparse Activation in Large Language Models</a>
               </div>
               <div class="pub-authors">
                 <strong>Jifeng Song</strong><sup>&dagger;</sup>, Xiangyu Yin<sup>&dagger;</sup>, Boyuan Yang, Kai Huang, Weichen Liu, Wei Gao (<sup>&dagger;</sup>Equal contribution)
               </div>
               <div class="pub-venue">Proceedings of Machine Learning and Systems (MLSys) 2026</div>
               <div class="text-links">
-                <a href="https://mlsys.org/virtual/2026/oral/3779" class="text-btn">Paper</a>
+                <a href="https://proceedings.mlsys.org/paper_files/paper/2026/hash/29591f355702c3f4436991335784b503-Abstract-Conference.html" class="text-btn">Paper</a>
                 <a href="https://github.com/pittisl/Sparse-Activation" class="text-btn">Code</a>
               </div>
             </td>
