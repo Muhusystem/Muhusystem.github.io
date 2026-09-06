@@ -79,7 +79,7 @@ title: "About Me"
           <span class="news-content">New preprint: <a href="https://www.biorxiv.org/content/10.64898/2026.04.29.721735v1">spatiAlytica</a>.</span>
         </li>
         <li>
-          <strong>[01/2026]</strong>
+          <strong>[08/2026]</strong>
           <span class="news-content">🎉 Paper accepted to <strong>EMNLP 2026</strong> main: <a href="https://arxiv.org/abs/2601.08026">FigEx2</a>.</span>
         </li>
         <li>
