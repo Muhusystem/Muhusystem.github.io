@@ -450,6 +450,9 @@ h2 {
 .pub-authors strong {
   color: #2c3e50;
   font-weight: 650;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  text-decoration-thickness: 1px;
 }
 
 .pub-venue {
