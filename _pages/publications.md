@@ -69,7 +69,7 @@ permalink: /publications/
               <div class="pub-authors">
                 <strong>Jifeng Song</strong>, Arun Das, Pan Wang, Hui Ji, Kun Zhao, Yufei Huang
               </div>
-              <div class="pub-venue">Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing, 2026</div>
+              <div class="pub-venue">Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing</div>
               <div class="text-links">
                 <a href="https://arxiv.org/abs/2601.08026" class="text-btn">Paper</a>
                 <a href="https://github.com/Huang-AI4Medicine-Lab/FigEx2" class="text-btn">Code</a>
