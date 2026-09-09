@@ -63,8 +63,8 @@ title: "About Me"
         <a href="https://www.hust.edu.cn/">Huazhong University of Science and Technology</a>, where I worked on transfer learning for renewable energy forecasting.
       </p>
       <p>
-        Here is my <a href="{{ base_path }}/files/CV_JifengSong.pdf">CV</a>. My current work focuses on <strong>vision-language models for biomedical applications</strong>. 
-        I am training biomedical multimodal large models for cancer research, particularly in spatial transcriptomics and single-cell, including multimodal retrieval, image captioning, question answering, and hypothesis generation.
+        Here is my <a href="{{ base_path }}/files/CV_JifengSong.pdf">CV</a>. My current research focuses on <strong>post-training and efficient inference for multimodal large models</strong>, with applications in cancer research and scientific discovery.
+        I am particularly interested in biomedical multimodal models for scientific document understanding and knowledge discovery.
       </p>
     </div>
 
