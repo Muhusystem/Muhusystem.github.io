@@ -66,7 +66,7 @@ title: "About Me"
         I am particularly interested in scientific document understanding and multimodal knowledge discovery.
       </p>
       <p class="opportunity-line">
-        <strong>I am actively seeking internship opportunities for 2027.</strong> Here is my <strong><a href="{{ base_path }}/files/CV_JifengSong.pdf">CV</a></strong>.
+        <strong>I am actively seeking internship opportunities for 2027.</strong> You can find my CV <a href="{{ base_path }}/files/CV_JifengSong.pdf">here</a>.
       </p>
     </div>
 
