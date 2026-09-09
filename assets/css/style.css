@@ -398,7 +398,7 @@ h2 {
   box-sizing: border-box;
   text-align: center;
   background-color: #FFFFFF !important;
-  color: var(--venue-accent) !important;
+  color: var(--venue-text, var(--venue-accent)) !important;
   padding: 6px 12px 6px 9px !important;
   border-radius: 8px !important;
   font-size: 14px !important;
@@ -411,33 +411,35 @@ h2 {
   border-left: 4px solid var(--venue-accent) !important;
 }
 
-/* Muted venue accents identify each source while keeping the badge itself clean and white. */
+/* Distinct venue accents identify published work; preprints intentionally stay quiet and gray. */
 .media-col .conference-badge.venue-emnlp {
-  --venue-accent: #6B5A83;
+  --venue-accent: #7B4FA3;
 }
 
 .media-col .conference-badge.venue-mlsys {
-  --venue-accent: #4C7088;
+  --venue-accent: #1F6FA5;
 }
 
 .media-col .conference-badge.venue-biorxiv {
-  --venue-accent: #6B7280;
+  --venue-accent: #C6CBD2;
+  --venue-text: #6B7280;
 }
 
 .media-col .conference-badge.venue-arxiv {
-  --venue-accent: #6B7280;
+  --venue-accent: #DDE0E4;
+  --venue-text: #6B7280;
 }
 
 .media-col .conference-badge.venue-research-square {
-  --venue-accent: #47756C;
+  --venue-accent: #23806F;
 }
 
 .media-col .conference-badge.venue-wind-energy {
-  --venue-accent: #5F7755;
+  --venue-accent: #638A35;
 }
 
 .media-col .conference-badge.venue-ieee {
-  --venue-accent: #536B80;
+  --venue-accent: #3F5F9C;
 }
 
 /* Publication text elements */
