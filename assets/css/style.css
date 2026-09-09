@@ -413,25 +413,26 @@ h2 {
 
 /* Distinct venue accents identify published work; preprints intentionally stay quiet and gray. */
 .media-col .conference-badge.venue-emnlp {
-  --venue-accent: #7B4FA3;
+  --venue-accent: #D97706;
 }
 
 .media-col .conference-badge.venue-mlsys {
-  --venue-accent: #1F6FA5;
+  --venue-accent: #2878B5;
 }
 
 .media-col .conference-badge.venue-biorxiv {
-  --venue-accent: #C6CBD2;
+  --venue-accent: #D5D9DE;
   --venue-text: #6B7280;
 }
 
 .media-col .conference-badge.venue-arxiv {
-  --venue-accent: #DDE0E4;
+  --venue-accent: #D5D9DE;
   --venue-text: #6B7280;
 }
 
 .media-col .conference-badge.venue-research-square {
-  --venue-accent: #23806F;
+  --venue-accent: #D5D9DE;
+  --venue-text: #6B7280;
 }
 
 .media-col .conference-badge.venue-wind-energy {
