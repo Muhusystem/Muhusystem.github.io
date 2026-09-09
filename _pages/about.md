@@ -58,16 +58,15 @@ title: "About Me"
         <a href="https://hillman.upmc.com/">UPMC Hillman Cancer Center</a>, co-advised by 
         <a href="https://www.sci.pitt.edu/people/yufei-huang">Prof. Yufei Huang</a> and 
         <a href="https://sites.pitt.edu/~zhm4/">Prof. Zhi-Hong Mao</a>. 
-        My current research focuses on <strong>Multimodal Learning</strong> and <strong>AI for Biomedicine</strong>, with broader interests in <strong>AI for scientific discovery</strong>, computational biology (single-cell and spatial transcriptomics), explainable AI, and efficient generative AI.
         I received my B.E. in Electrical Engineering and Automation from 
         <a href="https://www.hust.edu.cn/">Huazhong University of Science and Technology</a>.
       </p>
       <p>
         My current research focuses on <strong>post-training and efficient inference for multimodal large language models (MLLMs)</strong>, with applications in scientific discovery and cancer research.
-        I am particularly interested in multimodal models for scientific document understanding and knowledge discovery.
+        I am particularly interested in scientific document understanding and multimodal knowledge discovery.
       </p>
       <p class="opportunity-line">
-        <strong>I am actively seeking research internship opportunities for 2027.</strong> Here is my <a href="{{ base_path }}/files/CV_JifengSong.pdf">CV</a>.
+        <strong>I am actively seeking internship opportunities for 2027.</strong> Here is my <a href="{{ base_path }}/files/CV_JifengSong.pdf">CV</a>.
       </p>
     </div>
 
