@@ -388,57 +388,52 @@ h2 {
 
 /* Conference badge: block above the figure, same width as the image, text centered */
 .media-col .conference-badge {
+  --venue-accent: #6B7280;
   display: block;
   width: 100%;
   box-sizing: border-box;
   text-align: center;
-  background-color: #F0F0F0 !important;
-  color: #5A5A5A !important;
-  padding: 6px 12px !important;
-  border-radius: 5px !important;
+  background-color: #FFFFFF !important;
+  color: var(--venue-accent) !important;
+  padding: 6px 12px 6px 9px !important;
+  border-radius: 8px !important;
   font-size: 14px !important;
   font-weight: 750 !important;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2) !important;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08) !important;
   line-height: 1.2 !important;
   font-family: inherit !important;
   margin: 0 0 12px 0;
-  border: none !important;
+  border: 1px solid #D9DEE5 !important;
+  border-left: 4px solid var(--venue-accent) !important;
 }
 
-/* Low-saturation venue colors keep the list scannable without overpowering the paper titles. */
+/* Muted venue accents identify each source while keeping the badge itself clean and white. */
 .media-col .conference-badge.venue-emnlp {
-  background-color: #E8E2F0 !important;
-  color: #4D3F65 !important;
+  --venue-accent: #6B5A83;
 }
 
 .media-col .conference-badge.venue-mlsys {
-  background-color: #DEEAF2 !important;
-  color: #365468 !important;
+  --venue-accent: #4C7088;
 }
 
 .media-col .conference-badge.venue-biorxiv {
-  background-color: #F1E1E4 !important;
-  color: #6B3E47 !important;
+  --venue-accent: #8A5862;
 }
 
 .media-col .conference-badge.venue-arxiv {
-  background-color: #F4E4E1 !important;
-  color: #764840 !important;
+  --venue-accent: #8A5A52;
 }
 
 .media-col .conference-badge.venue-research-square {
-  background-color: #DDECE8 !important;
-  color: #315C55 !important;
+  --venue-accent: #47756C;
 }
 
 .media-col .conference-badge.venue-wind-energy {
-  background-color: #E5EDDF !important;
-  color: #46603D !important;
+  --venue-accent: #5F7755;
 }
 
 .media-col .conference-badge.venue-ieee {
-  background-color: #DEE5EC !important;
-  color: #3F5365 !important;
+  --venue-accent: #536B80;
 }
 
 /* Publication text elements */
