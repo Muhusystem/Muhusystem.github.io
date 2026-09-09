@@ -328,7 +328,7 @@ h2 {
 }
 
 .pub-table .media-col {
-  width: 26%;
+  width: 30%;
   padding-right: 30px;
   padding-top: 0;
   padding-bottom: 0;
@@ -340,7 +340,7 @@ h2 {
 }
 
 .pub-table .content-col {
-  width: 74%;
+  width: 70%;
   vertical-align: top;
   padding-top: 0;
   padding-bottom: 0;
@@ -417,11 +417,11 @@ h2 {
 }
 
 .media-col .conference-badge.venue-biorxiv {
-  --venue-accent: #8A5862;
+  --venue-accent: #6B7280;
 }
 
 .media-col .conference-badge.venue-arxiv {
-  --venue-accent: #8A5A52;
+  --venue-accent: #6B7280;
 }
 
 .media-col .conference-badge.venue-research-square {
