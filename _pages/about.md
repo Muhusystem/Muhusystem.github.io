@@ -53,7 +53,7 @@ title: "About Me"
     <div class="about-section" id="about">
       <h2>About Me</h2>
       <p>
-        Hi, I am Jifeng Song, a third-year Ph.D. student in Electrical and Computer Engineering at the 
+        Hi, I am Jifeng Song, a fourth-year Ph.D. student in Electrical and Computer Engineering at the
         <a href="https://www.pitt.edu/">University of Pittsburgh</a> and also a research assistant in the Cancer Virology Program at 
         <a href="https://hillman.upmc.com/">UPMC Hillman Cancer Center</a>, co-advised by 
         <a href="https://www.sci.pitt.edu/people/yufei-huang">Prof. Yufei Huang</a> and 
