@@ -328,7 +328,7 @@ h2 {
 }
 
 .pub-table .media-col {
-  width: 30%;
+  width: 26%;
   padding-right: 30px;
   padding-top: 0;
   padding-bottom: 0;
@@ -340,7 +340,7 @@ h2 {
 }
 
 .pub-table .content-col {
-  width: 70%;
+  width: 74%;
   vertical-align: top;
   padding-top: 0;
   padding-bottom: 0;
@@ -405,10 +405,40 @@ h2 {
   border: none !important;
 }
 
-/* Accepted / published (MLSys, EMNLP, journals, IEEE/IAS): light amber badge, dark text */
-.media-col .conference-badge.top-venue {
-  background-color: #F6E3BC !important;
-  color: #624515 !important;
+/* Low-saturation venue colors keep the list scannable without overpowering the paper titles. */
+.media-col .conference-badge.venue-emnlp {
+  background-color: #E8E2F0 !important;
+  color: #4D3F65 !important;
+}
+
+.media-col .conference-badge.venue-mlsys {
+  background-color: #DEEAF2 !important;
+  color: #365468 !important;
+}
+
+.media-col .conference-badge.venue-biorxiv {
+  background-color: #F1E1E4 !important;
+  color: #6B3E47 !important;
+}
+
+.media-col .conference-badge.venue-arxiv {
+  background-color: #F4E4E1 !important;
+  color: #764840 !important;
+}
+
+.media-col .conference-badge.venue-research-square {
+  background-color: #DDECE8 !important;
+  color: #315C55 !important;
+}
+
+.media-col .conference-badge.venue-wind-energy {
+  background-color: #E5EDDF !important;
+  color: #46603D !important;
+}
+
+.media-col .conference-badge.venue-ieee {
+  background-color: #DEE5EC !important;
+  color: #3F5365 !important;
 }
 
 /* Publication text elements */

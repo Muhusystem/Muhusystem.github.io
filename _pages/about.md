@@ -109,7 +109,7 @@ title: "About Me"
         <table class="pub-table">
           <tr>
             <td class="media-col">
-              <span class="conference-badge top-venue">EMNLP 2026</span>
+              <span class="conference-badge venue-emnlp">EMNLP 2026</span>
               <div class="project-media">
                 <img src="{{ base_path }}/images/figex2.png" alt="FigEx2">
               </div>
@@ -135,7 +135,7 @@ title: "About Me"
         <table class="pub-table">
           <tr>
             <td class="media-col">
-              <span class="conference-badge top-venue">MLSys 2026</span>
+              <span class="conference-badge venue-mlsys">MLSys 2026</span>
               <div class="project-media">
                 <img src="{{ base_path }}/images/sparse-activation.png" alt="Attribution-based Sparse Activation">
               </div>
@@ -161,7 +161,7 @@ title: "About Me"
         <table class="pub-table">
           <tr>
             <td class="media-col">
-              <span class="conference-badge top-venue">EMNLP 2025</span>
+              <span class="conference-badge venue-emnlp">EMNLP 2025</span>
               <div class="project-media">
                 <img src="{{ base_path }}/images/figex.png" alt="FigEx">
               </div>
@@ -188,7 +188,7 @@ title: "About Me"
         <table class="pub-table">
           <tr>
             <td class="media-col">
-              <span class="conference-badge">bioRxiv</span>
+              <span class="conference-badge venue-biorxiv">bioRxiv</span>
               <div class="project-media">
                 <img src="{{ base_path }}/images/spatialytica.png" alt="spatiAlytica">
               </div>
@@ -213,7 +213,7 @@ title: "About Me"
         <table class="pub-table">
           <tr>
             <td class="media-col">
-              <span class="conference-badge">arXiv</span>
+              <span class="conference-badge venue-arxiv">arXiv</span>
               <div class="project-media">
                 <img src="{{ base_path }}/images/aligning-findings.png" alt="Radiology Reporting">
               </div>
