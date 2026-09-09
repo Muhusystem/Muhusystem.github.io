@@ -222,6 +222,10 @@ h2 {
   line-height: 1.7;
 }
 
+.about-section .opportunity-line strong {
+  color: #9B2C2C;
+}
+
 .about-section a {
   color: var(--link-blue);
   text-decoration: none;
