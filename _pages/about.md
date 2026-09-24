@@ -5,52 +5,13 @@ title: "About Me"
 ---
 
 <div class="wrapper">
-  <!-- Navigation -->
-  <nav class="mobile-nav">
-    <ul class="mobile-nav-list">
-      <li class="mobile-nav-item"><a href="#about">About</a></li>
-      <li class="mobile-nav-item"><a href="/publications/">Publications</a></li>
-      <li class="mobile-nav-item"><a href="/talks/">Talks & Posters</a></li>
-    </ul>
-  </nav>
+  {% include homepage-nav.html %}
 
-  <header>
-    <div class="image avatar">
-      <img src="{{ base_path }}/images/jifengsong.JPG" alt="Jifeng Song">
-    </div>
-    <h1>Jifeng Song</h1>
-    <p class="position">Ph.D. Student</p>
-    <email>JIS219[at]pitt.edu</email>
-    
-    <div class="social-icons">
-      <a href="mailto:JIS219@pitt.edu" title="Email">
-        <i class="fas fa-envelope social-icon" aria-hidden="true"></i>
-      </a>
-      <a href="https://scholar.google.com/citations?user=U_c8QM0AAAAJ&hl=en" title="Google Scholar">
-        <i class="ai ai-google-scholar social-icon" aria-hidden="true"></i>
-      </a>
-      <a href="https://github.com/Muhusystem" title="GitHub">
-        <i class="fab fa-github social-icon" aria-hidden="true"></i>
-      </a>
-      <a href="https://www.linkedin.com/in/jifeng-song-51b2971a3" title="LinkedIn">
-        <i class="fab fa-linkedin social-icon" aria-hidden="true"></i>
-      </a>
-    </div>
-    
-    <div class="research-interests">
-      <p>Research Interests:</p>
-      <ul>
-        <li>Multimodal Learning</li>
-        <li>Vision-Language Models</li>
-        <li>AI for Biomedicine</li>
-        <li>Computational Biology</li>
-        <li>Efficient Generative AI</li>
-      </ul>
-    </div>
-  </header>
+  {% include homepage-profile.html %}
 
-  <section>
+  <main id="main-content">
     <div class="about-section" id="about">
+      <p class="research-kicker">AI for biomedicine &amp; scientific discovery</p>
       <h2>About Me</h2>
       <p>
         Hi, I am Jifeng Song, a fourth-year Ph.D. student in Electrical and Computer Engineering at the
@@ -105,7 +66,8 @@ title: "About Me"
     </div>
 
     <div class="publications-section" id="publications">
-      <h2>Selected Publications | <a href="{{ base_path }}/publications/">Full list</a></h2>
+      <div class="section-heading"><h2>Selected Publications</h2><a class="section-link" href="{{ base_path }}/publications/">Full list <span aria-hidden="true">↗</span></a></div>
+      <p class="publication-note"><span><sup>&dagger;</sup> Equal contribution.</span></p>
 
       <div class="project-container">
         <table class="pub-table">
@@ -121,7 +83,7 @@ title: "About Me"
                 <a href="https://arxiv.org/abs/2601.08026">FigEx2: Visual-Conditioned Panel Detection and Captioning for Scientific Compound Figures</a>
               </div>
               <div class="pub-authors">
-                <strong>Jifeng Song</strong>, Arun Das, Pan Wang, Hui Ji, Kun Zhao, Yufei Huang
+                <strong class="author-self">Jifeng Song</strong>, Arun Das, Pan Wang, Hui Ji, Kun Zhao, Yufei Huang
               </div>
               <div class="pub-venue">Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing</div>
               <div class="text-links">
@@ -147,7 +109,7 @@ title: "About Me"
                 <a href="https://proceedings.mlsys.org/paper_files/paper/2026/hash/29591f355702c3f4436991335784b503-Abstract-Conference.html">Attribution-based Sparse Activation in Large Language Models</a>
               </div>
               <div class="pub-authors">
-                <strong>Jifeng Song</strong><sup>&dagger;</sup>, Xiangyu Yin<sup>&dagger;</sup>, Boyuan Yang, Kai Huang, Weichen Liu, Wei Gao (<sup>&dagger;</sup>Equal contribution)
+                <strong class="author-self">Jifeng Song</strong><sup>&dagger;</sup>, Xiangyu Yin<sup>&dagger;</sup>, Boyuan Yang, Kai Huang, Weichen Liu, Wei Gao
               </div>
               <div class="pub-venue">Proceedings of Machine Learning and Systems (MLSys) 2026</div>
               <div class="text-links">
@@ -173,7 +135,7 @@ title: "About Me"
                 <a href="https://aclanthology.org/2025.findings-emnlp.899/">FigEx: Aligned Extraction of Scientific Figures and Captions</a>
               </div>
               <div class="pub-authors">
-                <strong>Jifeng Song</strong>, Arun Das, Ge Cui, Yufei Huang
+                <strong class="author-self">Jifeng Song</strong>, Arun Das, Ge Cui, Yufei Huang
               </div>
               <div class="pub-venue">Findings of the Association for Computational Linguistics: EMNLP 2025</div>
               <div class="text-links">
@@ -200,7 +162,7 @@ title: "About Me"
                 <a href="https://www.biorxiv.org/content/10.64898/2026.04.29.721735v1">spatiAlytica: Viewer-Grounded Multimodal Agentic System for Interactive Spatial Omics Analysis</a>
               </div>
               <div class="pub-authors">
-                Arun Das, Kexun Zhang, <strong>Jifeng Song</strong>, Meiru Han, Angela Chen, Wen Meng, Hugh Galloway, Po-Yuan Chen, Sumin Jo, Zhentao Liu, Md Musaddaqul Hasib, Adam Officer, Harsh Sinha, Yu-Chiao Chiu, Shou-Jiang Gao, Lei Li, Yufei Huang
+                Arun Das, Kexun Zhang, <strong class="author-self">Jifeng Song</strong>, Meiru Han, Angela Chen, Wen Meng, Hugh Galloway, Po-Yuan Chen, Sumin Jo, Zhentao Liu, Md Musaddaqul Hasib, Adam Officer, Harsh Sinha, Yu-Chiao Chiu, Shou-Jiang Gao, Lei Li, Yufei Huang
               </div>
               <div class="pub-venue">bioRxiv preprint 2026</div>
               <div class="text-links">
@@ -225,7 +187,7 @@ title: "About Me"
                 <a href="https://arxiv.org/abs/2601.03321">Aligning Findings with Diagnosis: A Self-Consistent Reinforcement Learning Framework for Trustworthy Radiology Reporting</a>
               </div>
               <div class="pub-authors">
-                Kun Zhao, Siyuan Dai, Pan Wang, <strong>Jifeng Song</strong>, Hui Ji, Chenghua Lin, Liang Zhan, Haoteng Tang
+                Kun Zhao, Siyuan Dai, Pan Wang, <strong class="author-self">Jifeng Song</strong>, Hui Ji, Chenghua Lin, Liang Zhan, Haoteng Tang
               </div>
               <div class="pub-venue">arXiv preprint 2026</div>
               <div class="text-links">
@@ -237,5 +199,5 @@ title: "About Me"
       </div>
     </div>
 
-  </section>
+  </main>
 </div>
