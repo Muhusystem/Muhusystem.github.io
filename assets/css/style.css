@@ -132,9 +132,9 @@ h2 { font: 500 28px/1.3 Georgia, 'Times New Roman', serif; letter-spacing: -0.4p
 }
 .venue-emnlp { --venue-accent: #91522d; --venue-bg: #f7eee4; }
 .venue-mlsys { --venue-accent: #204b68; --venue-bg: #d7e6ef; border-left-color: #315e7a; }
-.venue-wind-energy { --venue-accent: #3f5b70; --venue-bg: #edf3f7; }
-.venue-ieee { --venue-accent: #315365; --venue-bg: #eaf1f3; }
-.venue-biorxiv, .venue-arxiv, .venue-research-square { --venue-accent: #344551; --venue-bg: #dce2e7; }
+.venue-wind-energy { --venue-accent: #304d62; --venue-bg: #cddfe9; }
+.venue-ieee { --venue-accent: #254961; --venue-bg: #cddde9; }
+.venue-biorxiv, .venue-arxiv, .venue-research-square { --venue-accent: #455561; --venue-bg: #e8edf1; }
 .pub-title { margin: 0 0 4px; font-size: 16px; line-height: 1.4; font-weight: 650; }
 .pub-title a { color: var(--accent-hover); }
 .pub-title a:hover { color: var(--accent); text-decoration: underline; text-underline-offset: 3px; }
