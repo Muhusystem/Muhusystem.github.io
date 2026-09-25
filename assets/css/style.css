@@ -131,7 +131,7 @@ h2 { font: 500 28px/1.3 Georgia, 'Times New Roman', serif; letter-spacing: -0.4p
   text-align: center;
 }
 .venue-emnlp { --venue-accent: #91522d; --venue-bg: #f7eee4; }
-.venue-mlsys { --venue-accent: #ffffff; --venue-bg: #245578; border-left-color: #163b57; }
+.venue-mlsys { --venue-accent: #204b68; --venue-bg: #d7e6ef; border-left-color: #315e7a; }
 .venue-wind-energy { --venue-accent: #3f5b70; --venue-bg: #edf3f7; }
 .venue-ieee { --venue-accent: #315365; --venue-bg: #eaf1f3; }
 .venue-biorxiv, .venue-arxiv, .venue-research-square { --venue-accent: #405562; --venue-bg: #f0f3f5; }
