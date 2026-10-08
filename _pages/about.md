@@ -73,31 +73,6 @@ title: "About Me"
         <table class="pub-table">
           <tr>
             <td class="media-col">
-              <span class="conference-badge venue-patterns">Patterns 2026</span>
-              <div class="project-media">
-                <img src="{{ base_path }}/images/exhyte-framework.png" alt="EXHYTE Framework">
-              </div>
-            </td>
-            <td class="content-col">
-              <div class="pub-title">
-                <a href="https://www.cell.com/patterns/fulltext/S2666-3899(26)00169-8">Unifying AI-assisted scientific discovery around exploration, hypothesis generation, and testing</a>
-              </div>
-              <div class="pub-authors">
-                Md Musaddaqul Hasib, Sumin Jo, Harsh Sinha, <strong class="author-self">Jifeng Song</strong>, Arun Das, Zhentao Liu, Hugh Galloway, Huey Huang, Kexun Zhang, Shou-Jiang Gao, Yu-Chiao Chiu, Lei Li, Yufei Huang
-              </div>
-              <div class="pub-venue">Patterns, 2026</div>
-              <div class="text-links">
-                <a href="https://www.cell.com/patterns/fulltext/S2666-3899(26)00169-8" class="text-btn">Paper</a>
-              </div>
-            </td>
-          </tr>
-        </table>
-      </div>
-
-      <div class="project-container">
-        <table class="pub-table">
-          <tr>
-            <td class="media-col">
               <span class="conference-badge venue-emnlp">EMNLP 2026</span>
               <div class="project-media">
                 <img src="{{ base_path }}/images/figex2.png" alt="FigEx2">
@@ -167,6 +142,31 @@ title: "About Me"
                 <a href="https://aclanthology.org/2025.findings-emnlp.899/" class="text-btn">Paper</a>
                 <a href="https://github.com/Huang-AI4Medicine-Lab/FigEx" class="text-btn">Code</a>
                 <a href="https://huggingface.co/datasets/Huang-AI4Medicine-Lab/BioSci-Fig" class="text-btn">Dataset</a>
+              </div>
+            </td>
+          </tr>
+        </table>
+      </div>
+
+      <div class="project-container">
+        <table class="pub-table">
+          <tr>
+            <td class="media-col">
+              <span class="conference-badge venue-patterns">Patterns 2026</span>
+              <div class="project-media">
+                <img src="{{ base_path }}/images/exhyte-framework.png" alt="EXHYTE Framework">
+              </div>
+            </td>
+            <td class="content-col">
+              <div class="pub-title">
+                <a href="https://www.cell.com/patterns/fulltext/S2666-3899(26)00169-8">Unifying AI-assisted scientific discovery around exploration, hypothesis generation, and testing</a>
+              </div>
+              <div class="pub-authors">
+                Md Musaddaqul Hasib, Sumin Jo, Harsh Sinha, <strong class="author-self">Jifeng Song</strong>, Arun Das, Zhentao Liu, Hugh Galloway, Huey Huang, Kexun Zhang, Shou-Jiang Gao, Yu-Chiao Chiu, Lei Li, Yufei Huang
+              </div>
+              <div class="pub-venue">Patterns, 2026</div>
+              <div class="text-links">
+                <a href="https://www.cell.com/patterns/fulltext/S2666-3899(26)00169-8" class="text-btn">Paper</a>
               </div>
             </td>
           </tr>
