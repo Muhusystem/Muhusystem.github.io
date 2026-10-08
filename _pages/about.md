@@ -35,6 +35,10 @@ title: "About Me"
       <h2>News</h2>
       <ul class="news-list">
         <li>
+          <strong>[09/2026]</strong>
+          <span class="news-content">🎉 Paper published in <strong>Patterns</strong>: <a href="https://www.cell.com/patterns/fulltext/S2666-3899(26)00169-8">Unifying AI-assisted scientific discovery around exploration, hypothesis generation, and testing</a>.</span>
+        </li>
+        <li>
           <strong>[08/2026]</strong>
           <span class="news-content">🎉 Paper accepted to <strong>EMNLP Main</strong>: <a href="https://arxiv.org/abs/2601.08026">FigEx2: Visual-Conditioned Panel Detection and Captioning for Scientific Compound Figures</a>.</span>
         </li>
@@ -51,10 +55,6 @@ title: "About Me"
           <span class="news-content">New preprint: <a href="https://arxiv.org/abs/2601.03321">Aligning Findings with Diagnosis</a>.</span>
         </li>
         <li>
-          <strong>[12/2025]</strong>
-          <span class="news-content">New preprint: <a href="https://doi.org/10.21203/rs.3.rs-8370059/v1">A Process-Centric Survey of AI for Scientific Discovery</a>.</span>
-        </li>
-        <li>
           <strong>[08/2025]</strong>
           <span class="news-content">🎉 Paper accepted to <strong>EMNLP Findings</strong>: <a href="https://aclanthology.org/2025.findings-emnlp.899/">FigEx: Aligned Extraction of Scientific Figures and Captions</a>.</span>
         </li>
@@ -68,6 +68,31 @@ title: "About Me"
     <div class="publications-section" id="publications">
       <div class="section-heading"><h2>Selected Publications</h2><a class="section-link" href="{{ base_path }}/publications/">Full list <span aria-hidden="true">↗</span></a></div>
       <p class="publication-note"><span><sup>&dagger;</sup> Equal contribution.</span></p>
+
+      <div class="project-container">
+        <table class="pub-table">
+          <tr>
+            <td class="media-col">
+              <span class="conference-badge venue-patterns">Patterns 2026</span>
+              <div class="project-media">
+                <img src="{{ base_path }}/images/exhyte-framework.png" alt="EXHYTE Framework">
+              </div>
+            </td>
+            <td class="content-col">
+              <div class="pub-title">
+                <a href="https://www.cell.com/patterns/fulltext/S2666-3899(26)00169-8">Unifying AI-assisted scientific discovery around exploration, hypothesis generation, and testing</a>
+              </div>
+              <div class="pub-authors">
+                Md Musaddaqul Hasib, Sumin Jo, Harsh Sinha, <strong class="author-self">Jifeng Song</strong>, Arun Das, Zhentao Liu, Hugh Galloway, Huey Huang, Kexun Zhang, Shou-Jiang Gao, Yu-Chiao Chiu, Lei Li, Yufei Huang
+              </div>
+              <div class="pub-venue">Patterns, 2026</div>
+              <div class="text-links">
+                <a href="https://www.cell.com/patterns/fulltext/S2666-3899(26)00169-8" class="text-btn">Paper</a>
+              </div>
+            </td>
+          </tr>
+        </table>
+      </div>
 
       <div class="project-container">
         <table class="pub-table">

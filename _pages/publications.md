@@ -18,6 +18,31 @@ permalink: /publications/
         <table class="pub-table">
           <tr>
             <td class="media-col">
+              <span class="conference-badge venue-patterns">Patterns 2026</span>
+              <div class="project-media">
+                <img src="{{ base_path }}/images/exhyte-framework.png" alt="EXHYTE Framework">
+              </div>
+            </td>
+            <td class="content-col">
+              <div class="pub-title">
+                <a href="https://www.cell.com/patterns/fulltext/S2666-3899(26)00169-8">Unifying AI-assisted scientific discovery around exploration, hypothesis generation, and testing</a>
+              </div>
+              <div class="pub-authors">
+                Md Musaddaqul Hasib, Sumin Jo, Harsh Sinha, <strong class="author-self">Jifeng Song</strong>, Arun Das, Zhentao Liu, Hugh Galloway, Huey Huang, Kexun Zhang, Shou-Jiang Gao, Yu-Chiao Chiu, Lei Li, Yufei Huang
+              </div>
+              <div class="pub-venue">Patterns, 2026</div>
+              <div class="text-links">
+                <a href="https://www.cell.com/patterns/fulltext/S2666-3899(26)00169-8" class="text-btn">Paper</a>
+              </div>
+            </td>
+          </tr>
+        </table>
+      </div>
+
+      <div class="project-container">
+        <table class="pub-table">
+          <tr>
+            <td class="media-col">
               <span class="conference-badge venue-emnlp">EMNLP 2026</span>
               <div class="project-media">
                 <img src="{{ base_path }}/images/figex2.png" alt="FigEx2">
@@ -110,31 +135,6 @@ permalink: /publications/
               <div class="pub-venue">arXiv preprint 2026</div>
               <div class="text-links">
                 <a href="https://arxiv.org/abs/2601.03321" class="text-btn">Paper</a>
-              </div>
-            </td>
-          </tr>
-        </table>
-      </div>
-
-      <div class="project-container">
-        <table class="pub-table">
-          <tr>
-            <td class="media-col">
-              <span class="conference-badge venue-research-square">Res Sq</span>
-              <div class="project-media">
-                <img src="{{ base_path }}/images/exhyte-framework.png" alt="EXHYTE Framework">
-              </div>
-            </td>
-            <td class="content-col">
-              <div class="pub-title">
-                <a href="https://doi.org/10.21203/rs.3.rs-8370059/v1">A Process-Centric Survey of AI for Scientific Discovery Through the EXHYTE Framework</a>
-              </div>
-              <div class="pub-authors">
-                Md Musaddaqul Hasib, Sumin Jo, Harsh Sinha, <strong class="author-self">Jifeng Song</strong>, Arun Das, Zhentao Liu, Hugh Galloway, Huey Huang, Kexun Zhang, Shou-Jiang Gao, Yu-Chiao Chiu, Lei Li, Yufei Huang
-              </div>
-              <div class="pub-venue">Research Square preprint 2025</div>
-              <div class="text-links">
-                <a href="https://doi.org/10.21203/rs.3.rs-8370059/v1" class="text-btn">Paper</a>
               </div>
             </td>
           </tr>
