@@ -18,7 +18,7 @@ permalink: /publications/
         <table class="pub-table">
           <tr>
             <td class="media-col">
-              <span class="conference-badge venue-patterns">Patterns 2026</span>
+              <span class="conference-badge venue-patterns">Patterns</span>
               <div class="project-media">
                 <img src="{{ base_path }}/images/exhyte-framework.png" alt="EXHYTE Framework">
               </div>
